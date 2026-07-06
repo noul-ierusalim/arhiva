@@ -31,3 +31,45 @@ Iubiţii mei, va veni bucuria cea adevărată şi nu vor mai fi ochi care încă
 Pace unsului României! Pace inimii lui îndurerate, căci este plină de durere inima lui! [/legatura_la_teme]
 
 Pace peste voi toţi, şi peste lucrul Domnului de la voi! Hristos a înviat! Adevărat a înviat! Amin, amin, amin.
+
+***
+
+[legatura_la_teme id_capitol="4" id_subcapitol="5"]Se coboară cuvânt din cer şi se scrie pe pământ cuvântul ceresc. Iată zilele cerului, şi cântă cerul în ziua aceasta, cântă peste România, cântă şi se preamăreşte cerul pe pământul României. Stau proorocii şi sfinţii şi îngerii şi cântă suita cerească:
+
+„Mântuieşte, Doamne, pe român, poporul Tău,
+
+Şi binecuvintează moştenirea cea nouă a Ta.
+
+Biruinţă binecredinciosului, al poporului Tău rege, asupra celui potrivnic dăruieşte
+
+Şi cu crucea Ta păzeşte poporul şi pe unsul poporului Tău!”.
+
+„O, Doamne Sfinte, ceresc Părinte,
+
+Susţine cu a Ta mână coroana română,
+
+Susţine cu a Ta mână ţara regină română!”.
+
+Hristos a înviat, rege al României! Bun venit, iubitul Meu! Hristos a înviat, Mihail al României Mele! Aşa este numele tău: Mihail al României, iar România este a lui Dumnezeu, dimpreună cu poporul ei cel binecredincios şi cu regele ei cel uns de Dumnezeu.
+
+Eu sunt; Eu, Cel ce am înviat din moarte în vremea trupului Meu după ce trupul Meu a căzut pe cruce. Eu sunt, iubitul Meu. O, eşti plin de bucurie îndurerată, eşti plin de durere, preaiubitul Meu, dar vine, tată, vremea ta, vine, dar Eu îţi spun că a şi venit. Vin zorile Ierusalimului cel nou peste România, dar Eu îţi spun că au şi venit. Vor veni prooroci şi magi de la mari depărtări ca să vadă lucrul Duhului Sfânt, Care lucrează şi Se vede lucrând peste România. Dar Eu îţi spun că au şi venit ca să întrebe şi să se bucure de împlinirile cele noi.
+
+Iată, iubitul Meu, rostesc cuvânt la ieslea cuvântului Meu şi ai fost purtat spre Mine prin rugăciunile cele de aici. Am aici pe micuţii Mei, şi fericit cel ce primeşte pe aceşti micuţi ai Mei, căci pe Mine Mă primeşte acela. [/legatura_la_teme]
+
+Am adus la locul ei poarta Domnului; am adus-o, preaiubitul Meu, prin minuni am adus-o, căci duhul rău cunoştea taina ei şi pusese stăpânire peste ea şi blestem peste ea, dar am adus-o prin credinţa şi lucrarea celui ce o cântă pe România, celui ce-i cântă României cântarea cântărilor. Am adus-o. L-am trimis prin cuvânt şi a ridicat poarta Domnului, poarta prin care vei intra tu cu glorie, preaiubitul Meu. Aşa este scris în Scripturi, că *«aceasta se va numi poarta Domnului şi va intra pe ea Domnul, şi va intra pe ea regele celei binecuvântate».* Este scris despre această cetate care străjuieşte prin înălţimea ei cerească peste cetatea Ierusalimului nou, care se coboară de la Dumnezeu. Aşa este scris, că ea se va numi cu numele Domnului şi i se va spune: *„Acolo este Domnul”.* Proorocii care au scris această Scriptură saltă şi se bucură întru cele cereşti. Bucură-te şi tu! Eu voi lucra curând, că iată că am atâţia care nu şi-au plecat grumajii în faţa lui Baal.
+
+Pace ţie, că este obosită inimioara ta! Nu te teme, nu te îndoi! Eu sunt; Eu, şi servii Mei; Eu, şi trimişii Mei; Eu, şi uneltele Mele. Binecuvântată să-ţi fie intrarea în Ierusalimul Meu cel nou! Căci aşa am spus despre România, şi cele rostite nu se pot schimba, şi vin spre împlinire.
+
+O, plânge biserica Mea cea ascunsă încă. Plânge sub apăsarea necredinţei cărturarilor şi a fariseilor şi a arhiereilor din vremea aceasta, căci aceştia, ca şi cei de atunci, nu cunosc vremea cercetării. Am ridicat piatra cea de mărturie a lucrării lui Dumnezeu Cuvântul, Care a lucrat şi lucrează întru Duhul Sfânt de aproape patruzeci de ani. Am ridicat-o, şi nu este lucrătură ca aceasta pe pământ, căci această înălţime cerească nu se tâlcuieşte pământeşte, iubitul Meu. Am pe îngerul bisericii Mele care a fost trimis spre tine cu solia Mea, cu vestea Mea cea bună. îl am tare întru această taină, şi va fi să te mărturisească atunci când vom dezveli piatra care va străjui la poarta de intrare în această cetate cerească, coborâtă în mijlocul României. Eşti scris pe piatra aceasta, căci aşa a fost cuvântul Meu, iar cei ce au ridicat această înălţime cerească au lucrat în numele Meu şi în numele tău, şi va fi să vii prin puterea Mea. întăreşte-te şi te încinge întru puterea cea de la Mine şi lucrează cu înţelepciunea Mea şi cu viaţa Mea întru viaţa ta, căci avem de înviat pe România. Copiii Mei de aici nu au a se teme. Ei se bizuie pe făgăduinţele Mele. Aşa şi tu, preaiubitul Meu, şi vei fi iarăşi la locul tău. Amin.
+
+O, ţipă antichrist şi duhul rău, ţipă şi se vaită şi se zbate, căci din ziua când am ridicat crucea biruinţei, semnul Fiului Domnului în vârful acestei înălţimi cereşti, de atunci nu-şi mai găseşte astâmpăr vrăjmaşul cel din veac. Dar am lucrat cu înţelepciunea cea cerească întru aceşti micuţi şi am biruit şi s-a arătat această lucrătură şi va fi spre judecata celor ce se cred a fi stăpâni şi tari prin puterea lor, şi se va citi în curând Scriptura aceea care spune: *«Unde este înţeleptul şi cărturarul acestei vremi?».* Această taină este cerească, şi numai cei cu viaţa cerească vor pricepe aceasta, iar cei fără de lege nu vor putea pricepe lucrul Domnului.
+
+Iat-o pe România! Te cântă România, iubitul Meu. Cântă România cântarea regelui ei şi se bucură România cea credincioasă, iar cea necredincioasă nu va mai rămâne în faţa Mea şi în faţa ta dacă nu va veni spre pocăinţă, căci Eu sunt un Dumnezeu gelos, iubitul Meu, şi voiesc ca acest Canaan să fie din cer şi nu de pe pământ; să fie cer şi nu pământ; să fie sfinţenie şi nu fărădelege.
+
+Pace ţie! Pace regelui României! Pace, şi îmbrăţişarea Măicuţei Mele să te cuprindă pe tine, şi pe regina ta, şi pe mlădiţa ta, care va sta de-a dreapta ta. Pace vouă, şi bucuraţi-vă! Este cea mai mare sărbătoare, şi este îndoită pe pământul României. România cântă pe Hristos, cântă *„Hristos a înviat!”* şi cântă cântarea regelui celei binecuvântate între popoare.
+
+Hristos a înviat! Binecuvântată să-ţi fie intrarea şi ieşirea. Binecuvântată să-ţi fie întoarcerea ta acasă, căci se apropie de la Dumnezeu. Am spus că voi ieşi înaintea ta prin lucrătura cea de aici, de la gura izvorului cuvântului Meu. Am spus, şi voi ieşi, în curând voi ieşi înaintea ta.
+
+Pace ţie, Mihail al României! Pacea Mea să fie cu tine şi prin tine, rege al celei binecuvântate pentru vremea gloriei Domnului şi a celor ce umblă cu Domnul. Eu sunt cu tine, iubitul Meu, şi va învia bucuria ta, şi viaţa ta cea cu durere vine spre bucurie. Iată, Eu vin curând cu bucuria cea cerească. Amin.
+
+Hristos a înviat! în toată ziua să-ţi cânte în inimă această slavă cerească, rege al României. Amin, amin, amin.

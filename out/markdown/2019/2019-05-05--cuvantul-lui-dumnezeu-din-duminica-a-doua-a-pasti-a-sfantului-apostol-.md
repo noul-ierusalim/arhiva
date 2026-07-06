@@ -37,3 +37,55 @@ O, aveți grijă de dor și de credință cu dor, și fără de astâmpăr să-L
 Și stați în așteptare voi acum ca să deschideți, că vom veni cu Domnul la voi și ne vom da mângâieri, iar mângâierile se vor revărsa peste toți cei ce pornesc să se adune la serbarea Noastră cu Domnul și cu voi la praznic de înviere aici, pe pământul Domnului, aici, acasă, că vine Domnul la voi și are casă la voi și are cină cu voi și Se arată vouă așa cum El a făgăduit celor ce cred în El, o, fiilor frați. Amin.
 
 — O, fiilor, fiilor care Mă primiți cu sfinții la voi, o, fiilor, așa este, dorul este românesc, dorul și doina lui, așa cum spune poetul român când spune:
+
+Ai Tăi suntem! Străinii
+
+Te-ar pierde de-ar putea,
+
+Dar când te-ar pierde, Doino,
+
+ai cui am rămânea?
+
+Să nu ne lași, iubito,
+
+de dragul tău trăim.
+
+Săraci suntem cu toții,
+
+săraci, dar te iubim.
+
+Rămâi, că ne ești doamnă,
+
+și lege-i al tău glas.
+
+Învață-ne să plângem,
+
+c-atât ne-a mai rămas!
+
+O, fiilor, Eu, Domnul Dumnezeul vostru, Eu cu atât am mai rămas, cu dorul după om și cu doinitul lui, cu plânsul cel de dor. Plâng sfinții cu Mine, plângem de dor, și dorul se face cuvânt cu dor în el și-Mi plânge doina în el.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Măi fiilor, mâine are zi de amintire mucenicul Gheorghe, și de dor plin stă cu rândul aproape să intre cu Mine în carte, de dor stă, de dor stă să intre la poporul Meu cu Mine, iar Eu, Domnul, îi dau astăzi rând, ca să nu vă ostenesc și mâine pe voi, și iată-l în cuvânt pentru ziua lui între cei din cer!
+
+O, hai, copil iubit, stinge-ți dorul cu care aștepți.
+
+— Miluința Ta, Doamne bun, e tot o mângâiere în cer și pe pământ, și voiesc să așez și eu dorul meu de Tine în fiii și fiicele cuvântului Tău de azi cu ei, și le spun lor: dorul îl ține în viață pe om, o, fii și fiice ale Mirelui nostru, Domnul Cel scump al celor cu dorul în ei după El. Dorul de El și de veșnicia mea cu El m-a ținut tare, ca să nu mă pierd de El mai înainte de a ajunge la capăt cu mersul meu prin viață pe pământ.
+
+O, nu este ceva mai cu putere, mai cu biruință ca și dorul de Domnul când ești creștin, cu adevărat creștin. Ce să facă Domnul cu creștinii care nu iubesc, care n-au dorul fără de astâmpăr în ei după veșnicii? Dorul este veșnic, e viața cea care nu moare în om, și care se ține după el în veșnicii apoi, o, fii iubiți ai cerului. [/legatura_la_teme]
+
+O, sculați-vă cu dor și cu pace de sus în voi și gătiți-I acum Domnului serbare și dor cu serbare, că vine Domnul la voi în duminica ce urmează și vine înviind în cuvânt și dorind cu dorul Lui după dorul din om, pe care voi să-l creșteți și să-l așezați în oameni, fiilor.
+
+Și duhul mângâierii dintre Domnul și oameni, acesta să se împlinească, și cât mai curând, că dorul arde în cer, o, și cât ar vrea Domnul să se aprindă acest dor în cei de pe pământ, fiilor!
+
+Iar Ție, Doamne, cu aplecare mare Îți mulțumesc pentru mângâiere, și plin de dor mă alin acum în cer, că am stat cu Tine la masă, cu ucenicii Tăi de azi cu Tine și cu ei, cu cei care Ne împart pe Noi, o, Doamne mângâios.
+
+— O, fiilor, câtă măreție între Mine și voi, o, câtă! Aveți voi această măreață simțire în voi, măi fiilor? O, învățați tot mai desăvârșit să fiți ca Domnul, ca toți cei din cer pentru simțămintele din voi, fiilor.
+
+Și binecuvântare iar și iar așez peste voi, și între voi și voi, ca să lucrați cu ea ca în cer gătirea sărbătorii care vine să se așeze aici, și pe care o vom purta în amintire, fiilor.
+
+O, pace vouă pentru lucrul vostru cu Mine, fiilor!
+
+Și pace multă și călătorie cu binecuvântare peste cei ce se adună la izvor cu dor și cu sărbătoare aici, fiilor!
+
+Voi, cei ce-Mi stați porți ca să intru în cetate, o, stați între Mine și popor ca să fie frumos tot fiul acestui cuvânt, care crește pe cei ce merg cu Domnul pe cale. O, nimeni să nu vă pună pieziș în inimă pe voi, căci voi stați înaintea Mea, fiilor. Numai dorul cel sfânt să-l aibă în ei fiii cuvântului Meu, numai dorul, fiilor.
+
+O, pace vouă! Iarăși pace vouă în lucrul cel pentru așezarea așternutului aici cu zi de praznic de înviere, zi de mângâiere, de dor și de mângâiere, o, fiilor!

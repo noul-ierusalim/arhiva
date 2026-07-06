@@ -127,12 +127,16 @@ def extract_document(html_text):
     audio = html.unescape(am.group(1)) if am else ""
 
     # Body: content of the <font size="4"> wrapper that follows the <h1>,
-    # stopping at the footer (the right-aligned date div / niro logo block).
+    # stopping at the footer, which every page marks with the right-aligned
+    # date div (`<div align="right">DD-MM-YYYY…</div>`) just before the niro
+    # logo. We must NOT cut at the first <center>: some messages are split into
+    # parts ("Partea a doua") whose sub-headings are centered mid-document, so
+    # a <center> can appear well inside the real body (e.g. cheie=1130).
     start = html_text.find('<font size="4"')
     body_html = ""
     if start != -1:
         start = html_text.index(">", start) + 1
-        foot = re.search(r'<div align="right"|<center\b', html_text[start:])
+        foot = re.search(r'<div align="right"', html_text[start:])
         end = start + foot.start() if foot else html_text.find("</font>", start)
         body_html = html_text[start:end if end != -1 else None]
 

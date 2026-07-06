@@ -57,3 +57,7 @@ Pentru toată frumusețea care va vorbi aici, pace vouă, măi fiilor!
 Iar pentru armonia cea sfântă în toată vremea între voi, între Mine și voi, între voi și Mine, o, de trei ori pace vouă, pace vouă, pace vouă, fiilor!
 
 Rămân lângă voi. Țineți-Mă lângă voi! Stați sub mâna Mea de Păstor! Învățați să primiți călăuzirea Mea prin cei unși din partea Mea peste voi și pentru voi. Ei sunt cuvântul Meu peste voi, o, fiilor. Amin, amin, amin.
+
+***
+
+Primiți acum de lângă Mine binecuvântarea împăraților creștini Constantin și Elena și veghea lor peste voi și dorul lor de voi, căci în ziua de mâine au între cei din cer serbarea lor, și au venit și ei acum cu Mine să se scrie în cartea Mea pentru serbarea lor, iar voi să-i aveți la masă cu voi pe ei, căci sfinții Mei doresc după voi, fiilor, mereu, mereu doresc pentru voi și cu voi și după voi. Amin.

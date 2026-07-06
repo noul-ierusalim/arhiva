@@ -49,3 +49,13 @@ Așez numele Meu când Îmi sfârșesc grăirea.
 Iisus Hristos, Cuvântul lui Dumnezeu. Amin.
 
 [/legatura_la_teme]
+
+***
+
+Și acum, fii ai cuvântului Meu care vă crește pe voi ca să fiți voi pârgă de credință și de iubire de Dumnezeu în mijlocul neamului român, o, împărțiți-Mă românilor, măi fiilor, ca să fie ei români ca și voi, că nu toți românii știu să fie români, nu toți românii sunt români, căci ca să fii român trebuie să iubești și să fii blând și bun, și trebuie să ierți și să vindeci, și trebuie să-ți aperi glia și credința și străbunii, o, fiilor.
+
+Iată, în zi de praznic de Înălțare a Mea la Tatăl am venit cuvânt pe pământ și am grăit neamului român, ca nu cumva să adoarmă el când trebuie întețită veghea tot mai mult și mai mult, căci trebuie acest neam să arate neamurilor de pe pământ vitejia lui și credința lui în Dumnezeul lui, și apoi iubirea de țară, o, fiilor, mai ales că țara lui este tărâmul pe care Eu Îmi așez cuvântul celei de a doua veniri ca să-l călăuzesc pe el spre ziua slavei Mele și să găsească neamurile pământului calea, pe care îi strig spre izbăvirea lor, căci Eu sunt Calea, precum este scris, și nu este ea cea pe care oamenii de rea credință dau s-o înființeze înaintea oamenilor și să-i rătăcească pe toți de Dumnezeu, de Cel ce a făcut cerul și pământul și omul.
+
+Acum, fiilor, grăbiți-vă, o, grăbiți-vă cu pregătire mare și dulce pentru praznicul de Rusalii, fiilor, că peste zece zile sărbătorim acest praznic și ridicăm încă o carte, încă o tablă a legii sfinte între cer și pământ. Și precum lui Moise i-am dat tablele legii să le aducă lui Israel, așa v-am dat Eu vouă cartea cuvântului Meu s-o așezați pe pământ și să se împartă ea cu voia Mea din ea, și să se vadă în ea Dumnezeu și calea Lui între oameni.
+
+Voiesc să scap de duhul minciunii neamul român, o, fiilor, căci cei ce stăpânesc peste el sunt servii duhului minciunii, iar tatăl minciunii este diavolul. Așadar, împărțiți peste acest neam în această zi cuvântul strigării Mele, iar Eu voi face să aibă rod cuvântul Meu, iar la sărbătoarea Rusaliilor iar și iar voi grăi și voi striga iarăși trezire la veghe peste neamul român, și în ziua aceea Mă voi bucura cu voi, fiilor, și cu cei ce vor veni la izvor, și voi revărsa prin Duhul Sfânt duh de bucurie și de veselie cu voi, și cu cei din cer la voi, și unii altora ne vom da bucurii, și ce frumos va fi, fiilor, o, ce frumos, așa cum Eu, Domnul, v-am făgăduit vouă, dar aveți de lucrat acum lângă Mine pentru ziua aceea și pentru slava ei, slava Duhului Sfânt, o, fiilor. Amin, amin, amin.
