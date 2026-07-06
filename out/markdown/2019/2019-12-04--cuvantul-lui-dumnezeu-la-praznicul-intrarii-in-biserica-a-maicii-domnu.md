@@ -1,0 +1,53 @@
+---
+title: "Cuvântul lui Dumnezeu la Praznicul Intrării în biserică a Maicii Domnului"
+date: 2019-12-04
+year: 2019
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1489
+cheie: 1489
+audio: https://noul-ierusalim.ro/audio/1489.mp3
+audio_file: 19.12.04.mp3
+---
+
+Poporul Meu, o, măi poporul Meu, o, fiule, vine Domnul spre tine cu slava cuvântului Său, că e praznic împărătesc în ziua aceasta. [legatura_la_teme id_capitol="6" id_subcapitol="3"]Pun masă de praznic pentru tine și vin să te adun și să-ți dau din gura Mea, căci Duhul Meu te adună și vine spre tine și-ți dă din Dumnezeu și te învață să te înfierbânți cu duhul, și nicidecum să te răcești de Dumnezeu, iar tu întărește-ți frica de Dumnezeu, că ea nu te lasă să cazi de la Mine spre tine, nu te lasă să calci peste cuvântul Meu cel pentru tine, și iată, îți amintesc că Domnul Își găsește plăcerea în cei ce tremură la cuvântul Lui, precum este scris, și aceia se tem să-l calce, iar Eu stau cu lărgime întru ei și-Mi tot lucrez lucrarea Mea prin ei. [/legatura_la_teme]
+
+Cât despre cei ce nu se tem de Dumnezeu, călcând ei peste cuvântul Meu, n-am ce să mai spun pentru aceștia. N-am putut și nu pot peste ei și întru ei, căci sunt în ei cu alegerea lor, ca și cei ce au călcat peste statul lor cu mersul Meu cel de azi, că mai degrabă strigi la un mort din drum să se scoale, și el te ascultă și înviază și se ridică, dar la unul căruia îi moare temerea de Dumnezeu zadarnic mai strigi, zadarnic îl mai îndemni, că el nu mai ascultă, nu mai poate să-și lase nepăsarea de suflet de peste el și-și face curaj pentru felul cum își alege el să-și ducă traiul vieții pe aici, căci s-a clătinat cu credința că așa a voit, așa a ales să facă.
+
+Sunt pildă rea cei ce s-au clătinat și s-au desprins de mersul Meu de azi cu poporul Meu de azi. O, că n-au voit aceia să stea sub grija Mea de ei ca niște copii și să păstreze pentru ei împărăția Mea, așa cum am promis-o Eu celor ce rămân sau devin copii și moștenitorii ei apoi.
+
+Iar tu, mama Mea Fecioară, ești pildă pentru tot neamul omenesc, care te cântă și care nu te cântă, căci dacă nu știu oamenii să fie ca tine, copii mereu ai lui Dumnezeu, tot una sunt și cei ce te cântă și cei ce nu te cântă, că pilda ta nu ți-o urmează, nu se dau lui Dumnezeu nici de prunci, nici după ce cresc în trup și sunt în stare de multe, zic ei, iar tu ești tot o milă pentru cei ce nu caută după Dumnezeu pe pământ.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Dar în ziua aceasta sunt aici, în cetatea cuvântului Meu cu praznic împărătesc pentru tine, pruncă împărăteasă, dată de mică lui Dumnezeu în ziua aceea de demult, și peste care au trecut mai bine de două mii de ani, și a rămas ea sărbătoare pentru tine la creștini și ești pildă măreață pentru tot omul, mama Mea. Iar cine vrea să știe cum trebuie să fie viața omului pe pământ, iată pilda, iat-o față în față cu tot omul, și care-și poate alege viața cu sau fără Dumnezeu pe pământ.
+
+*— O, copilul meu Iisus Hristos, o, și Tu, și Tu ai fost la fel, copil ai venit pe lume și copil ai trăit și copil ai rămas, și aceasta prin ascultare, Fiule scump. Am fost Cei ce am ascultat și când Ne-a fost ușor și când Ne-a fost greu, căci ascultarea nu alege, ci ascultă și atât.* [/legatura_la_teme]
+
+Iar acum ești cu lucrare mare și multă venit pe pământ în cuvânt, o, și de mai bine de șaizeci de ani lucrezi cu cuvântul ca să-Ți zidești un popor ascultător ca și Noi înaintea Tatălui Nostru, dar n-ai găsit statornicie sfântă și duh de copil în cei mulți care Te-au aflat și s-au apropiat de Duhul cuvântului Tău, Care învață și cheamă și așteaptă apoi rod, Fiule scump.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]*O, Doamne Fiule, mulți se culcă pe urechea că nu toți trebuie să fie și să facă așa cum am fost și am făcut Noi, și aceasta zic pentru că au ales să fie mai mari decât Noi și liberi de Dumnezeu, ca și cei dintâi așezați de Tine în rai, și care n-au voit să asculte și să se păzească de cădere din rai, și au rămas ei cu ceea ce și-au ales să facă și să fie, dacă nu le-a plăcut să fie copii* [/legatura_la_teme]și să aibă părinți, că în loc să-L știe de Tată pe Dumnezeu L-au știut de Stăpân și nu le-a convenit să stea sub supunere, ci le-a plăcut mai mari să fie ca Dumnezeu Tatăl, Fiul și Duhul Sfânt, și aceasta pentru că au pierdut înțelepciunea după ce au luat cu neascultare și au mâncat din pomul cunoștinței ca să moară ei, o, și toți oamenii care au pretenție că au cunoștință multă și în toate, toți pățesc așa, toți își pierd cunoștința și nu mai știu că au de Tată pe Dumnezeu și trăiesc toți de capul lor, după capul celui întâi zidit între oameni, și care și-a ales capul lui, respingându-L pe Dumnezeu de peste el și temându-se de El ca de un Stăpân rău.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]*Noi însă am venit acum două mii de ani pe pământ născuți, întâi eu, și apoi Tu, Fiule al meu, o, și amândoi am arătat ce trebuie și ce nu trebuie să facă omul care se naște pe pământ, că trebuie să asculte apoi așa cum Noi am ascultat, iar Tu și în moarte pe cruce ai ascultat atâta de dumnezeiește, atâta de măreț, o, copil îndurerat mereu în cer, și apoi pe pământ, și apoi iarăși lângă Tatăl în cer, și tot mereu îndurerat din vecii și până în vecii, copil al durerii născute pentru Noi din omul neascultător de Tatăl, și nu e omul decât o durere pentru Noi, dacă altfel de minte nu are, o, și cum să aibă când el a călcat peste cuvântul lui Dumnezeu și a luat să mănânce din pomul oprit ca să fie deștept și să se dea deștept apoi, așa cum se și dă tot omul care nu poate să se dea lui Dumnezeu ca un copil și să aibă Tată și să aibă îngrijire ca un copil, căci pilda Noastră nu s-a prins de om ca să se facă prunc sub mâna Ta, sub îngrijirea Ta așa cum păsările, așa cum florile sunt sub grija Ta cu hrana și cu podoaba lor.* [/legatura_la_teme]
+
+Dar acum grăiesc cu ei, cu cei ce merg pe cale cu Tine și le spun lor așa:
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]*O, fii ai Cuvântului Iisus Hristos, voi să fiți ascultători, fiilor, ca să fiți fii, ca să fiți copii, ca să Ne urmați pilda, că așa am stat Noi cu viața pe pământ. O, întăriți-vă în pilda cea bună pentru ascultare tot timpul și în toate, în cele mari și în cele mici oricât de mici ar fi.* [/legatura_la_teme]
+
+Sunt pildă rea cei ce s-au clătinat și s-au desprins de voi, după ce au avut de hrană pe Fiul meu Iisus Hristos și ei atâta vreme cât au căutat să-și țină statornicia cumva. Acum însă se suie de la ei durere grea la cer, că, iată-i, iau din mâini lumești mânjite de păcat și-și pun în gură cele făcute de cei ce păcătuiesc mereu cu tot trupul lor, o, și nu mai au pe lângă ei o gură sfințită care să le curețe hrana și pâinea, iar eu plâng de jale lângă Fiul meu, Care S-a dăruit lor atâta vreme cu milă și cu nădejde că ei vor rămâne pentru cer, iar azi ei sunt pildă rea, și se desculpă singuri pentru disprețul lor față de Domnul, de Cel cu Care ei și-au hrănit trupul fără să fi ținut seama de suflet mai mult, iar ranele și disprețul de la ei ustură în Noi și ustură și Ne rușinează înaintea diavolului, care Ne dă cu sâc acum, după ce i-a smuls de partea lui. O, cum pot călca ei în picioare ceea ce au învățat din gura lui Dumnezeu să fie și să facă ei tot timpul vieții lor pe pământ? Iată-i, nu mai au strălucirea și frumusețea cea de la Domnul pentru ai Săi, iar cu straiele arată ca și cei din lume pic cu pic, și iau înfățișarea de oameni ai lumii de afară, unde este plânsul și scrâșnirea dinților.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, popor al Fiului meu, te hrănește Domnul, fiule. Ai grijă de cinstea ta cea de la El dată ție. O, ce măreață cinste, ce mare trecere ai între cei păcătoși prin portul tău cel sfânt! Că se uită păcătoșii după tine pe cale ca după o salvare a lor, ca după o nădejde a sufletului lor și-ți caută ajutorul să li-l dai.
+
+O, e haina slavei haina de creștin iubitor de Dumnezeu după duh, după viață, după vorbă, după port, și care nu seamănă cu haina lumii, ci, din contra, te scoate din lume și vede lumea că nu ești al ei și că ești al lui Dumnezeu pe pământ. [/legatura_la_teme]
+
+Cei ce au dat de peste ei povața și împlinirile de la Domnul, o, aceștia merită curățire mare și aspră, ca și durerea aspră pe care o fac ei Domnului prin despărțirea de El, căci duhul trufiei i-a câștigat de tot, i-a coborât de tot, și nu mai poate pentru ei nimic, decât o curățire aspră și zguduitoare, care să le scoale din somn conștiința.
+
+Iar pe voi, cei rămași în duh de copil, vă întăresc ca o mamă sub duhul ascultării să stați, că ascultarea vă schimbă din slavă în slavă ca pe pruncii care pot numai prin grija de ei a Domnului lor, a Părintelui ceresc, că eu am fost adusă Domnului pruncă de trei ani, și am rămas micuță odată cu trecerea anilor, căci am stat sub îndrumare mereu, și tot o ascultare de Domnul am lucrat cu viața mea supusă, și pe care Domnul mi-o călăuzea tainic tot timpul meu de pe pământ, și I-am adus rod apoi, așa cum scrie în povestea vieții mele, și pe care o doresc vouă ca pildă sfântă a vieții, o, fiilor hrăniți din gura Fiului meu Iisus Hristos.
+
+Iar Tu, Fiule Doamne, lucrează-le duhul mereu și așează-Te în duhul lor mereu și ferește-i de cele de pe pământ, și care îngroapă în ele pe oamenii care n-au păsare de suflet și de cele de mâine în care vor fi așezați după faptele lor fiecare din ei.
+
+Iar acum Îți mângâi durerea uitându-ne la izbăvirea care va veni pentru cei ce Te iubesc și Te urmează cu alegerea lor până la sfârșit, și pun acum jos pana pentru cuvântul meu cel de azi, Fiule scump al meu Iisus.
+
+— O, mama Mea, și Eu te mângâi în durere și în nădejdea izbăvirii multora din cei ce Ne iubesc până la sfârșit. O, că Ne doare, mamă, de la toate câte lovesc în Noi și de la bucuria diavolului pentru cele ce pierdem odată cu tragerea în părți a celor duși din rândul celor ce merg pe cale cu Mine, mamă.
+
+Și acum trebuie întărit mersul celor ce merg, o, mama Mea.
+
+O, mergi, poporul Meu, mergi, Ierusalime, mergi cu mersul Meu, cu calea Mea sub mersul tău, că numai aceasta a rămas calea cea de mers! Mergi, fiule, mergi, și nu sta din mers! Mergi tot mai frumos, tot mai măreț, mergi spre slava Mea cu mersul tău și trebuie doar să Mă asculți ca să mergi! Eu sunt pe cale cu tine. Mergi, fiule, mergi cu Domnul tău! Și te voi da pildă de mers pentru cei ce n-au știu și nu știu și nu aleg pe Domnul pentru mersul lor de pe pământ.
+
+O, pace ție, și mergi, poporul Meu, pe calea Mea cu tine! Mergi cu Domnul, că Domnul merge cu tine, și aceasta este calea! Și te voi arăta tot mai mult cale a Mea, cale spre Mine pentru cei de pe pământ care se întorc la Dumnezeu, o, poporul Meu cel de azi al Meu! Amin, amin, amin.

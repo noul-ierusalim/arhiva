@@ -1,0 +1,27 @@
+---
+title: "Cuvântul lui Dumnezeu la praznicul Naşterii Domnului"
+date: 2003-01-07
+year: 2003
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=216
+cheie: 216
+audio: 
+audio_file: 
+---
+
+[legatura_la_teme id_capitol="8" id_subcapitol="5"]Naşterea Mea din Tatăl, din Duhul şi din Fecioara mamă, Eu, Fiul Cel născut, am făcut aceasta cu mare ascultare, că aceasta înseamnă fiu, poporul Meu. Naşterea Mea M-a făcut fiu, şi tot cel ce se naşte devine fiu şi moştenitor. Dar Eu, Domnul, Fiul Tatălui Savaot, prin Care s-a făcut cerul şi pământul, şi Fiul Fecioarei mamă, prin Care s-a făcut omul cel nou, după chipul şi asemănarea lui Dumnezeu, Eu am fost şi sunt şi voi fi Fiu. Amin. Taina cea de fiu e cea mai dulce taină în cer şi pe pământ, şi, ca un Fiu ce sunt, al lui Dumnezeu şi al omului, îţi voi închina azi, în ziua de serbare a naşterii Mele Fiu micuţ din Fecioara mamă, îţi voi da ţie, poporul Meu, taina cea de fiu, taina cea dulce, ca s-o înveţi şi s-o iubeşti şi s-o urmezi ca şi Mine, Fiul, căci Tatăl Meu şi mama Mea îmi zic Fiu. Amin.
+
+Cel mai mare moştenitor este copilul, o, fiilor care Mă ascultaţi ca nişte copii şi îmi luaţi din gura Mea cuvântul şi Mi-l aşezaţi în carte ca Eu să pot grăi pe pământ cât n-am grăit până la voi. Mă aplec spre voi în duh de naştere nouă peste pământ. Ca un fiu al omului Mă aplec vouă, ca să Mă faceţi voi cuvânt aşa cum M-am aplecat Fecioarei mamă, ca să Mă facă ea trup, trup de copil, ca şi omul-copil, căci câtă vreme moştenitorul este copil, el este sub epitropi, sub iconomi în casa tatălui său, ca şi robul, care tot sub epitropi şi iconomi stă.
+
+Cel mai mare moştenitor este copilul, este cel ce ascultă de tatăl său şi de mama sa. Eu, ca un Fiu ce sunt de la început şi până la sfârşit, aşa voi fi şi când voi preda Tatălui împărăţia pe care acum cu voi o pun la loc după ce ea s-a clătinat când omul făcut de Dumnezeu s-a clătinat, căci omul făcut de mâna Mea la început, a fost făcut om întreg şi nu prunc.
+
+O, fiilor, o, fiilor mici şi scumpi, cum să fi rămas omul făcut de mâna Mea, cum să fi rămas el copil dacă el n-a fost copil? Cum să fi ascultat el de părinţi dacă el a fost făcut om întreg? L-am făcut întreg ca să fie după chipul şi asemănarea lui Dumnezeu, dar el, de Cel ce l-a făcut n-a ascultat, n-a vrut să fie copil omul cel făcut de mâna Mea, n-a vrut să aibă părinţi, şi a vrut să fie moştenitor şi şi-a zis: *«Peste Cel Preaînalt îmi voi pune scaunul meu».* Eu însă nu voi face aceasta nici după ce toate Mi se vor supune desăvârşit, după cum este voia Tatălui Meu şi nu a Mea. Nici atunci nu voi înceta să rămân Fiu, fiindcă Eu îi voi preda Tatălui pe toate, căci El Mi le supune, nu Eu, şi apoi Eu însumi, ca un Fiu ascultător şi lucrător din Tatăl, Mă voi supune Lui. Amin.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="6" id_subcapitol="3"]O, Ierusalime, o, Ierusalime nou, te numesc aşa fiindcă cel dintâi popor al Meu n-a vrut să-Mi fie fiu, ci a vrut să-Mi fie moştenitor, dar cel mai mare moştenitor este copilul. O, Ierusalime, te învăţ în zi de sărbătoare de naştere să fii copil aşa cum sunt Eu, aşa cum am ascultat Eu, aşa cum am trăit Eu, şi chiar dacă cu trupul Meu stau nevăzut în ochii tăi aşa cum stăteam şi cu omul cel zidit de mâna Mea, cuvântul Meu însă este cu tine ca şi cu el atunci în rai, şi te ţin de mânuţă ca pe un copil care ascultă, căci de mânuţă cu tata stau numai copiii care ascultă, poporul Meu.
+
+O, mare şi minunată este taina de copil, taina cea de fiu! Proorocii Mei au ştiut această taină şi M-au purtat spre oameni supunându-se Mie, aşa cum mama Mea Fecioara s-a supus Tatălui Meu, Care M-a trimis pe pământ ca să Mă nasc prunc din ea şi să fiu Fiul Omului. Proorocii Mei au fost fii, fiindcă ei au ştiut şi ştiu taina cea de fiu. Aşa şi tu, popor mititel al Domnului, ascultă-Mă pe Mine, Domnul Dumnezeul tău, şi stai aşa, ascultător, ca să rămâi fiu, fiule.[/legatura_la_teme] Şi ca să-ţi văd ascultarea, îmbracă-te în haină de sărbătoare cerească şi hai să dăm vestea zilei amintirii naşterii Mele, căci serbăm această zi, poporul Meu. Mergi, Ierusalime, pe la case mari şi du vestea despre Mine, şi Eu voi duce vestea despre tine peste pământ mereu, mereu, poporul Meu, până ce Eu şi cu tine le vom supune pe toate şi pe toţi, şi apoi le vom da Tatălui. Amin. Mergi, poporul Meu, cu vestea Mea din zilele tale, şi ne vom întoarce la sfârşit de zi şi iar voi sta cu tine în cuvânt ca să te învăţ taina cea de fiu.
+
+Binecuvântat să-ţi fie mersul. Eu voi merge înaintea ta cu îngerii Mei şi cu sfinţii; Noi, pe deasupra, iar tu, pe pământ, şi ne vom vesti, poporul Meu. Te voi încălzi să nu-ţi fie frig. Te voi îmbujora să fii copil frumos. Te voi încuraja să ai faţă dulce ca a Mea şi te voi iubi chiar în inima celor ce te vor privi pe tine, poporul Meu de azi, fiul Meu cel unul născut între popoare, între neamurile de pe pământ.
+
+Hai, mergi, Ierusalime! La porunca Mea mergi, poporul Meu! Mergi, şi ni se vor supune munţii şi dealurile şi colinele şi toată facerea omului. Pic cu pic ne vom arăta, şi curând, curând voi da la o parte de pe tine perdeaua în care Eu te ţin acoperit, ca apoi să Mi se vadă slava după care Eu şi cu tot cerul tânjim.
+
+Îmi pregătesc cuvântul cu care te voi îmbrăţişa la sfârşit de zi de sărbătoare, şi iar vom fi cu cuvânt pentru taina cea de fiu, că mare este taina aceasta, poporul Meu, şi voiesc ca tu să semeni cu Mine şi să asculţi ca un fiu moştenitor, supus fiind Tatălui său. Amin, amin, amin.

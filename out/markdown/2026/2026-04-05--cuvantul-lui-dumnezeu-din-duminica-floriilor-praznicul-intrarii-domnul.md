@@ -1,0 +1,37 @@
+---
+title: "Cuvântul lui Dumnezeu din Duminica Floriilor. Praznicul Intrării Domnului în Ierusalim"
+date: 2026-04-05
+year: 2026
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1827
+cheie: 1827
+audio: https://noul-ierusalim.ro/audio/1827.mp3
+audio_file: 26.04.05.mp3
+---
+
+Fiilor, fiilor, pace vouă! Din cer și până pe pământ la voi, pace vouă întru venirea Mea la voi pe nori, căci cerul se poartă cu Mine în alai ori de câte ori vin la voi cuvânt de facere nouă și mereu nouă, fiilor!
+
+În duminica trecută am stat cu voi pentru curățirea poporului care a venit la chemarea Mea ca să-i povățuiesc să nu păcătuiască față de cele cu care Eu, Domnul, înnoiesc poporul cuvântului Meu ca să-l am deprins cu lucrarea sfințeniei duhului, a sufletului și a trupului, și am privit și tot privesc să văd acum în ce fel alege și se alege. Aștept din partea lor să văd cât au înțeles și cum au ales să facă apoi cu mare statornicie, nu un pas înainte și doi înapoi, ci numai cu împlinirea Mea și a povețelor Mele pentru ei, pentru cei ce se aleg de-a dreapta Mea cu un mers sfânt, căci cuvântul Meu este cu putere în el pentru cei care îl iau peste ei și iubesc viața lor cu Dumnezeu, o, fiilor.
+
+E zi de praznic împărătesc, zi de duminică și de amintire sfântă, ziua când Tatăl M-a preaslăvit iar și iar, căci I-am cerut aceasta și am zis în ziua aceea: *«Tată, preaslăvește numele Tău și pe Fiul Tău»*, iar Tatăl Mi-a răspuns din ceruri și a spus: *«L-am preaslăvit și îl voi mai preaslăvi»*, și mulți din cei ce au auzit spuneau că Mi-a vorbit un înger, dar era Tatăl, iar Eu plângeam atunci Ierusalimul, plângeam cetatea, o, că n-a voit să Mă primească Israel, și am vestit atunci soarta Ierusalimului, cetatea care se va risipi piatră cu piatră dimpreună cu locuitorii ei, și de atunci și până azi nu s-a mai vindecat acel popor de necredința sa.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, fiilor, vă rog, mai mult decât oricând vă rog să vă aplecați îndeajuns și să Mă primiți cu toate câte Eu vin și vă dau să împliniți, și voi privi spre voi să văd cât Mă primiți, cât împliniți povața Mea cea pentru voi, că Eu trebuie să am un popor aparte, cu care să Mă sprijin în zilele acestea și să-Mi pregătesc cu el împlinirea cea mare a venirii Mele văzute, și ca să-Mi cunoască lumea mersul Meu de la margini la margini cu slava cuvântului Meu cu care poposesc la voi să-l puneți pe cale peste pământ, fiilor. [/legatura_la_teme]
+
+O, sunt multe de reparat peste viața celor ce caută după cuvântul Meu venit la voi, și ca să facă ei parte apoi din numărul celor ce sunt poporul Meu cules din lume în zilele acestea. Acum două mii de ani Mi-am cules doisprezece ucenici și le-am lăsat lor cina cea nouă și le-am spus că iarăși o voi lua cu ei nouă întru împărăția Tatălui Meu.
+
+Iată, trebuie înnoire, trebuie pentru Domnul, trebuie pentru părtășia la masă cu Mine, căci noi le facem pe toate, precum este scris, iar Eu așa lucrez, și de aceea trebuie să am popor nou, cu ucenici adevărați cu credința și cu fapta și cu viața și cu purtarea și cu hrana de rai și cu cina Mea cu ei, fiilor.
+
+O, nu mai am părtășie, nu mai am cu cine pe pământ, căci toți iubesc păcatul, iar în bisericile din lume petrece lumea, și e strâmt pentru Mine peste tot. Nimeni nu vrea să știe ce este păcatul, și de aceea toți îl săvârșesc mereu cu nesaț, și apoi merg la biserică să se împărtășească zic ei, o, dar cine să le spună lor că trupul lor nu este pentru desfrânare, ci pentru Domnul? Așa este scris în Scripturi, dar cine să le deslușească lor acest adevăr? Preoții din biserici nu fac aceasta ca nu cumva să-și piardă clienții, o, și cum să-i învețe ei pe oameni ce este păcatul, când și ei îl iubesc ca și lumea? Fiii lumii muncesc din greu pentru bani și se duc apoi și îi cheltuie pe distracții, pe deșertăciunile vremelniciei lor și-și trăiesc viața, zic ei, până ce vine clipa să dea socoteală pentru toate acestea la cântarul vieții, o, și nu are cine să le spună lor ce este păcatul și că trebuie să-l șteargă prin umilință și prin căință și prin lacrimi cu păreri de rău și prin sfințenie apoi, ca să nu rămână necurățați de păcate pentru ziua judecății faptelor vieții.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, cine să le spună fiilor oamenilor că postul și rugăciunea sunt îngeri din cer pentru păzirea de păcate și de vrăjmași de suflete, pentru multul bine pe care îl pierd mereu din lipsa postului cel pentru oamenii botezați? Își duc pruncii la botez ca să-i încreștineze și se apucă apoi de distracții păcătoase prin vorbire, prin îmbuibare cu mâncăruri necreștinești și prin tot felul de băuturi și de plăceri, o, și nu le place fiilor lumii postul nicidecum, și nu știu oamenii ce mănâncă, bieții de ei, căci peștele mănâncă oameni și tot felul de mortăciuni și de spurcăciuni ale oamenilor și îl pune omul în tigaie și îl frige și îl mănâncă, și nu știe ce mănâncă și nu știe că nici tigaia nu mai este curată pentru altă mâncare mai curată, căci oaia sau vițelul sau găina din ogradă nu mănâncă decât iarbă sau ce-i dă omul, boabe sau tărâțe, și e mai curat decât peștele animalul din curte și pasărea crescută în ogradă.
+
+Spuneam prin cuvânt la începutul trâmbițării Mele din anul 1955: *«Creștine, tu n-ai văzut copil mâncând părinți, sau părinți mâncând copii»*. N-a fost nimeni să deslușească grăirea aceasta a Mea, și iată, peștele mănâncă oameni, mănâncă tot ce cade în ape peste tot, și mănâncă omul ce nu știe, săracul, o, și nu-și face nimeni socoteala când folosește ceva pe pământ dacă nu i se descoperă ca să știe. [/legatura_la_teme]
+
+O, fiilor învățați de Dumnezeu, cine mai are parte să i se descopere ca și vouă atâtea povețe sfinte pentru sfințenia omului pe pământ, pentru sănătatea lui cu trupul și cu sufletul și cu duhul? Iată de ce a fost să vin pe pământ cuvânt și să deslușesc pe cele neștiute de mintea omului care mănâncă și bea fără să se întrebe ce mănâncă, ce bea! Sunt pline spitalele de neputincioși fel de fel, căci poruncile vieții au în ele cuprinse tot ceea ce trebuie să facă sau să nu facă omul pe pământ ca să-i fie lui bine apoi și să aibă știință din cer pentru cele ce trebuie să știe peste viața lui.
+
+[legatura_la_teme id_capitol="8" id_subcapitol="3"]Hai să zidim Ierusalimul cel așteptat de cei din cer, fiilor! Mai întâi să zidim fiii care să aibă parte de aceste mari împliniri, care stau la hotar să desfacă tainele și lucrarea lor și lumina lor în lumină. Mai întâi omul cel nou, cu hrană de rai la masa lui, și apoi toate cele din cer pentru el apoi pe pământ, căci cerul și pământul sunt unul pentru altul, precum Dumnezeu cu omul trebuie să fie și să lucreze. [/legatura_la_teme]
+
+Așadar, în zi de praznic de Florii dați-vă Domnului flori cu bun miros, cel mai dulce dar de la voi pentru Mine, fiilor, iar stâlpările să fie cântările duioase ca și inima Mea, pentru locul din ea, o, că dulce Îmi este graiul ca să fac cu el fii dulci lui Dumnezeu, o, fiilor.
+
+Peste o săptămână vor auzi diavolii și se vor tângui pentru cântarea Mea de biruință, pe care o vor cânta creștinii și lumea care nu face voia Mea, dar vor cânta cu toții Hristos a înviat, iar diavolii vor plânge în fața Biruitorului lor.
+
+Iar Eu, Domnul, Îmi voi strânge la piept prin cuvânt pe cei care Mă au de Păstor al lor, și prin care Eu am nume mare, popor de Nou Ierusalim, popor cu Păstor din cer pe pământ, Păstor cu nume mare și nou, Iisus Hristos, Cuvântul lui Dumnezeu, o, fiilor. Amin, amin, amin.

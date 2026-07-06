@@ -1,0 +1,67 @@
+---
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfinților voievozi mucenici Brâncoveni"
+date: 2021-08-29
+year: 2021
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1581
+cheie: 1581
+audio: https://noul-ierusalim.ro/audio/1581.mp3
+audio_file: 21.08.29.mp3
+---
+
+Oștirile cerești au rămas cu Mine aici, deasupra, și noapte de veghe și-au luat peste cetatea cuvântului Meu, ca să rămână și azi în cuvânt cu voi Domnul, ca să fiu cu voi și azi, fiilor din cetate, o, și aveți frățiori de departe oaspeți la masa cea sfântă, căci vin ei după hrană, vin după merindea cea care îl face fiu al lui Dumnezeu pe cel ce se unește cu ea, căci Eu am așezat împărăția cerurilor la voi, și aveți pe masă hrană pe Domnul, o, fiilor.
+
+Dar azi stăm iar cu masă de cuvânt, un picuț poposim și azi, ca să așezăm în carte ce mai este de așezat pentru desăvârșirea sărbătorii cea pentru mama Mea Fecioara și pentru duhul învățăturii, pe care, iată, îl așez pe masa Mea cu voi ca să-l lucrați voi, și să știți să-L împliniți pe Domnul peste voi cu tot cuvântul Său, cu toată trăirea cea de fii ai lui Dumnezeu, ai acestui cuvânt și popor, fiilor.
+
+Au fost bucurii de suflet clipele de ieri de la serbare. S-au bucurat cu fiori de bucurie sfântă sufletele fraților voștri veniți la masa Mea cu voi de departe, fiilor. Am spus pe vremea cea de la începutul Meu cu trâmbița Mea Verginica, am spus că vor merge creștinii care au mai rămas pregătiți pentru vremea Mea cu voi, vor merge ei sute de kilometri, cale lungă vor bate până aici, la voi, ca să ia ei de pe masa Mea cu voi merindea vieții veșnice, căci am spus: *«Cel ce mănâncă trupul și sângele Meu are viață veșnică și nejudecată».*
+
+Acest popor micuț este așezat de Mine pe calea spre rai cu toate împlinirile pentru această treaptă, și pas cu pas am așezat întoarcerea înapoi a omului, o, și am lucrat cu așteptare, cu milă, căci omul este neputincios pentru viața lui Dumnezeu întru el, iar Eu, Domnul, am crescut cu greu în cei ce s-au dat Mie cu inima și cu credința, o, că îi este greu omului cu viața cea de cer pe pământ trăită, când toate pe pământ sunt plăcute inimii și trupului omului, și este omul atras, bietul de el, dar când Eu și dragostea Mea luăm ființă întreagă în om, se face omul fiu al lui Dumnezeu, căci așa am lucrat să-i dau omului putere să se facă fiu al lui Dumnezeu, ajutat el de iubirea Tatălui, Care M-a dat jertfă pentru răscumpărarea omului căzut din rai pe pământ, și să-l întorc pe el în cele din care a căzut când i s-a răcit iubirea, când a pierdut bucuria de a fi el cu Dumnezeu în rai, și nu singur, o, nu singuri cei doi, ci un singur trup, nu două, și acest trup să fie locașul de odihnă al lui Dumnezeu, Făcătorul omului.
+
+Așezăm în carte și azi un picuț de cuvânt, fiilor. Dulce învățătură, dulci povețe vă dau și azi, vouă, și celor ce încă sunt la masă aici, și privim la ziua de praznic și luăm încă din bucuria ei, fiilor. Să știți, măi fiilor, că orice neputință de duh sau de trup, orice durere se vindecă prin bucurie, prin duhul bucuriei sfinte, care are credința ca hrană, ca putere de vindecare, o, credința, fiilor, și totul se poate prin ea când ea are pe Dumnezeu ca lucrare, căci nu omul, ci Dumnezeu poate, măi fiilor, și poate totul, o, poate Dumnezeu ceea ce omul nu poate, numai să aibă el credință că poate Dumnezeu.
+
+Harul credinței, acest mare har voiesc să-l am Eu mereu pe creștetul acestui popor, iar când vreun fiu se clatină în furtuni, vine acest har în ajutor, vine credința cu puterea ei, vine ea în vreme de strâmtorare și te trece ea până dincolo de valul care izbește ca să facă neputință, ca să facă slăbire peste cei încercați de furtuni. O, dar trebuie și aceste furtuni să vină și să fie, căci trebuie să am pentru ce să-i dau plată creștinului celui biruitor și să-i deschid ușa să intre întru ale Mele, întru cele pregătite pentru cei ce vin din necazul cel mare, din încercări fel de fel peste fiii credinței, și care nu-L pot uita pe Domnul, în Care ei cred pentru toate clipele pe calea lor cu Dumnezeu.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Fiilor, fiilor, nu e bine să fie bogat omul. O, nu e bine, nu e bine să aibă de toate omul, și mereu de toate, ci e bine să lucreze el pentru fiecare zi și în fiecare zi, că dacă n-ar lucra s-ar lenevi, ar cădea din Dumnezeu prin lenevie, prin zile fără de lucru pentru pâine și pentru suflet hrană. Cel ce are pentru mâine nu mai lucrează azi. Cel ce își adună să aibă este om necredincios, și poate să-L piardă pe Dumnezeu, Care poate mereu pentru cel credincios. De aceea am spus Eu: *«Nu vă îngrijiți ce veți mânca și cu ce vă veți îmbrăca, căci are grijă Tatăl».*
+
+Dar ce să facă cel ce nu se îngrijește pentru acestea? O, cum ce să facă? Are ce să facă. Iată-i pe fiii cetății cuvântului Meu, ei Îl slujesc pe Domnul și pe fiii poporului lui Dumnezeu. Ei nu trăiesc pentru ei, ci pentru Dumnezeu în fiecare zi și vrednici sunt să Se dea Domnul în fiecare zi lor. Iată, la această treaptă am dat să ajung cu un popor și cu împărăția Mea pe pământ.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="6" id_subcapitol="1"]Am lucrat un popor ca să-l am al Meu și ca să facă el voia Mea, numai voia Mea. Nu puteam să-l mai las pe mâna preoților care au femei la pat și împart slujirea cea pentru Dumnezeu cu slujirea cea pentru femeie. O, nu puteam, nu mai puteam așa să pot înainta, căci Eu așteptam să împlinesc Scripturile sfinte, nu să Mă tot aplec cu lumea la un loc, cu amestecarea care face rău de tot, căci pătează tot ce este sfânt și curat pentru Dumnezeu.
+
+O, nu puteam să nu pun deoparte pe Fecioara care avea să Mă nască pe pământ în loc curat de lume, în loc smerit, nu în mijlocul lumii păcătoase. O, nu puteam să ies la capăt cu lucrul și cu harul cuvântului Meu pentru pregătirea unui popor aparte, și care să umble cu Mine, nu cu lumea de pe pământ, nu cu amestecarea care strică legile raiului. Spuneam cu jale creștinilor de la începutul Meu cu Verginica, le spuneam să fie cuminți, să învețe să fie cuminți și sfinți din zi în zi mai mult și Mă uitam tot timpul la ei și le spuneam cu mare dor: *«O, creștine tată, aș dori de la tine ascultare, aș dori să nu mai stai singur în casă cu femeia ta, să nu mai dai copiii afară la joacă și ca să stai cu femeia ta singur în casă».*
+
+O, mare și lungă Mi-a fost așteptarea pentru cel slab cu firea, cu iubirea, cu credința, cu împlinirea cea pentru sfințenie! Nu-i place omului să nască fii și atât, și să nu mai trăiască restul vremii întru desfrânare. Nu pentru desfrânarea trupului a fost căsătoria, o, nu, dar iată ce a făcut omul, cât s-a smuls din Dumnezeu și cât de mult s-a unit cu femeia ca și Adam în rai, și apoi pe pământ pe mai departe cu vremea vieții lor cei căzuți din rai.
+
+O, are Domnul nevoie de creștini sfinți, de copii sfinți, și care să nu caute spre poftele trupului, că nu pentru ele l-a făcut Dumnezeu pe om, ci pentru odihna lui Dumnezeu mereu în om și cu omul, și de aceea să nu stea fără Domnul vreo clipă omul. Voiesc să fiu Eu bucuria omului, toată bucuria lui, toată iubirea lui. Știe el, oare, că Eu trebuie să fiu bucuria lui, căutarea lui, și nimic altceva să nu numească omul bucurie pentru el?
+
+O, cum să-ți poți păstra cu tărie credința ta cea pentru Dumnezeu, măi creștine măi, dacă tu nu-L ai ca bucurie nesfârșită pe Domnul? Se clatină credința ta când dai de alte bucurii, de alte doruri, de alte lucrări și îndeletniciri, iar viața comodă a zilelor tale duce la păcat, la lene pentru trup și pentru suflet, iar trupul și sufletul trebuie să aibă viață și lucru în fiecare zi ca să nu moară, ca să nu piară veghea pentru viața lor. [/legatura_la_teme]
+
+Iată, cei săraci sunt harnici pentru pâinea lor de fiecare zi și sunt oameni fericiți și sănătoși cu trupul și cu duhul, iar cei bogați și cu averi strânse se lasă spre păcat, spre petreceri păcătoase, căci nu sunt fericiți, o, nu sunt, ci doar caută fericirea pe toate căile câte căi sunt pe pământ de umblat pe ele, dar fericirea ei n-o găsesc, căci fericirea are lucrare mereu, și este ea îndeletnicirea omului sărac, care nu-și strânge pentru mâine, și care se ridică să lucreze vesel în fiecare zi și pentru fiecare zi, așa cum a lăsat Dumnezeu lucrarea cea de fiecare zi pentru om.
+
+Credința însă trebuie să fie în toate și pentru toate începutul și sfârșitul fiecărei lucrări și zile de lucru, o, fiilor, iar Eu, Domnul, biruiesc pentru om prin credința lui, biruiesc, fiilor, așa cum am biruit moartea și frica de moarte în vremea muceniciei casei lui Brâncoveanu, voievodul românilor, căci el a ales credința, nu frica, a ales viața, nu moartea, iar viața înseamnă credință și nepierderea credinței.
+
+O, a alungat frica voievodul cel mucenicit, căci el privea la înviere, nu la moarte, și tot așa i-a așezat și pe copiii lui, în fața învierii i-a așezat, nu în fața morții. O, ce-ar fi fost să se lepede de Dumnezeu voievodul țării și să facă așa de frică? Ce s-ar fi întâmplat cu credința poporului român în clipa lepădării de Dumnezeu a voievodului lui, dacă Brâncoveanu ar fi slăbit la cârmă pentru popor și pentru urmași apoi în vremea încercării credinței lui?
+
+Fiilor, fiilor, mare a fost ziua aceea a învierii lor, și a fost pentru poporul român zi de Paști, zi de înviere, căci Brâncoveanu a fost un Hristos, Care a murit pentru neam, pentru credință și pentru înviere, și iată statură de creștin! O, ce să mai faci cu cei ce se clatină, cu cei ce se dau nemulțumiți, nestatornici cu Hristos? Ce să mai faci când vezi neformat pentru masa aceasta un creștin care-și dă aere, când el este un om mic, când el nu dă să fie sfânt și să se uite numai la Hristos, numai la purtarea cea prin învățătură luată de la pilda vieții Mele pe pământ față în față cu oamenii?
+
+O, măi creștine, măi, nu intră omul în rai când dă să facă milostenie cu mâna altuia. Nu poate intra altul pentru tine în rai, nu poți intra prin altul, ci munca ta cea pentru rai îți deschide ca să intri.
+
+O, învățați, fiilor, să vă faceți rost de asigurare pentru viața cea veșnică. Își plătește omul cu bani asigurarea pentru viață, bietul de el. O, ce prostie, ce mare prostie! Numai omul mic este în stare de așa prostie. O, fugiți spre viață de fii născuți din Dumnezeu, ca să nu rămâneți oameni și atât, o, fii ai chemării de sus pentru viață adevărată pe pământ!
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Fiilor, fiilor, adunați-vă să învățați să munciți pentru înțelepciunea vieții veșnice, să vă dați mintea la școală ca să ieșiți apoi creștini cu note mari, să vă îmbogățiți sufletele, nu trupurile, fiilor învățați de Dumnezeu. Fiți destoinici, luați pildă de la albinuțe, fiilor. Nu zadarnic le-a făcut Dumnezeu, ci ca să se uite omul la ele și să ia pildă de viață înaintea lui Dumnezeu și să-și cunoască omul lucrul și rostul său pe pământ și în poporul Meu de fii crescuți pentru cer.
+
+O, e sfântă viața albinuțelor. Ele mănâncă tot ce este curat și trăiesc curat. Aceasta este pildă pentru poporul cel adevărat creștin al bisericii Mele, fii laolaltă viețuitori în lucrarea lui Dumnezeu, stupul cel plin de miere, de Dumnezeu plin, de iubire și de jertfă plin, căci lenea este păcat de moarte, e moarte, fiilor. [/legatura_la_teme]
+
+O, lucrați pentru credință și întețiți în voi credința, fiilor, că iată, locul celor credincioși și căzuți pentru credință, și nu pentru păcat! Sunt în brațele mamei Mele Fecioara toți cei din casa lui Vodă Brâncoveanu. Ea le-a făcut trecere spre învierea lor. Ea se laudă în cer cu ei, ea se poartă cu ei deasupra pământului român, pe care îl are ea în ocrotire, o, și le dă ea glas în ziua aceasta, și iată glasul lor:
+
+— Ea ne-a primit pe brațe la trecerea hotarului în ziua muceniciei noastre, a trecerii noastre la Domnul, la cei din cer. Ea ne-a fost tărie și neclătinare în credință până la sfârșitul mersului nostru pe pământ.
+
+O, iubiți-vă copiii așa cum i-am iubit eu pe copiii mei! Purtați-i pe brațele credinței sfinte până pe brațele mamei noastre de sus ajunși, acolo unde noi am ajuns. O, vouă nu vă este încercată credința, dar de aceasta să nu vă bucurați, că puteți cădea în lenea cea pentru credință apoi.
+
+Mâncați cu foame multă, mâncați iubire, voi, copii ai Cuvântului Hristos, români după sânge și neam, români după Hristos, Care a făcut pe om din lutul pământului român. O, nu stați fără iubire! Pierdeți-vă viața în iubirea de Hristos și de Maica Lui cea dăruită nouă de mamă a creștinilor, a românilor, căci neamul român e pecete sfântă între cele cerești ale Domnului, e însemnat aparte, e taină a lui Dumnezeu această sămânță tainică, iar noi, cei în cer ajunși, vedem și știm.
+
+Vă dăruim daruri acum, tainic vă dăruim, și veți lucra cu ele și veți cunoaște obârșia lor. Iar acum noi semnăm grăirea noastră cu numele de familie voievodală a românilor din cer: Voievozii români, Brâncovenii.
+
+— O, ce zi mărturisitoare, o, ce mare lucrare are Dumnezeu cu voi și peste voi, fii ai cetății cuvântului Meu, și voi, cei ce îi iubiți pe ei pentru numele Meu de peste ei și de peste voi!
+
+Intrați acum la odihnă, după truda cea pentru serbare, fiilor, căci ziua de serbare a praznicului mamei Mele Fecioara se liniștește acum, dar și voi, măi fiilor.
+
+O, iată, vă veți odihni lucrând, așa vă este alegerea, și veți strânge masa și serbarea și veți lucra și vă veți odihni și iarăși veți lucra, iar și iar, toate iar și iar, o, fiilor. Ca albinuțele, ca ele veți lucra, ca Mine veți lucra, iar și iar veți lucra, o, fiilor. Amin, amin, amin.

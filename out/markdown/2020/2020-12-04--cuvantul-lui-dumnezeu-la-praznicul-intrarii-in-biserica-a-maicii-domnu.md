@@ -1,0 +1,59 @@
+---
+title: "Cuvântul lui Dumnezeu la Praznicul Intrării în Biserică a Maicii Domnului"
+date: 2020-12-04
+year: 2020
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1538
+cheie: 1538
+audio: https://noul-ierusalim.ro/audio/1538.mp3
+audio_file: 20.12.04.mp3
+---
+
+Mângâierea, mai întâi mângâierea o așez între Mine și voi, fiilor din cetatea cuvântului Meu. Vouă vă trebuie mereu mângâierea Mea, căci trebuie să puteți pentru Mine, pentru lucrul Meu cu voi peste pământ, o, și sunt de purtat toate câte trebuiesc purtate, iar Eu, Domnul, veghez și așez peste voi mereu întărire duhului și trupului și tot alinul vi-l dau Eu, și toate se lucrează după voia Mea, iar voi aveți de la Mine înțelepciunea și știți că Eu veghez și lucrez și așez să vă întăresc la lucru pentru Mine și vă alin neputințele și suflețelele în toată vremea și vă ascult când Îmi grăiți, iar voi stați supuși sub voia Mea, fiilor.
+
+Eu sunt cu veghea mereu pentru voi și pentru mersul Meu cu voi, iar în ziua aceasta este scris praznic împărătesc în cer și pe pământ pentru mama Mea Fecioara, și punem cuvânt de praznic în cartea Mea cu voi și Ne așezăm la masă de cuvânt, iar mama Mea vă strânge la piept și vă dă mângâierea de mamă la toți, iar voi toți mângâiați pe cei ce vă mângâie, căci Duhul Mângâierii lucrează lucrarea Mea cu voi și pune puterea Lui în lucru mereu și lucrăm, fiilor, lucrarea Tatălui și a Fiului și a Duhului Sfânt Mângâietorul, și totul prin supunerea voastră, iar supunerea voastră vă dă putere vouă și ia de la Mine pentru voi, fiilor.
+
+Lapte și miere este cuvântul Meu peste pământ, și este el tot o milă venită din cer spre oameni, și Mi-e tare dor de trezirea tuturor, și de două mii de ani Mi-e dor. Cu dor am venit atunci din cer spre oameni, iar preoții M-au respins și au mințit asupra Mea ca să se știe ei mari și la putere peste oameni, o, și nu este dor de Dumnezeu, nu vor oamenii să fie Dumnezeu cu ei pe pământ, ca și atunci nici acum nu vor, dar tot ca și atunci se așează și se împlinesc toate precum este scris să se împlinească de Dumnezeu și de oameni, iar Eu tot voiesc să cresc în oameni cunoștința de Dumnezeu și credința și dorul și mila între Dumnezeu și om, între om și Dumnezeu, o, și Mă port cu sfinții și cu îngerii și am grijă de cei mici ai Noștri, de voi, fiilor, iar voi aveți grijă de Mine și de cei din cer, și e greu de tot pentru omul de pe pământ să poată înțelege vremea aceasta a lui Dumnezeu cuvânt venit la oameni, dar vă am pe voi înaintea Mea, și am pe România de țară a venirii Mele în tot lucrul acestui timp, căci Eu sunt Mielul Tatălui și am acum de biruit necredința și pe omul cel fără de credință în Dumnezeu, o, și totul este în taină lucrat, căci așa a lucrat Dumnezeu peste pământ în toate vremile, fiilor.
+
+O, mama Mea, suntem cu sărbătoarea ta la masă cu ei, mamă. Poposim cu oștirile cerești în cetatea Mea de cuvânt și Ne așezăm în carte, mamă. O, ce tainic lucrăm! Din pricina nepriceperii oamenilor de pe pământ lucrăm tainic, mamă. Pe toate mai caută omul să le știe și să le caute, dar lucrarea cea tainică a lui Dumnezeu nu este știută, nu-i trece omului prin minte, căci mintea omului nu este cu Dumnezeu.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, hai să lucrăm cuvânt de înțelepciune pentru om, mamă, căci omul are de știut de la Dumnezeu lucrarea inimii curate, și numai apoi ar fi să știe el pe cele de la Dumnezeu pe pământ lucrând, mama Mea.
+
+*— Da, Fiul meu Iisus Hristos, dat mie de Tatăl să-L port și să-L nasc Om pe pământ, da, e lipsită de Dumnezeu mintea și înțelepciunea ei în om pe pământ. Să-i spunem lui, Fiule scump, să-i spunem omului taina și lucrarea inimii curate, fără de care nu poate pricepe el pe Dumnezeu cu oamenii. Acum două mii de ani a fost la fel. Lipsa inimii curate în cei de atunci a fost pricina pentru care nu Te-au cunoscut cei din vremea aceea. Tu însă ai lucrat și ai scris pe pământ lucrarea și adevărul venirii Tale de la Tatăl la oameni, dar mila Ta de oameni n-a cunoscut-o atunci nimeni îndeajuns.* [/legatura_la_teme]A fost atâta suferință pe Noi atunci! De copii am avut Noi numai suferință pe pământ, iar Tatăl Își lucra lucrarea și Ne întărea sub ea după voia Sa. Numai omul n-a priceput venirea Ta, numai el nu și-a zidit în el inimă curată, cu care Te-ar fi putut iubi și cunoaște prin venirea Ta.
+
+O, e atâta durere pe Noi, dar e și mângâierea cu ea și cu Noi, Fiule scump. Ustură în noi răceala inimii omului. Tu ești Făcătorul cerului și al pământului, Cuvinte Doamne, Tu ești Fiul Tatălui ceresc, dar oamenii sunt reci de tot cu inima din ei. Îi este greu omului să aibă în el inimă curată față de Dumnezeu și față de semeni. O, nu are omul parte de această fericire cerească prin care să-L vadă pe Dumnezeu, pe Care-L văd cei cu inima curată, așa cum Tu ai spus despre această taină a vederii lui Dumnezeu înăuntrul inimii omului.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]*Lipsa inimii curate l-a dezbrăcat pe om de dragostea de Dumnezeu, de lucrul lui Dumnezeu cu omul, Fiule Iisus. Inima curată poartă în ea mereu dorul de Dumnezeu, dorul pe care l-am purtat eu după Tine, Doamne, iar Tu Ți-ai făcut sălaș în mine, în inima mea curată, iar acum trebuie să înțeleagă tot omul care mă aude, și apoi să știe omul inima curată și lucrarea ei.* [/legatura_la_teme]
+
+Te rog acum, în zi de praznic sfânt pentru mine între sfinți, pune în toți cei de pe pământ dorul după Tine, Fiule Iisus, ca să Te înțeleagă cu inima și să vadă apoi că Tu lucrezi peste pământ lucrările Tale în mijlocul oamenilor, că iată, și azi Te resping preoții și nu Te dau oamenilor cu vestea Ta de azi, o, și cine să-i mai ajute pe oameni să-Ți urmeze cuvântul și viața Ta de cruce, cu care atât i-ai iubit și i-ai iertat pe toți?
+
+Îi ajut pe oameni și le spun eu la toți că inima mea a fost numai cu dor de Dumnezeu în ea, și pe toate le lucram pe pământ pentru Dumnezeu în inimioara mea, până ce Te-am văzut venit pe pământ, și iată, fericiți cei curați cu inima, căci aceia vor vedea pe Dumnezeu și vor crede și vor face lucrările lui Dumnezeu pe pământ, căci se dau lui Dumnezeu cu inima din ei, și îi poartă în ea pe toți ca să-i dea lui Dumnezeu pe toți, cale făcându-se spre Dumnezeu pentru toți.
+
+Voi, cei mai mici ai Fiului meu Iisus Hristos, o, luați mângâierea mea peste voi! Lucrați mereu lucrarea inimii curate. Dumnezeu a lucrat pentru voi și prin voi peste pământ ca să Se facă cunoscut inimilor curate, și tot mai mult apoi oamenilor de pe pământ, căci România este țara lucrului lui Dumnezeu acum, la sfârșit de timp, și a lucrat Domnul să aibă în ea biserica lui Hristos încă de la statul Lui pe pământ atunci, căci a venit spre ea lucrarea bisericii Lui prin ucenicii Lui, o, și a văzut-o pe ea Hristos ca dar de la Tatăl pentru El pentru vremea de sfârșit, și de pe cruce a văzut-o și a binecuvântat-o cu crucea Lui, ca să-I fie Lui biserică păstrată prin vreme și să poată lucra prin ea taina venirii Lui cuvânt peste pământ pentru înnoirea făpturii, precum este scris.
+
+Voi să stați cu supunere, voi să stați mici sub mâna tare a Domnului, și lucrare de dor să vă frângă spre Domnul și numai spre El să tânjiți voi, căci Domnul este cu voi în lucru, fiilor, iar inima curată să vă fie lucrarea cea pentru El, și toate să vă înțelepțească pentru purtarea lui Hristos, și multă pace și multă sănătate să vă însoțească pe voi, căci eu vă aduc înaintea Domnului mereu pentru tot binele Lui cu voi, și pentru tot binele vostru cu El, o, și multă îmi este ruga pentru voi, fiilor, căci vouă vă trebuie mângâietori și mângâiere pe calea Lui cu voi.
+
+Tu, Doamne, Fiule al meu, mi-ai dat pe România să am grijă cu cei din cer de soarta ei cea de la Tine. O, iată, ai Tu grijă în ziua sorțului acum peste țară ca să se ridice oameni cu milă de Dumnezeu și de oameni și ca să zidești Tu voia Ta pe acest meleag, și fă această țară lumina Ta și a cuvântului Tău peste pământ, că eu cu mare dor și cu lacrimi izvor veghez pentru ea înaintea Ta de atunci și până azi, Fiule al meu Iisus.
+
+— O, mama Mea, câtă grijă de mamă ai tu pentru Mine și pentru ce este al Meu și pentru lucrul Meu cel greu al înnoirii lumii, mamă!
+
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]Putere sfântă să așezăm mereu peste fiii cuvântului Meu și să le dăm din cer, mamă. Slăbește puterea omului antichrist, slăbește mereu, căci Eu îi spun mereu să plece din moștenirea Mea, căci țara română are două mii de ani de biserică a lui Hristos așa cum a fost ea așezată la începutul ei și a fost păstrat adevărul ei prin vreme, și voi lucra prin biserică precum este scris să lucrez, că am fii credincioși după rânduiala cea de la început, și am și vor tot fi, căci Duhul Sfânt Mângâietorul vine și suflă și vor lua Duh Sfânt mulți, și inimile curate se vor înmulți, și dorul din ele va chema pe Domnul cu lucrare mare peste pământ, o, și sunt mulți, mamă, și tot mai mulți se vor trezi cu dorul și cu iubirea și Mă vor ajuta să pot cu biruința Mea, căci credință trebuie să găsesc pe pământ și să pot prin ea, prin cei credincioși să pot, mamă. [/legatura_la_teme]
+
+Voi, fiilor din cetate, voi să stăruiți în rugăciune ca și mama Mea Fecioara, căci lucru pentru cer aveți voi de lucrat pe pământ mai întâi de toate. Încălziți-vă sub iubirea Mea, fiilor! Fiți cu gândul și cu așteptarea la Mine, căci Eu vă sunt în toate, cu voi și lângă voi sunt. Mângâiere să ne dăm de la unii la alții, iar voi aveți grijă de împlinirea Mea în voi, fiilor!
+
+[legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+O, țara Mea cea de azi, nu Mă uita! Floare de nu-Mă-uita să fii tu înaintea Mea, că ai un cer mare de mărturisitori între cei din cer, și sunt slăviți ai tăi cei din cer pentru că tu ești țara Mea de două mii de ani și ești dată Mie de Tatăl Meu și Mă uit la tine de atunci și până azi ca la mărgăritarul de mare preț, și-i voi rușina dureros pe toți cei care au dat să te rănească, să te disprețuiască, să te înjosească pe tine, aleasa Tatălui Meu pentru Mine pentru ca să te am a Mea, casa Mea de venire la tine la sfârșit de timp, țara Mea, floarea Mea cea de azi.
+
+O, treziți-vă, voi, fii români! Luați Duh Sfânt, luați ca să știți să alegeți cu El pe cei ce vor sta pentru voi la cârma corăbiei!
+
+O, Tată, Tatăl Meu, Duhul Sfânt să le dea lor să știe și să lucreze și să se înțelepțească de sus din cer toți fiii români!
+
+[/legatura_la_teme]
+
+Iar voi, fii ai venirii Mele cuvânt pe pământ, vegheați cu rugăciunea, fiilor. Puterea e la Dumnezeu, nu la oameni, chiar dacă oamenii se cred că e la ei.
+
+Pace vouă, fiilor! Mângâierea Mea vă dau vouă. Întăriți-vă duhul și pacea din voi! Nădăjduiți în Mine alături cu rugăciunea!
+
+Fiți harnici pentru treburile cetății și cu veghe pentru toate câte sunt de făcut, fiilor. Fiți tari în credință tot timpul, și mai cu seamă grăirea să vă fie duhovnicească întru toate, fiilor, și tot o dragoste sfântă să vadă cei din cer între voi și cu voi în tot lucrul de lucrat.
+
+Pace vouă! Putere de duh, sănătate de trup și mângâiere, așa vă dăruiesc Eu pe voi, o, fiilor. Amin, amin, amin.

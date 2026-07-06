@@ -1,0 +1,63 @@
+---
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Nașterii Maicii Domnului"
+date: 2022-09-21
+year: 2022
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1625
+cheie: 1625
+audio: https://noul-ierusalim.ro/audio/1625.mp3
+audio_file: 22.09.21.mp3
+---
+
+Îmi învăluiesc cetatea și pe cei din ea cu glasul cuvântului Meu în zi de praznic sfânt pentru mama Mea Fecioara, și Îmi așez în carte cuvântul și Mă împart cu el celor ce Mă caută aici, la izvorul glasului Meu, locul de unde izvorăște peste pământ glasul cuvântului lui Dumnezeu, cuvântul Meu din zilele acestea, venirea Mea de la Tatăl cuvânt peste pământ în vremea Mea cu voi, fiilor născuți din cuvântul Meu de peste voi, o, că mare taină este lucrarea Mea din vremea Mea cu voi, fiilor, și nu-i minte pricepută pentru această taină a lui Dumnezeu în mijlocul oamenilor de pe pământ!
+
+[legatura_la_teme id_capitol="2" id_subcapitol="1"]S-a petrecut și se petrece cu această lucrare a Mea cu voi ca și acum două mii de ani, că am venit atunci de la Tatăl Prunc născut din mamă Fecioară și am crescut odată cu taina cea nouă a lui Dumnezeu, fiilor. Apoi le-am așezat pe cele venite cu Mine din cer în locul celor vechi de până atunci, și am început cu așezarea bisericii înnoite, o, și nimeni din cei mari ai templului nu știau îndeajuns ce se așează pentru pe mai departe și venite cu Mine din cer, iar când aflau câte ceva îi ucideau pe cei cuprinși întru taina cea nouă și răsăreau alții stropiți cu sângele celor uciși ca și Mine de mai-marii vremii de atunci.
+
+Eu, și ucenicii Mei de atunci am lucrat atunci înnoirea a toate, căci legea cea aspră apăsa peste salvarea omului păcătos, dar Eu am murit pe cruce pentru iertarea păcatelor celor păcătoși și am lucrat prin aceasta mântuirea lor, a celor ce credeau în cele cu care Eu am venit atunci de la Tatăl ca să lucreze pe mai departe peste oameni, și iată, am lucrat cu mare taină.
+
+Am luat pescarii de la pescuit și au lăsat ei mrejele și M-au urmat și i-am așezat pe ei preoți și arhierei și apostoli peste pământ și cârmuitori ai bisericii înnoite prin jertfa Mea de pe cruce, și era între ei Iacov patriarh al Ierusalimului și nu știa Ierusalimul, dar știau creștinii credincioși așezării înnoite, și s-a împlinit cuvântul Meu cel de atunci prin care Îi spuneam Tatălui: *«Te laud, Tată, că ai ascuns aceste taine de cei înțelepți și le-ai descoperit pruncilor, neștiutorilor, celor neluați în seamă de cei mari ai vremii cărturari și farisei»*.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="3" id_subcapitol="4"]Iată, și azi merg odată cu cei ce se știu pe ei slujitorii templului, mai-mari ai bisericii zidite acum două mii de ani, și care nu mai au milă de Dumnezeu și de turmă și-și văd de ale lor, dar Eu îi strig așa cum îi strigam prin glasul proorocilor pe cei de atunci care nu păstoreau cu milă turma, și când de pe atunci făgăduiam că voi veni și le voi cere răspuns pentru oile nepăstorite și rătăcite prin spini și le voi lua din mâna lor și le voi păstori Eu, Domnul, și le voi lega rănile și le voi purta pe brațe la izvoarele Mele, căci sunt Păstorul Cel Mare și-Mi cercetez tot timpul turma, precum este scris.
+
+Iată, Mă îndur de cine voiesc, așa este scris. Eu sunt Cel ce lucrez, nu omul, iar omul se supune. Iată, noi le fac pe toate ca și acum două mii de ani. Și atunci am venit să înnoiesc. La fel și acum vin și lucrez și întăresc lucrarea bisericii Mele, căci scris este să vin să-Mi cercetez turma și să-i dau pășune sănătoasă și s-o port spre Tatăl.
+
+Se lăudau cei de atunci că au pe Moise de care ascultă și că de aceea nu Mă primesc pe Mine, iar Eu le spuneam: *«Dacă ați fi crezut în Moise M-ați fi crezut și pe Mine acum, căci despre Mine a vorbit el vouă»*.
+
+Spun și azi pentru cei de azi, că dacă ei ar fi crezut în Hristos Cel de acum două mii de ani L-ar fi crezut și acum când, iată-L cuvânt peste pământ, dar ei ca și cei de atunci au altceva de făcut și se supun lucrării minciunii din lume și mai-marilor lumii și nu lui Hristos, sub al Cărui nume slujesc ei. Iar pe Mine Mă doare pentru turmă și Mă doare de două mii de ani, că în lume e numai minciună și piere credința de pe pământ, piere Dumnezeu din mintea omului, iar creștinii nu mai au fapte de credință și păstori făcători de minuni, de dat hrană la oile turmei, o, și se pierd oile și vin lupii și le duc din staul, iar Eu plâng pentru oi și vin după ele, vin cuvânt de la Tatăl, vin și le strig și le învăț să se strângă în staul și să nu stea în calea lupilor, să nu stea răzlețe, că iată, Eu vin din cer, vin cuvânt peste pământ ca să-Mi cercetez turma cea fără de pază peste ea. [/legatura_la_teme]
+
+O, popor al cuvântului Meu, am plâns în cuvânt în mijlocul tău și am spus omului: *«Omule, învață-Mă ce să fac să-Mi aflu ziua Mea de odihnă, că am pierdut-o odată cu căderea spre satana a omului în rai».*
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Grăiesc acum în zi de praznic sfânt pentru mama Mea Fecioara, grăiesc cuvânt deslușit pentru toți cei care cunosc învățătura cuvântului Meu din vremea aceasta, pentru toți cei care se uită în ea și nu o împlinesc pe ea, sau o împlinesc cât vor ei, și aceasta din pricina nelepădării de sine, păcat care nu-l lasă pe om să se facă iubitor de Dumnezeu și una cu Mine în lucrul cel sfânt al venirii Mele cuvânt pe pământ prin credința și statornicia unui popor aproape Mie.
+
+Iată, apropiați-vă acum cu inima de Mine, și nu unii de alții pe calea spre Hristos, căci dacă nimeni nu vă învață calea cu Hristos și cum se merge pe ea cu frați, voi nu veți avea cum să pricepeți taina frăției întru Hristos, și veți cădea în greșeli, în tulburări ale inimii, în despărțire de Dumnezeu când nici nu vă gândiți, când nu simțiți aceasta.
+
+O, fiilor povățuiți din cer, din locașul iubirii, iubirea înseamnă Dumnezeu, numai Dumnezeu, iar creștinii să se unească într-un singur duh pentru iubirea de Dumnezeu, și doar atunci vor pricepe ei pe Dumnezeu cu oamenii pe pământ, căci altfel creștinii își văd de-ale lor și unii de alții, iar Domnul nu mai este iubirea lor, viața lor, calea lor cea adevărată, și cad spre păcate fel de fel, după ce cunosc pe Domnul și taina Lui cu omul. O, pentru așa fel de păcate am fost bătut în cuie pe cruce, și cuiele au fost păcatele celor ce iubesc păcatul, și toți cei ce păcătuiesc sunt cuiele din mâinile și picioarele Mele, din coasta Mea, locul de unde am luat din Adam și am făcut femeia, care l-a căzut pe Adam din Dumnezeu cu tot cu ea, o, și Mi-a strivit femeia lucrarea facerii omului.
+
+Voi, cei care voiți să învățați odihna lui Dumnezeu în voi și ziua Mea de odihnă pierdută prin neaplecarea omului, iată, învățați de la Mine, de la lucrarea Mea pe pământ. Eu am lucrat aplecarea. M-am aplecat mereu chiar și celor necredincioși, căci am pe Tatăl odihnă în Mine și de aceea Mă aplec. Aplecarea este semnul odihnei Mele în om. Cel ce nu se poate apleca dă semn că Eu, Domnul, nu am loc întru el să Mă odihnesc. Cel ce nu se apleacă dă semn că este aplecat păcatului, nu ascultării de Dumnezeu și de frați, și chiar de cei necredincioși, de care trebuie de atâtea ori să asculte omul pe pământ, căci așa se cere pe pământ.
+
+Fiilor, fiilor, vă învăț aplecarea. Ea vă dovedește iubitori de Dumnezeu și de frați. Când nu asculți, când nu te apleci nu iubești, și de aceea nu te apleci. Lipsa iubirii este vina ta pentru care tu nu te apleci, iar Eu, Domnul voiesc să te învăț să fii după chipul și asemănarea Mea, să fii creștin, să fii cu Dumnezeu și să-L lași în tine cu lucrarea Sa, căci El Se apleacă ție ca să semeni cu El în lucrarea aplecării, iar cei ce locuiesc mai mulți lalolaltă au din destul prilejul să se aplece și iar să se aplece pentru asemănarea lor cu Hristos. Iar aici lucrează și trăirea de până acum, de felul de a fi până acum și trebuie mai multă aplecare dacă n-ai avut îndemânarea aceasta până acum și vrei să vii acum după Hristos.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="3" id_subcapitol="3"]O, mama Mea, învăț creștinii în ziua ta de serbare a nașterii tale pe pământ între oameni, mamă. Îmi caut ziua de odihnă. Caut de șapte mii de ani, de când omul zidit de mâna Mea a păcătuit prin neaplecare, mamă. Caut plângând, caut strigând: Unde ești, odihna Mea? Întreb omul: Omule, învață-Mă ce să fac să-Mi aflu ziua de odihnă?
+
+O, mama Mea, ce mult grăiesc Eu în vremea aceasta! Ce mult caut să-Mi găsesc odihna, mamă! Eu am lucrat aplecarea ca să nu-I stric Tatălui statul în Mine, dar omul se apleacă duhului rău și îi dă în el stat duhului rău, mamă.
+
+O, cum să nu plâng? L-am făcut pe om să-Mi fie loc de odihnă și lucrare a Mea, iar el se dă duhului potrivnic Mie, și Mă doare mai mult decât pe cruce depărtarea de Mine a omului și aplecarea lui spre păcat.
+
+Voiesc să te bucur în ziua ta de praznic și-Mi șterg lacrima acum și aducem povață tare peste cei ce Ne poartă pe pământ cu lucrările cele de sus, o, și Ne căutăm cu ei mângâierea, mamă. Și acum învață-i și tu, și toți să ia de la ei povață de sus, iar cei ce vor lua cu adevărat vor învăța aplecarea, Îmi vor da în ei odihna Mea pierdută și-Mi vor da ei mângâiere, mama Mea.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="6" id_subcapitol="3"]— O, Fiul meu și Dumnezeul meu, avem mângâiere prin cei ce se apleacă și știu această taină a statului Tău întru ei, și numai celor ce Tatăl le descoperă, numai aceia pricep taina aceasta, a odihnei Tale întru ei, Fiule scump al meu.
+
+O, popor iubit, tu, cel aproape de izvorul cuvântului Fiului meu, harul aplecării este mare în cei ce se apleacă, e mare din pricina odihnei Fiului meu întru ei. Ei sunt mângâierea cea pierdută a lui Dumnezeu. Ei sunt purtători de Dumnezeu, odihna Lui întru ei. Voi trebuie să fiți sfinți mari, întru care Domnul să Se odihnească, să Se aplece vouă prin aplecarea voastră, pentru odihna Lui întru voi. Aplecarea este taină mare și începe ea de jos în sus, de la cele mai mici probe de aplecare, și începe ea de sus în jos, de la cele mai mari probe de umilință a celor aplecați, o, și numai cei ce lucrează aplecarea, numai ei lucrează și umilința, căci celui ce are i se va mai da, precum este scris despre cei ce nu-L pot purta pe Dumnezeu și este El dat spre purtare celor ce-L poartă pe El cu multele Lui lucrări, după cerințele din cer și de pe pământ, după vreme, după stări.
+
+Povață multă a așezat Hristos în carte în ziua aceasta de învățătură. Toată taina odihnei lui Dumnezeu este aplecarea, o, fiilor. Nimic și nimeni nu-l poate doborî pe cel ce se apleacă, iar duhurile potrivnice lui Dumnezeu fug departe de cel care se apleacă după chipul și asemănarea lui Dumnezeu, Care Se apleacă.
+
+Cei ce vor să învețe și să stea în lucrarea umilinței de duh, aceia să-și spună mereu așa: Dumnezeu este iubire, iar omul este păcat, și de aceea să se aplece și să învețe de la Dumnezeu, să se aplece ca Dumnezeu și va fi el apoi odihna Domnului, purtător de Dumnezeu va fi. O, așa să-și spună cel ce vrea să-și lucreze umilință, căci eu așa am lucrat și așa I-am fost Domnului vas folositor, cale a Sa pe pământ pentru oameni.
+
+Și acum, Fiule Iisus, slăvește-Te în cuvânt peste ei pentru statornicie în cele învățate, iar harul aplecării să crească peste ei din unul în altul prin aplecare, și aplecarea s-o învețe ei de la noi, de la Tine, de la mine, apoi de la cei ce nu se apleacă, văzând ei prin aceștia depărtarea de Dumnezeu a celor neaplecați, Fiule scump Iisus.
+
+— O, mama Mea, credința și statornicia întru credință, această lucrare o pricep numai cei ce se apleacă, iar altfel credința este zadarnică, mamă. Iată, lucrarea credinței statornice Îl coboară pe Dumnezeu din cer pe pământ și vine Domnul prin credința celor ce Îl primesc pe El. Cum M-aș duce Eu să le grăiesc celor ce nu cred și nu fac faptele credinței? M-ar primi oamenii bisericii dacă M-aș duce să le grăiesc de deasupra lor și să le spun ceea ce le spun aici lor și trimit spre ei ca să știe ei grăirea Mea pentru ei?
+
+O, necredința e stavilă a lui Dumnezeu spre oameni. Nu poate Domnul să-Și așeze lucrările Sale pe pământ, decât cu cei credincioși și aplecați înaintea Sa, mama Mea.
+
+O, fiilor, voiesc să grăiți și voi între voi, iar Eu să vă privesc de deasupra cu toți cei din cer, cu care vă veghez în sărbători. Despre taina și lucrarea aplecării, și apoi despre rodul ei în voi, acestea să le aveți spre lucrare între voi, o, fiilor, căci odihna Mea n-am unde s-o mai găsesc în alte locuri, decât unde este aplecare, o, fiilor. [/legatura_la_teme]
+
+Vă strâng aproape de inima Mea ca să-i simțiți bătăile și să rămânem inimi unite întru Una, întru inima Mea, care se apleacă vouă și vă învață ea aplecarea, mereu aplecarea, mereu ca Dumnezeu, mereu așa, mereu, mereu așa, o, fiilor. Amin, amin, amin.

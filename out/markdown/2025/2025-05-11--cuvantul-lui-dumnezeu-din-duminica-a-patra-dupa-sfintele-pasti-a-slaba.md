@@ -1,0 +1,45 @@
+---
+title: "Cuvântul lui Dumnezeu din Duminica a Patra după Sfintele Paști, a Slăbănogului"
+date: 2025-05-11
+year: 2025
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1754
+cheie: 1754
+audio: https://noul-ierusalim.ro/audio/1754.mp3
+audio_file: 25.05.11.mp3
+---
+
+[legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Bat, și Mi se deschide și intru în cetatea cuvântului Meu pe vatra neamului român și ies cuvânt scris și vestesc izbăvirea cea de la Mine, căci Eu sunt Domnul Dumnezeul tău, o, țară română, țara Mea cea de la început de timp și cea de la sfârșit de timp a Mea, iar soarta ta din toate vremile și soarta ta cea de azi este în mâna Mea și nu pot să te las de sub aripile Mele ocrotitoare peste tine și de aceea te țin cuprinsă ca pe comoara Mea cea dragă și-ți vestesc viitor ceresc și îl așez pic cu pic peste tine și vor privi la tine popoare și limbi și toți cei care află pic cu pic de slava Mea de peste tine și vei sta învăluită în lumina cea necreată, și sub care nu se mai distinge lumina cea făcută de om pentru vreme de noapte, o, și te vei arăta cu strălucire și vor ști popoarele că ești țara Mea, țara strălucirii, țara venirii Mele cuvânt peste pământ acum, la sfârșit de timp.
+
+Iar în ziua aceasta de duminică, duminica cea de dinaintea tragerii la sorți ca să se arate cel ce va sta la cârmă pentru tine, iată, te așez sub binecuvântarea Tatălui și a Fiului și a Sfântului Duh și-ți țes cu sfinții veșmânt de biruință de la Dumnezeu pentru tine și vor fi rușinați cei ce te-au robit și te-au vestit căzută, dar tu vei sta cu fruntea sus, țara Mea, o, și de aceea, pace ție iar și iar, pace peste tine și peste duhul tău, popor român! O, ridică-te și biruiește! Biruieşte-l pe tatăl minciunii și pe slujitorii lui, iar tu scutură-ți jugul și mărește-L pe Domnul Dumnezeul tău, Care Se slăvește peste tine prin cuvânt împlinit, că tu ai nume nou de Nou Ierusalim, de noua Mea țară și eşti țara venirii Domnului cuvânt pe pământ acum, la sfârșit de timp.
+
+Te învăluiesc în cuvânt dulce și sfânt și le spun popoarelor despre soarta cea de la Dumnezeu, despre alegerea ta cea pentru venirea lui Hristos pe pământ cuvânt pentru înnoirea a toate precum este scris, o, că nu omul poate pregăti înnoirea lumii, ci Eu, Domnul, fac această minune, căci omul nu poate face minuni, nu poate cel care nu este el însuși minune sfântă, o, și nu sunt minuni decât cele care sunt sfinte și cu nume sfânt pe ele, o, țara Mea minunată, iar Eu, Domnul, Mă mângâi alintându-te și mângâindu-te și pregătindu-ți slava și de aceea rostesc cuvânt, ca apoi să-l împlinesc.
+
+Binecuvântare las peste duhul neamului român, pe care îl dăruiesc cu lumină de sus, cu înțelepciune din cer ca să știe să-și semneze soarta lui cea de la Mine iar și iar, și odată cu această biruință mare îi voi rușina cu multul pe cei care în acest neam au apăsat cu robie peste el și peste mersul cel curat al său între popoare, căci Eu stau de veghe cu sfinții și cu oștirile puterilor cerești ca să se poată din cer lucra și ca să poată Dumnezeu acum.
+
+Vreau să te vindec, vreau să-ți șterg fața și fruntea ta lovită și pândită de duhul minciunii și de slujitorii cei vrăjmași, și voiesc să-ți dau duhul adevărului și al iubirii de Dumnezeu și de neam, țara Mea, o, că nu cu ajutorul minciunii se lucrează când e vorba să-ți alegi iar și iar cârmaciul care să te poarte între popoare cu numele și cu mersul tău frumos. O, nu-ți face cinste să te cumpere de partea lor cei care-ți cer girul ca să-ți alegi cârmaciul. E urâtă de tot o așa lucrare, și care se numește politică și partide, când fiii de aceeași țară se mint între ei, se rănesc, se defaimă unii pe alții numind întrecere această lucrare urâtă și plină de duhul minciunii. O, ce urât este pe pământ din pricina aceasta, a duhului minciunii, ce urât! Ar fi să pedepsesc minciuna și lucrarea și glăsuirea ei, dar Eu sunt iubire și vreau în iubirea Mea să rămâi, popor român. De șaptezeci de ani Îmi scutur de deasupra ta cuvântul slavei venirii Mele și s-a întocmit cartea acestui cuvânt și va fi el apa cea dulce spre care vor căuta noroadele toate ca să bea pentru înviere și slavă, iar Eu, Domnul, Mă pregătesc să le ies înainte și să le așez pașii pe cale spre acest râu care merge peste pământ ca să fie căutat și găsit și trăit de oameni, o, și așa se va lucra cu bogăție nașterea din nou a lumii și se va împlini această Scriptură aşteptată de toţi sfinţii să se ivească la vedere, iar Eu, Domnul lucrez cu grabă şi împlinesc.
+
+Acum iar şi iar stau faţă în faţă cu cei care s-au tot făcut că poartă mersul ţării şi iat-o căzută în cursa pe care Eu, Domnul, dau s-o zdrobesc acum şi să dau izbăvire neamului român, iar şi iar să-i dau.
+
+Voi, cei care ați dat să pregătiți cârmaci de la voi înșivă ca să-l aveți la mână și să țineți pe mai departe sub voi neamul român după treizeci și cinci de ani de când tot aplecați sub picioarele voastre fruntea acesui neam, ascultați acum, că iată, vă amintesc iarăși de povața pe care v-am trimis-o din cer ca să așezați la cârmă un fiu pregătit pentru această treaptă și v-am spus numele lui ca să lucrați binele pentru țară după ce voi ați lucrat atât de rău atâta vreme, o, dar voi n-ați ascultat, iar dacă n-ați ascultat ați pierdut și voi, a pierdut și cel pe care ați dat să-l ridicați pe scaunul țării, căci am făgăduit că așa se va întâmpla.
+
+Acum însă dați-vă de partea adevărului, Eu, Domnul, vă cer aceasta, și girați-l pe cel care s-a scris la întrecere ca să nu cadă țara pe mâna celor netrebnici, necinstiți și lacomi de putere și de nedreptate pentru popor. Iar dacă vă veți împotrivi ca să nu ascultați iar și iar, să știți că pic cu pic se va clătina mersul vostru ca și al celor potrivnici planului ceresc, căci cuvântul Meu poartă împlinire, și mai ales cel rostit în vreme de durere, de primejdie pentru țară și neam. Acum însă vă cer ajutorul ca să vă alăturați așezării celui ce ține cu țara și să înlăturați la stânga pe cel prefăcut și mincinos și defăimător de frați și de țară, și care umblă de colo-colo să-și strângă luiși întărituri, dar el este dușman dovedit, și vă spun aceasta vouă ca să nu vă aflați că puneți degetul vostru pe cel vrăjmaș, pe fariseul care-și ascunde planul vrăjmaș, în timp ce și-l demască fără să știe ce face, căci Eu, Domnul, îi trimit încurcătură de limbă ca să se dea singur de gol că este vrăjmaș, el și cei păcăliți de el pentru lucrare vrăjmașă.
+
+De aceea Mă aplec acum și vă rog, ascultați măcar acum și lepădați-vă de cel ascuns sub nume de salvator, și treceți de partea celui care va lucra cu cinste și cu duh bun pentru țară, o, că nu e bine să vă dărâmați singuri din pricina neascultării, cu care iar și iar ați da să lucrați, căci Eu, Domnul, pot să vă dau deoparte și să lucrez biruință întreagă chiar dacă voi vă opuneți și acum.
+
+În ziua aceasta de duminică binecuvintez iar și iar poporul român ca să-i deschid ochii să vadă și să facă alegerea cea bună și să-și repare greșeala toți cei care au împins în față un vrăjmaș, dar veghea cea de sus nu stă din lucru și aduce biruință, aduce răsturnarea vrăjmașului și biruința pentru cel care voiește binele pentru țară și neam.
+
+O, Românie, țara Mea de azi, ce-ai face tu, oare, dacă Eu, Domnul Dumnezeul tău n-aș sta la căpătâiul tău ca să nu fii biruită și ca să rămâi pe culmi? O, iată iubirea Mea! Rămâi, o, rămâi întru iubirea Mea, țara Mea de azi. Iubirea Mea nu este ca a omului, iar omul nu are iubirea Mea.
+
+Te ridic și te vindec, scumpă țară. Scoală-te și umblă în voile Mele, o, țara Mea de la sfârșit de timp! Auzi tu glasul Meu? Auzi tu cuvântul Meu de deasupra ta? Eu, Domnul, te voi dărui acum cu minte și cu putere ca să faci voia Mea, spre salvarea ta.
+
+Iar voi, cei din cetatea cuvântului Meu, așezați de veghe peste țară din partea Mea, ridicați mâinile și stați spre cer cu ele ca Moise, prin care Eu, Domnul, biruiam și dezrobeam poporul său, și iată, vom birui și acum și vom da în lături pe cei care îndrăznesc cu duhul trufiei lor asupra acestui pământ și neam român, iar cuvântul Meu poartă împlinire și Se slăvește Dumnezeu prin cuvânt.
+
+Nu e timp de slăbănogire, ci e vremea să te ridici și să mergi și să te vindeci, neam român. O, strigați la cer de lângă Mine și cu Mine, strigați și spuneți voi odată cu Mine, fii români: *„Nu ne lăsa, Doamne! Fie voia Ta cu noi!”*
+
+Amin, amin zic vouă, fii ai poporului român, voiesc să Mă aplec vouă ca să vă mulțumesc pentru ascultare, după ce ziua cea de cumpănă va trece și va aduce biruință. Dar și acum, mai înainte cu o săptămână Mă aplec înaintea voastră ca să vă aplecați cu Mine înaintea Tatălui și să spunem odată toți, iar și iar să spunem: Tată, o, Tată, fă-ne ascultători să fim și dă-ne nouă din cer, dă-ne Duhul Tău și nu-L lua de la noi pentru greșelile noastre și dăruiește-ne izbăvire după voia Ta!
+
+Iar Eu, Domnul Iisus Hristos, binecuvintez și spun: Pace vouă, fii români! Vă dau din cer și vă îndemn pe voi: Rămâneți, o, rămâneți întru iubirea Mea! Amin, amin, amin.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"][/legatura_la_teme]

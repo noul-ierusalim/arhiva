@@ -1,0 +1,57 @@
+---
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfintei Mucenițe Ecaterina"
+date: 2019-12-08
+year: 2019
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1490
+cheie: 1490
+audio: https://noul-ierusalim.ro/audio/1490.mp3
+audio_file: 19.12.08.mp3
+---
+
+O, fiilor veghetori înaintea Mea în cetatea cuvântului Meu, vă așez să-Mi primiți și să-Mi puneți în carte cuvânt de pace și de iubire, și călătoria lui apoi spre cei ce-Mi sunt și-Mi stau în trupul poporului Meu, căci pacea dintre ei și Dumnezeu le aduce lor toată mângâierea, tot binele cel de sus, căci vai celor ce caută de jos binele lor, și de aceea Eu Îmi așez mereu înaintea Mea poporul și îl învăț cum să stea el înaintea Mea și să-i fie bine cu Mine și să semene cu Mine în toate și mereu, și pe toate de la Mine și numai de la Mine să le ia și cu mângâiere și cu încercări, căci Eu, Domnul, îl îngrijesc, îl tămăduiesc și îi croiesc calea, ca să nu-și croiască singur calea spre Mine, ci Eu să fac asta poporului Meu, iar el să învețe.
+
+Am sfinții în ajutorul vostru trimiși, fiilor apropiați Mie, iar azi iată la masa de cuvânt cu voi ceata mucenițelor mărturisitoare credinței tari, iar între ele strălucește azi mucenița Ecaterina, mare ocrotitoare peste voi, peste cetate și peste acest oraș al cetății Mele, și rog cu aplecare mare a Mea și a ei, rugăm pe fiii cuvântului Meu care zidește, îi rugăm să învețe credința și faptele ei tot mai mult, că iată, mireasa Mea Ecaterina a făcut din faptele credinței fii credincioși atrași spre Mine dintre cei păgâni cu viața și cu faptele și a adus Domnului rod de credință și de iubire, dar ea a avut mare de înțelepciune în ea, și numai așa a lucrat minunile, care s-au numit fii credincioși, aduși la viață cu credință, dintre cei păgâni aduși.
+
+O, dar azi Mă aplec și-i rog pe fiii credinței de azi, pe cei ce caută cuvântul Meu pentru ei, îi rog să aibă grijă zi de zi și clipă de clipă să facă ei minunea de a se aduce ei înșiși mereu, mereu lui Dumnezeu cu credința lor, și să nu se clatine în credință în vremi de încercare a răbdării și a credinței, și le pun în față pildă de credință pe mucenița Ecaterina, care în taină Mă iubea și Mă urma în mijlocul unui neam necredincios și păgân. Iar când ea a crescut și i-au venit pețitori pentru căsătorie s-a dovedit atunci a fi ea mireasă logodită cu Mine cu mare iubire, de vreme ce a dat de o parte din calea ei pe cei ce doreau s-o pețească pentru ei. Ea însă s-a aflat lepădată de datinile părintești și păgânești, căci a arătat rușinoasă și mincinoasă slujirea la idolii vremii aceleia și a dat de știre părinților ei că are pe Dumnezeu în ea cu toată slava Lui, de s-a cutremurat din temelii toată cetatea Alexandriei auzind povestea iubirii ei de Dumnezeu, necunoscutul lor Dumnezeu, căci toată cetatea slujea minciunii idolilor. Atunci tatăl ei a pus-o pe ea față în față cu ceata înțelepților de atunci ca s-o scoată ei pe ea din credința inimii ei. O, dar s-a ivit minunea cea mare a răscumpărării lor de partea lui Dumnezeu din ea, căci înțelepciunea credinței ei a avut putere să le deschidă ochii inimii lor și să vadă cu ei adevărul minciunii slujirii idolești, și apoi să le crească mult credința cea asemenea credinței ei și să rămână ei în ea, și nu s-au mai lepădat ei de Dumnezeu, și s-au lepădat de trupurile lor pe calea lor spre Domnul, iar ea a fost dată la chinuri pentru credință și nu s-a lepădat, n-a vrut un mire pământesc și vremelnic pentru ea, ci a rămas a Mea prin chinuri, și sub ascuțișul sabiei apoi, și iată câtă pildă de statornicie pentru cei ce se aleg ai Mei.
+
+O, dar iată, iată câtă puțină statornicie cu Domnul au cei ce Mă află și Mă iau din acest cuvânt! O, de ce, oare, se întâmplă așa? Eu le spun lor că din lipsă de înțelepciune vine lepădarea de Dumnezeu a celor ce cred și se leapădă apoi, căci mucenița Mea n-a putut nici în vremea chinurilor cele mai mari să-și arunce credința și faptele credinței, și aceasta numai din pricina înțelepciunii.
+
+Iată ce multă putere are credința pentru cel ce o are pe ea cu statornicie în duhul și lucrarea lui! Iar în ziua aceasta de veghe sfântă voiesc să-Mi îndemn poporul spre Mine și să-i spun să aibă grijă mare de tot, mare ca să nu piardă pacea dintre Mine și el, că iată, ea vine de la înțelepciunea inimii și a faptelor credinței, nu din altceva vine nedespărțirea de Dumnezeu în vremi de bine sau în vremi de greu.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, fiule care vii să crezi și să Mă crezi, o, ai grijă de pacea dintre tine și Mine, că dacă nu ai înțelepciunea inimii ca să știi cum poți să ai și să stăruiești și să păstrezi cu bogăție pacea dintre tine și Mine, înseamnă că nu ai lucrătoare această înțelepciune, și trebuie să te apleci ca să fii ajutat de cei ce au înțelepciunea aceasta și să iei pentru tine de la ei, dar trebuie aplecare să ai. [/legatura_la_teme]
+
+O, pace vouă de la Mine vă dau, fiilor, că dacă luați de la voi sau unul de la altul, ajungeți la despărțire și la nejertfirea cea pentru credință, fiilor! O, cum să fac să vă învăț Eu pe voi dacă ați venit ca să fiți cu Mine și cu ai Mei și să fiți ai Mei până la sfârșit?
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, fiilor, fiilor, Eu trebuie să am loc și stat în voi, căci voi nu știți singuri calea și lucrarea credinței în vremi de soare sau în vreme grea. Nu știți, fiilor, nu știți că pe calea Mea e soare, ca să nu faceți din voi nori și ceață peste vremea cea însorită. O, nu știți că pe calea voastră cu Mine sunt nori, sunt încercări, din care creștinii Mei trebuie să iasă biruitori de fiecare dată, ca să am ce să vă plătesc pentru vremea lucrului cel pentru viață cu Mine, fiilor.
+
+O, pace vouă, și întrebați-vă cu pace în voi, o, întrebați-vă pe voi înșivă dacă am ce să vă plătesc, dacă aduceți voi înaintea Mea lucru și fapte pentru plată bună, căci Eu am hotărât și am zis: *«Fiecare va fi judecat după faptele lui, faptele îl vor judeca, ele sunt cele ce judecă pe om»*! [/legatura_la_teme]
+
+O, pace vouă, fiilor, că vin sărbători cu mare prăznuire și pregătiți-vă pentru ele cu înțelepciune, cu iubire între frați, cu pace între Mine și voi!
+
+Pace vouă, pace între voi, oricât tribut ar fi să plătiți pentru ea, pentru pacea dintre voi și voi! Unde nu e pace, e pentru că este război, dar fiecare război care se poartă pentru pace este bun. O, și nu altfel să se înceapă vreun război, căci războiul este bun numai atunci când el se ridică pentru zidirea păcii, fiilor.
+
+Nu se poate pace fără război pentru ea, fără lupta pentru pace. Mucenița Ecaterina a stârnit război cumplit pentru ca să așeze pacea Mea în cei păgâni cu inima și cu viața, și care nu aveau pacea, de vreme ce nu dădeau de la ei cele ce nu seamănă cu pacea cea împotriva păcatului prin slujirea la idoli, și care nu înțelegeau nimic cu toată înțelepciunea minții lor.
+
+O, fiilor, o, fiilor, pace vouă! Și nu vă credeți înțelepți pentru voi și pentru cei neînțelegători cu voi, dacă nu aveți pacea Mea și liniștea Mea și dragostea Mea în voi. Dragostea are legile ei, pe care trebuie să le știți pe dinafară așa cum v-am rugat, și ca să le puteți pune în lucru peste voi și între voi. Și [legatura_la_teme id_capitol="6" id_subcapitol="1"]iată mireasa Mea, mucenița Mea, dă ea să vă aducă în dar duhul înțelepciunii ei, darul sufletului ei, căci Eu am fost în ea acest dar. [/legatura_la_teme]
+
+— O, cu ei, cu ei doresc să grăiesc, dulcele meu Domn Iisus, că mare putere și mare credință mi-a dat iubirea mea de Tine, căci ea mi-a dat, și nu s-a micșorat ea în încercări și în chinuri, ci s-a desăvârșit cu multul, Doamne, că multă pace îmi dădea iubirea de Tine și de toate făpturile care nu Te cunoșteau de Domn și de pace a sufletelor lor, și toate acestea le dăruiai prin lucrarea credinței și prin faptele ei, o, Doamne scump al celor ce mult Te iubesc în toată vremea lor pe pământ, atât de mult, o, atât de mult.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="1"]O, fii ai Cuvântului Iisus, nu m-a durut disprețul și ura celor ce mi-au chinuit trupul, că mă durea rana iubirii de Domnul, că tot o rană e iubirea de El în cel ce Îl iubește cu prețul vieții. Iar dacă rana aceasta nu este în cel ce iubește, o, e tot o iubire trecătoare cea care nu doare cu rană pentru Domnul în voi. O, cine și ce l-ar putea despărți de Domnul pe cel care Îl iubește cu rană după El? Necazurile sau lipsurile sau bogățiile, ori nemulțumirile sau păcatele? O, nu! Toate la un loc nu au putere, și nici mai multe de atât, căci iubirea e mai tare ca moartea, precum este scris, și moartea este biruită de iubire și de înviere.
+
+Iar voi căutați-vă bine în cap, așa cum spune vorba despre păduchii de pe cap, o, căutați-vă capul și curățiți-l bine și țineți-l pe umeri ca să vă poată ajuta spre înțelepciunea iubirii și nu spre necredință sau spre cârtire pe cale, căci calea este sfântă, și tot sfinți trebuie să aibă pe ea Domnul, căci sfinții ajung la inima Domnului și Îl coboară la ei pe El și este cu ei Domnul pe pământ, și sunt ei pe pământ iubirea care zidește, așa cum am fost eu, de am zidit pe Dumnezeu în oameni și i-am dat rod Domnului pe ei.
+
+O, pace vouă! Așa să vă culcați și așa să vă sculați, plini de pace între voi și Domnul, între voi și voi, iar judecata lucrurilor e partea Domnului, precum partea voastră este iubirea de Dumnezeu și de frați, prin bucurii, ispite sau dureri. [/legatura_la_teme]
+
+O, pace vouă! Pace și iar pace, și nu uitați, o, nu uitați voi acest îndemn! Amin.
+
+— O, dulcea Mea mlădiță, o, fiică mucenică, te dau pildă de iubire și de răbdare și de mare umilință cu viața ta între cei păgâni cu viața. Pe toți mucenicii vă am în brațe ca pildă pentru creștinii de azi și din viitor. Lângă tine strâng în brațe în ziua aceasta și pe mucenicul Mercurie, mult lucrător și el în războiul cel pentru pace, și apoi pentru paza lucrului Meu și a poporului Meu de azi, cu aceleași daruri cu care a lucrat el atunci pentru biruința cea bună în vreme de război.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, pace vouă, măi fiilor care vă voiți ai Mei cu iubirea! O, dar toate trebuiesc educate mereu și mult, iubirea și răbdarea, umilința inimii, blândețea și smerenia, și toate prin iubire și prin legile ei sfinte, ca nu cumva să lucreze de capul lor lucrările voastre, ci să dovediți voi prin ele că aveți învățător peste voi ca niște fii.
+
+O, pace vouă! Ea vine de la umilința inimii, fiilor, și așa au păstrat-o în ei toți sfinții Mei, căci ei M-au iubit pe Mine în ei, și nu s-au iubit pe ei, iar pe Mine Mă păstra în inimi pacea lor.
+
+Pace vouă, mereu vă spun! Pace între voi cu orice preț, oricât ați da sau ați pierde pentru ea ca să stea ea în voi, căci unde e iubire se depărtează ura și nemulțumirea și cârtirea, și orice duh tulburător moare, fiilor!
+
+O, pace și iubire, fiilor! Acestea le aștept în voi pentru Mine și pentru voi. Vin sărbătorile cu praznicele lor, nu uitați! O, nu uitați, cu pace să le întâmpinați, iar rugăciunea să aibă cale liberă dinspre voi spre Mine, că dacă în voi și între voi nu lucrează pacea ca punte de trecere în toată vremea cu mare și cu multă răbdare și umilință și iubire pentru ea, o, unde s-ar aduna rugăciunile voastre când le aduceți voi?
+
+Așadar, primiți mângâierea prin lucrarea păcii, și tot ce vine spre voi încredințați-vă că sunt știute de Mine, și nu vă sunt dăunătoare dacă le primiți ca de la Mine, așa cum știu Eu să vă lucrez mereu, și ca să vă pot păstra ai Mei până la sfârșit, până la ziua slavei Mele cu voi, o, fiilor. Amin, amin, amin. [/legatura_la_teme]

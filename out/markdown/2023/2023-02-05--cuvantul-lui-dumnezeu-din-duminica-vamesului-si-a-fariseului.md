@@ -1,0 +1,55 @@
+---
+title: "Cuvântul lui Dumnezeu din Duminica Vameșului și a Fariseului"
+date: 2023-02-05
+year: 2023
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1640
+cheie: 1640
+audio: https://noul-ierusalim.ro/audio/1640.mp3
+audio_file: 23.02.05.mp3
+---
+
+Sunt deasupra aici, cu cetele de sfinți și de îngeri, și-Mi așez cuvântul în cartea Mea cea de azi și păstoresc cu el, căci sunt trimisul Tatălui ca și acum două mii de ani și lucrez sub numele Meu cel nou, *Cuvântul lui Dumnezeu*, precum este scris.
+
+E zi de duminică și am de așezat în carte cuvânt în ziua aceasta. Se mijește de ziuă și vă ridic spre întâmpinarea Mea, fiilor primitori de Dumnezeu, că am cuvânt de păstorire, am de cuvântat, o, fiilor. Veghez cu sfinții de aici, de deasupra, din țara venirii Mele la sfârșit de timp, și cu cuvântul cel rostit veghez, și apoi cuvântul merge și lucrează, căci așa lucrează Dumnezeu, ca la început lucrează, căci la început a fost cuvântul, și tot așa și acum, la sfârșit de timp, când toate se sfârșesc ca să se înnoiască, și să se împlinească acum cuvântul Meu pentru nașterea din nou a lumii.
+
+[legatura_la_teme id_capitol="3" id_subcapitol="1"]Omul a stricat totul și și-a pus lucrarea lui și L-a dat deoparte pe Dumnezeu Făcătorul, o, dar cine se poate lupta cu Dumnezeu și să și biruiască? Își pierd tot timpul vieții toți potrivnicii care se doresc dumnezei să fie, căci sunt orbi și nu au cu ce să vadă dincolo de mintea lor de carne, de om căzut de la Dumnezeu prin stricăciunea născută din neascultare de Dumnezeu a omului în rai, și iată, toți potrivnicii nu văd, ci doar se fălesc, se cred în stare, iar când dau apoi cu ochii de Dumnezeu se umplu de toată rușinea și-și văd zădărnicită vremea vieții, o, și de aceea am spus Tatălui acum două mii de ani în lupta lor cu Dumnezeu: *«Tată, iartă-le lor, că ei nu știu ce fac!».*
+
+Am lucrat minunat ca să rămână pe pământ scrise lucrările lui Dumnezeu, căci am lucrat ca să poată fi scrise toate câte Îl slăvesc pe Dumnezeu în vreme. Omul fățarnic însă e orb, e surd, e îngust la minte, e neînvățat din cer, de unde vine învățătura peste cei ce o aleg pe ea. O, cum să nu fie Dumnezeu? Cine a făcut cerul și pământul și lumea și omul? O, ce să-ți fac, omule, dacă tot dai să uiți aceasta ca să găsești cumva ce să spui și tu, ca să te crezi în stare și tu. O, fă și tu cerul și pământul și toate cele făcute de Dumnezeu ca să ai apoi cu ce să te dai că știi și că poți. Tu nu vezi că dacă vrei să înființezi pe pământ ceva la vedere trebuie să te apuci să faci aceasta ca să se vadă, ca să te folosești apoi de facerea ta? Nu ți-aș cere nimic, decât să te minunezi de toate lucrările Făcătorului Dumnezeu și să te lași mic și să trăiești cu folos vremea vieții. Tu însă te-ai făcut potrivnic și-ți place de tine și de aceea nu-L iubești, nu-L cinstești pe Dumnezeu Făcătorul și de aceea te-ai lăsat duhului străin, duhul cel potrivnic lui Dumnezeu, duhul cel care a pătruns în rai și a schimbat mintea omului și l-a abătut pe om de la ascultarea de Dumnezeu, și sunt șapte mii de ani de atunci, și asta ești, omule, și asta lucrezi, o, și așa cazi în neștiință și dai să crezi că știi tu. Eu, Domnul, te rog, pocăiește-te de vremea neştiinţei tale. Nu poţi să-L biruieşti pe Dumnezeu. Apleacă-te! Te roagă Dumnezeu aceasta! Nu poți fi mare cât dai să fii. Nu poți tu cârmui peste pământ și peste semenii tăi, că nu-i al tău aceasta, căci tu ești trecător și n-ai din cer. O, nu te mai îngâmfa! Trezește-te și caută să înțelegi cât ești de mic și de neputincios pentru tine și pentru semeni. Te învăț din cer, din locul locuinței Mele și-ți spun: ascultă-Mă!
+
+[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+O, neam român, ai pe creștetul tău pecete de creștin de două mii de ani. În această zi de duminică este scris în rânduiala bisericii lui Hristos începutul pregătirii pentru intrarea în vremea postului mare de dinaintea praznicului Învierii Mele dintre cei morți acum două mii de ani, și amintește acum evanghelia Mea pilda vameșului și a fariseului, o, și trebuie luare-aminte a curățirii păcatelor lucrate cu mintea și cu fapta apoi, păcatul fățărniciei, păcatul care îl dezrădăcinează din Dumnezeu pe om ca și pe omul cel întâi zidit care a căzut de la Dumnezeu prin mintea lui.
+
+Te învăț, neam român. Hai la școala cerului! Te chem, te aștept, te doresc cu dor ceresc, că voiesc să Mă sprijin pe credința ta în cuvântul Meu de peste tine ca să împlinesc cu ea scriptura nașterii din nou a lumii, așa cum Mă folosesc de credința poporului cuvântului Meu ca să vin pe pământ cuvânt, și să împlinesc prin credința omului toate cele ce stau să vină să se așeze cu împlinirea lor, și să-i ocrotesc pe ai Mei ori de câte ori este să deschid ochii orbilor celor potrivnici lui Dumnezeu.
+
+Vin pe vatra ta cuvânt, popor român. Deschide-Mi să intru la tine! Nu poți aceasta decât prin credință că Eu sunt acest cuvânt, că Eu te strig prin el, că Eu sunt Cel ce bat ca să-Mi deschizi și să te iau spre învățătura cea din cer, cu care dau să-l învăț pe om nepăcătuirea, asemănarea lui cu Dumnezeu, așezarea la loc a celor strămutate prin necredința omului fățarnic chiar și cu sine însuși, nu numai cu cei asemenea lui.
+
+Iată pilda vameșului și fariseului. O, învățați, fiilor, din această pildă rostită de Mine acum două mii de ani și luați din ea ca să știți că înaintea lui Dumnezeu, nu trebuie să arătați că vă bizuiți pe voi înșivă, că vă cunoașteți pe voi înșivă vrednici de stat înaintea lui Dumnezeu ci, din contra, smeriți-vă și dați lui Dumnezeu toată mărirea, ca să primiți har peste har și să ajutați pe Domnul în toate lucrările Lui peste pământ în vremea aceasta a marilor împliniri, a pregătirii venirii Mele cu slavă multă și cu mântuirea celor ce cred și-Mi stau alături ca lucrători, așa cum am avut ucenici credincioși acum două mii de ani, împărțindu-Mă ei apoi oamenilor și câștigându-i pe ei împărăției Mele, turmei Mele mărturisitoare de Dumnezeu prin vreme, și iată, nu piere Dumnezeu, nu piere împărăția cerurilor de pe pământ, căci ea este înăuntrul inimii omului și a faptelor ei apoi, precum este scris.
+
+Așadar, ridică-te mărturisitor al Meu, popor român! Iată, e vremea, fiule. Stau peste tine oameni fățarnici și te supun sub cuvânt de putere, căci sunt orbi, sunt fără Dumnezeu peste lucrările lor, chiar dacă și-au pus peste ei haină de păstor și se dau vrednici să facă apăsare peste turma bisericii Mele.
+
+O, Mă doare, și-și pregătesc durere acești păstori mincinoși, căci vine peste ei durerea Mea și a celor prigoniți de ei, că Eu văd și aud durerea aceasta făcută de ei. Am mai spus și iarăși spun: Se va desface în două biserica, și asta dau să facă și să stârnească acești păstori lacomi de bani și de viață fără Dumnezeu, și care se folosesc de casa lui Dumnezeu pentru nelegiuirile lor, căci au stăpân străin peste ei, de care ei ascultă și fac lucrare potrivnică lui Dumnezeu și turmei creștine.
+
+Dar ridică-te, popor român și fă unitate frățească pentru lupta credinței biruitoare de partea lui Dumnezeu, iar Eu, Domnul, voi lua aminte și voi împlini la credința ta, o, că mare este neamul român și ungerea lui cea de la Mine, cea dintru început ca să-Mi fie Mie popor două mii de ani și până la sfârșit de timp, și ca să împlinesc prin credința lui minunea cea mare, venirea Mea cu sfinții, și alungarea de pe acest meleag sfânt a lucrării lui antichrist cu tot cu slujitorii lui fățarnici în fel și chip, chiar și cu haină de păstori acoperindu-se ei, că iată-i păstori antichriști, iată-i cum au îndrăzneala să facă stricăciune mare sub nume de păstori de biserică, dar prigonind pe Domnul cu a lor fățărnicie!
+
+Voi lua aminte, așadar, la lucrarea lor fățarnică și le voi aduce rușine și vor pierde, și voi sta cu lucrările Mele față în față cu ei, o, că nu pot să pierd lupta, și voi fi biruitor pentru cei ce plâng așteptând să vin să pot Eu, că e vremea să biruiesc Eu.
+
+Eu sunt Cel ce sunt. Să învețe aceasta cei care dau să uite că Eu sunt, și că nu ei sunt.
+
+Și iată ce le spun celor ce plâng așteptând pe Domnul pentru nedreptățile de peste ei din partea celor ce sunt fățarnici.
+
+Voi, cei din turma creștină păstori cu credință pentru Mine și pentru turmă, o clipă așteptați! Vin să fac dreptate oilor, precum este scris să fac. Este o rămășiță tainică păstrată prin har, și care nu și-a plecat genunchii în fața lui antichrist, și așteaptă aceștia să treacă ispita și să se arate înșelătorii și să iasă Domnul biruitor, și apoi să se ridice turma creștină la sfințenie pentru venirea Mea cu ziua slavei. Amin.
+
+[/legatura_la_teme]
+
+Iar voi, fiilor veghetori pentru Mine în cetatea cuvântului Meu, trimiteți-Mi cuvântul peste tot, ca să lucreze el. Amin.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, fiilor, gătiți Domnului sărbători sfinte, zile sfinte cu Mine între voi, cu voi întru Mine, fiilor. Așa cum pregătiți hrana cea pentru duminică, pentru masă frățească, o, tot așa să pregătiți și petreceri sfinte și ziditoare de slavă cerească între voi, și așa să crească puterea și lucrarea duminicilor Mele cu voi în cetate, alături de rugăciuni pentru voi, pentru turmă, pentru țară, pentru biruința Mea cu voi asupra omului antichrist, căci Eu, Domnul, trebuie să am putere peste voi, peste tot neamul român și peste pământ apoi, și tot și toate să facă voia lui Dumnezeu, care este puterea lui Dumnezeu între oamenii credinței și biruința Mea prin ei, o, fiilor. [/legatura_la_teme]
+
+Vă dăruiesc puteri sfinte, vă dăruiesc pacea cea de la Mine și vă dau din Mine, fiilor, iar voi să dați ceea ce Eu vă dau și să faceți milă cu cei ce nu au de la Dumnezeu.
+
+Vă întăresc mereu cu cuvântul și cu dorul Meu și voiesc să prind vlagă în fiii neamului român ca să pot prin credința lor, o, fiilor. Toate vin spre împlinire prin rugăciune cu cerere. Așadar, să cerem la Tatăl în numele Meu de peste voi și să primim de la El, și așa să vină împlinirile care așteaptă la hotar, și de care nu se așteaptă potrivnicii Mei cei neastâmpărați asupra Mea și a celor ce se bizuie pe Domnul pe pământ.
+
+Și acum pace vouă! Cereți Tatălui pentru voi în numele Meu, fiilor, iar Tatăl vă răspunde vouă.
+
+Vă îmbrac în har, în pacea Mea cea pentru voi. Pace vouă, pace vouă, pace vouă, o, fiilor!

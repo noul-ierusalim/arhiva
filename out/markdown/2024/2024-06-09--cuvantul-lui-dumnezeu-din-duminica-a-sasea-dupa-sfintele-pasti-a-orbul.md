@@ -1,0 +1,67 @@
+---
+title: "Cuvântul lui Dumnezeu din Duminica a șasea după Sfintele Paști, a Orbului din naștere. Sărbătoarea Nașterii Sfintei Virginia, Trâmbița lui Dumnezeu"
+date: 2024-06-09
+year: 2024
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1705
+cheie: 1705
+audio: https://noul-ierusalim.ro/audio/1705.mp3
+audio_file: 24.06.09.mp3
+---
+
+Eu sunt Cel ce sunt, și vin de la Tatăl Savaot cuvânt peste pământ în vremea aceasta despre care scrie în Scripturi că vine, și iată, a venit și vine, vine Domnul cuvânt pe pământ.
+
+Mi-am pregătit cetate de piatră pe pământ în mijlocul neamului român și locuiesc în ea cu tot cerul Meu de sfinți, începând de jos și până sus, sus, și iată cerul locuitor pe pământ între oameni, în mijlocul fiilor lumii, și care nu trag cu Dumnezeu pentru viața lor. Eu însă Mi-am ales ca și acum două mii de ani ucenici, și locuiesc cu ei și îi numesc pe ei fiii cuvântului Meu, căci i-am născut din nou de sus prin cuvânt, și-Mi sunt ei poartă de intrare în cetate și merge apoi peste pământ cuvântul Meu și Se slăvește Domnul peste pământ cu cuvântul și este slujit de îngeri, precum este scris.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Voi, fiilor primitori de Dumnezeu, fiți ochi și urechi în toată vremea pentru purtarea voastră în cetate și a celor ce vin și se înfățișează Domnului și iau din cer hrană de cuvânt când vine Domnul în sărbători cu sfinții Săi în cetate aici. O, fiilor, sunt ușile lui Dumnezeu aici, e locul coborârii Lui aici, și de aceea voi să călcați cu sfială prin cetate ziua și noaptea, să deschideți și să închideți ușile cu sfială în minte și în inimă, și aceasta pentru îngerii slujitori din partea Mea în cetate pentru Domnul și pentru cele lucrate aici, și nu uitați să dați de la voi tot timpul nepăsarea pentru acestea ce vă spun vouă, și celor care vin în cetate la sărbători, când voi le faceți întâmpinarea și îi așezați la masa Domnului alături de voi.
+
+O, n-a avut nimeni atâta trecere ca și voi, ca să fiți voi aici, unde Domnul locuiește și lucrează pe pământ în mijlocul fiilor lumii, măi fiilor. Nu este nimeni vrednic să calce cu piciorul pe așezământul lui Dumnezeu, și de aceea vă spun vouă, fiți sfioși tot timpul, e Domnul cu Ființa Lui aici, și trebuie să aveți în minte și în putere tot timpul taina Mea de aici, locul odihnei Mele, a coborârii Mele cuvânt pe pământ, fiilor.
+
+Iată, tot timpul să vă fie adunate în Mine mintea și inima, căci aici locuiește Domnul, nu voi, nu numai voi, și să se vadă că voi țineți seama de Cel ce locuiește aici, și pe Care voi trebuie să-L slujiți tot timpul aici, și nu vouă să vă slujiți aici, iar slava Mea de aici să n-o știrbiți nici cu cât un grăunte, niciun bob de cinste și de mărire să nu-i știrbiți, o, fiilor.
+
+Să învețe aceasta de la voi cei ce vin și se apropie de Domnul aici, căci Eu aduc învățătura cuvenită în toate și pentru toate câte trebuie să se păzească și să se lucreze aici, fiilor. Voi nu puteți prin voi.Voi puteți prin Mine, iar Eu pot prin voi, dar Eu, nu voi, și iată, Eu sunt puterea din voi, iar voi nu mai sunteți, și de aceea voi sunteți ai Mei. V-am curățat, v-am înnoit ca să fiți ai Mei apoi, și asta înseamnă să fie cu Mine creștinul, iar când Eu îl am al Meu pentru lucrul Meu, fac aceasta pentru că el este cu Mine și este al Meu, și nu mai este al lui ca tot omul de pe pământ, și iată mărirea în care stați de Mine așezați, și pe care voi să n-o risipiți după placul cuiva de pe pământ, și aceasta nu trebuie să uitați vreodată, iar Eu trebuie să vă învăț mereu, mereu să stau cu cuvântul Meu peste voi, mereu, fiilor, căci locul pe care stați este al Meu, este locuința Mea dintre pământ și cer acum, la sfârșit de timp, o, fiilor.
+
+[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Așezăm acum cuvânt pentru ziua aceasta, căci în duminica aceasta se trage la sorți în țara cuvântului Meu pentru cei care vor sta cârmuitori de acum încolo prin cetăți, iar Eu, Domnul, veghez acum cu îngerii și cercetez din loc în loc, după cum sunt fiii acestui neam, ca să se potrivească aleșii și slujiții, căci faptele vorbesc întotdeauna, după cum Eu am spus că fiecare primește după faptele sale, o, și ce puțin cred oamenii acest atât de mare adevăr, care slujește după dreptate pe pământ, fiilor, și de aceea am spus prin cuvânt că omul doarme ziua și noaptea, că doarme mereu, și nu se mai scoală ca să dea trezvie îngerului Domnului din el, conștiinței care nu mai veghează în om de partea lui Dumnezeu, și este Domnul îngrijorat pentru viața omului nepăsător de suflet pe pământ.
+
+O, fiilor, e mare orbirea de peste oameni, și nimeni nu-i poate spune omului aceasta, căci el știe că vede. O, nu mai știe de Dumnezeu omul, nu mai știe, se dă păcatului și atât, iar cerului nu-i mai dă omul nimic din viața lui de pe pământ. Acum crește și tot crește răspunsul omului, că vine pe pământ cuvântul Meu de trezire și va fi omul întrebat cum l-a primit, cum l-a împlinit, cum a crezut în el și cum a stat înaintea Mea și a glasului Meu peste pământ în acest timp.
+
+Așadar, fiilor, să ridicăm la Tatăl rugi durute pentru cei de pe pământ, căci omul este nepăsător pentru sufletul lui, și iată, se naște și se murdărește de mic cu desfrâul cel negru la Dumnezeu, și se căsătorește apoi și face prunci asemenea lui și nu-și poartă cinstea familiei și-și lucrează desfrâul pe mai departe, o, și numai atât știe să facă și să-și risipească viața în păcat, și e de strigat la Tatăl pentru întoarcerea la sfințenie a omului, și toate acestea Eu le grăiesc cu voi ca să vă așez la lucrul cel sfânt pentru întoarcerea la Dumnezeu a oamenilor și pentru propășirea spre cer a mersului cel sfânt, dacă oamenii se întorc cu fața la Dumnezeu, după cât cuvânt vine spre ei din cer ca să-și vină în fire și să-L cunoască pe Domnul și să-I dea ascultare și slavă apoi, căci omul pentru asta a fost zidit pe pământ, măi fiilor.
+
+L-am vindecat pe orbul cel din naștere orb acum două mii de ani ca să fie această mărturie rămasă peste oameni pe pământ, căci am grăit orbului pentru el și pentru mai-marii vremii de atunci ca să rămână grăirea Mea, și iată zi de sorți pentru țară în duminica orbului, că așa găsesc de cuviință cei care se ocupă cu sorții pentru popor, cei care spun că văd bine, că nu sunt orbi și că văd. Eu însă am spus acum două mii de ani că am venit în lumea aceasta pentru judecată, ca toți cei care nu văd să vadă, iar cei care văd să ajungă orbi. Și dacă unul din farisei Mi-a zis: *«Doar n-om fi și noi orbi»*, Eu i-am răspuns: *«Dacă ați fi orbi n-ați avea păcat, dar acum ziceți „vedem”, și de aceea păcatul vostru rămâne».* [/legatura_la_teme]
+
+Dar iată, fiilor, în duminica aceasta s-a potrivit sărbătoarea nașterii trâmbiței Mele Verginica și o au sfinții în mijlocul lor cu sărbătoarea ei, iar Eu vin la voi cu această petrecere cerească, vin cu trâmbița Mea, fiilor.
+
+Ne așezăm, Verginica Mea, Ne așezăm cu toții la masă cu ei în ziua ta de serbare de naștere a ta pe pământ, și grăim cu poporul născut prin lucrarea cuvântului Meu și-i dăm din cer, ca să fie al cerului acest popor pe pământ, și nu al pământului să fie, căci Noi locuim cu cerul pe pământ aici, și mare este taina venirii Mele, și multă putere are cuvântul Meu și poate el cât Dumnezeu! Așadar, să așezăm cuvânt pe masă și să-l facem lucrător să fie, căci fără ascultare din partea lor Noi n-am avea popor, o, n-am avea, iar suferința Domnului ar fi grea de tot, și iată, avem loc ales, avem locuință și lucrare de rai peste pământ acum, Verginica Mea.
+
+— O, fie, Doamne, plin de putere cuvântul Tău acum, și pe veci de veci, căci vorbești cu putere, Doamne, și fericiți trebuie să fie cei ce ascultă și împlinesc cuvântul Tău cu toată credința și până la sfârșit! Le-aș dori această fericire la toți cei care au aflat cuvântul venirii Tale de la Tatăl acum, o, dar mulți n-au fost fericiți când ai dat să-i mustri pentru neîmplinirea cuvântului Tău și Te-au părăsit și au părăsit această fericire, bieții de ei, căci trufia este diavol greu de urnit din mintea omului, și nu știe omul cât de mic ar fi să se știe și să se vrea față în față cu Domnul și cu orice semen, cu orice vietate, Doamne.
+
+Tu i-ai ales ai Tăi pe cei mici, nu pe cei buni şi mari. L-ai ales pe David de la oi şi l-ai aşezat împărat peste poporul Tău şi nu i-ai luat pe fraţii lui cei mari şi buni, ci pe cel mic l-ai luat şi l-ai aşezat pe tronul Tău de domnie peste poporul Tău, Doamne.
+
+Ai venit acum două mii de ani și n-ai ales nimic pentru Tine dintre cei mari și buni, o, și Te-ai dus pe malul apei și Ți-ai făcut ucenici pescari, nu oameni învățați sau școliți, o, nu.
+
+M-ai ales pe mine să-Ți fiu trâmbiță pe pământ, fată săracă și smerită, nebăgată în seamă, și apoi prigonită de toți, din pricină că eram suflețel al Tău iubit, Doamne. Eram copil smerit de tot, și m-ai făcut mare pentru Tine și pentru lucrarea Ta, așa cum ai făcut cu David și cu ucenicii Tăi, și cu mulți dintre cei smeriți și mici și slabi.
+
+O, nu pot fi ai Tăi cei mari, cei ce vor să fie ceva mai mult decât sunt ei sau alții de pe lângă ei, Doamne. Iată trufia a așezat pe pământ mulțime de preoți, dar aceștia nu sunt buni pentru Tine, pentru slava Ta, și nu au voie să fie mici și fără școală și simpli la port și la stat și la suflet și la slujire, Doamne, căci li se cere să fie mari și să se dea mari. Li se cere preoților să aibă școală, dar Tu n-ai ales acum două mii de ani oameni cu vază ca să-i faci preoți ai Tăi, ci pe cei mai smeriți cu numele și cu viața, pe aceia i-ai ales și i-ai mărit cu mărirea Ta prin smerenia Ta.
+
+O, Doamne, o, Doamne sfânt, preotul trebuie să fie om sărac cu duhul, om aplecat, și care să slujească sub stăpânirea Ta merindea cea sfântă pentru oile turmei Tale, și nu mai mult să fie cel ce este preot slujitor, căci altfel omul se îngâmfă că este, că poate, că știe, o, și pierde harul, că pleacă harul de la omul îngâmfat.
+
+Nu-i trebuie preotului cinstire, ci doar slujire cu smerenie, căci Tu așa Te-ai arătat pe pământ între oameni, blând și smerit cu inima, și erai Dumnezeu, o, Doamne. Iată greșeală fără de margini, și ce să facă lumea cea atât de greșită, ce să facă cu așa preoți, Doamne? Iată și creștini plini de trufie și de nemulțumire apoi, și cine să-i mai învețe pe oameni smerenia, duhul blând și smerit, sărăcia de duh, o, cine să mai dea acestea ca să le aibă oamenii, și mai ales slujitorii de la altare, care au nevoie de mare umilință, de mare sfințenie, Doamne?
+
+Păcătuiește omul pe furiș, și se dă apoi mai mult decât cei ce păcătuiesc. O, cum va fi dezrădăcinat acest păcat luat în fire încă de copil de fiecare om lucrător de păcat?
+
+O, ai grijă de poporul cuvântului Tău, ai grijă mereu, Doamne, păzește-l de întuneric, dă-i mereu povața cea de sus, că fără povața Ta mereu peste cei hrăniți de sus adoarme creștinul și se lasă spre nepăsare și spre rele și spre neascultare, Doamne.
+
+Privesc cu duh durut peste cei desprinși din trupul poporului Tău hrănit de sus de atâtea zeci de ani, o, și văd în câtă nepăsare s-au îmbrăcat și s-au lăsat spre păcat și au dat de la ei teama pentru răspunsul pe care au să-l dea înaintea Ta pentru viața lor cu Tine, și apoi fără Tine, Doamne.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="1"]O, fii și fiice din Ierusalim, e Domnul cu Ierusalimul de sus peste voi, patria cea sfântă, cea pentru sfinți. Nu încetați să aveți în minte și în inimă sfințenia cea de sus, cea pentru sus, căci oamenii pe pământ lucrează văzut și nevăzut păcatul tot timpul, iar Domnul Și-a voit un popor sfânt zi și noapte să aibă înaintea Sa pentru venirea Sa cuvânt pe pământ. Așadar, iubiți raiul, fiți ca în rai, zidiți zi și noapte raiul pe pământ, că e de zidit mereu la acest așternut, și e mereu de împodobit pentru sfinți și îngeri, ca să fie cei din cer cu cei de pe pământ, și numai așa să fie în toate locurile pe unde are Domnul suflețele dăruite sfințeniei Domnului pe pământ.
+
+O, Doamne, fă să se împlinească tot cuvântul meu de azi peste ei, și tot timpul. Așa mă aplec și așa Te rog. Și chiar dacă aș mai sta în cuvânt cu ei, le-aș da lor același îndemn: sfințenie, aplecare, smerenie, sărăcie de duh pentru plăcerea Domnului în ei, iar Tu le vei da lor mai mult și mereu, că multe sunt de lămurit și de întărit pentru împlinirea lor peste ei, și dinspre ei spre Tine, Doamne. [/legatura_la_teme]
+
+Iar acum Tu ești Păstorul și pecetea fiecărui cuvânt din cer peste ei, și slavă măririi Tale cu ei, și să crească ei mărirea Ta din mijlocul lor, și vor fi ei scriși copii ascultători Ție, mereu, mereu aplecați, mereu, mereu ascultându-Te ei, o, Doamne!
+
+— O, Verginica Mea, multe sunt de întărit peste ei, căci unii din cei hrăniți de Noi sunt tăgăduitori și încă neîmplinitori. O, ce vom face cu toți cei care știu ce au de lucrat și încă nu ascultă să-și lucreze mântuirea și raiul?
+
+Fiilor, fiilor, avem de adus pe masă de cuvânt lămuriri mari cu tot întregul lor, căci Eu, Domnul, prin acest popor am de împlinit o mulțime de minuni prin ascultare și în lumină, și de aceea avem și tot avem de făcut așezări și ascultare apoi, că voiesc să biruiesc mai curând pe satana și duhul îngâmfării de pe pământ, și iată, vă cer lucrători cu toți cei care Îmi stau aproape Mie și vouă, ca să întărim împlinirea cuvântului Meu, fiilor.
+
+Şi acum binecuvintez mersul Meu cu voi şi prin voi pe mai departe sub grija Mea de voi, căci suntem la capătul filelor Scripturii și așteaptă Domnul cu raiul, așteaptă raiul la hotar, o, fiilor. Amin, amin, amin.

@@ -1,0 +1,9 @@
+# Audio recordings — large binaries, not tracked in git
+*.mp3
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.DS_Store
+
+cache/

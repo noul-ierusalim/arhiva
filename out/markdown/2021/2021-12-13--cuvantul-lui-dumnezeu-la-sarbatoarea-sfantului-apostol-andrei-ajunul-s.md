@@ -1,0 +1,55 @@
+---
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfântului Apostol Andrei, ajunul Sărbătorii Sfintei Virginia, Trâmbița lui Dumnezeu"
+date: 2021-12-13
+year: 2021
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1590
+cheie: 1590
+audio: https://noul-ierusalim.ro/audio/1590.mp3
+audio_file: 21.12.13.mp3
+---
+
+Cu întreită sărbătoare Ne însemnăm în cartea Mea cea de azi cu voi, fiilor din cetatea cuvântului Meu, și pace vouă, o, fiilor! Eu, Domnul, sunt aici, sunt cu cei din cer ai sărbătorii de azi, zi în care cuprindem ziua ce a trecut în amintirea începutului văzut al cetății Mele de Nou Ierusalim cu voi și însemnarea cea din cer a Sfintei Sfintelor, sfințirea chivotului alb și pecetluirea grădiniței cuvântului Meu, și apoi aducem în carte și ziua ce vine după aceasta, ziua intrării întru cele cerești a trâmbiței Mele Verginica, și iată întreită sărbătoare, fiilor!
+
+Am alături pe apostolul Andrei și pe Verginica și avem însoțitori cerești veniți din poporul hrănit prin trâmbița Mea și stăm la masă de cuvânt și de nădejde, măi fiilor, o, că am rămas cu voi și mergem înainte cu slava cuvântului Meu peste pământ, și le dăm îndemn sfânt celor ce n-au răbdat până la sfârșit cu Mine și cu voi prin acest cuvânt și mers, îi îndemnăm cu milă să se căiască cu mari păreri de rău pentru toate durerile făcute cerului, pentru toate cuvintele cu care au lovit în voi față cu cei ce au primit putere să creadă și ei în minunea venirii Mele cuvânt pe pământ și a mersului Meu cu voi, căci păcatul clătinării în credință asupra celor luminați de Mine pentru credință, e mare acest păcat, căci Eu, Domnul, cu greu suflu peste om credință și viață cu folos pentru suflet cu dor de mântuire, iar dacă primește unul ca acesta duh de necredință în cuvântul venirii Mele de la Tatăl spre om, o, Eu pierd suflete și pierde Domnul pe cel câștigat cu trudă, cu lacrimi vărsate cu așteptare după om, o, fiilor.
+
+Au fost doborâți dintre cei ce au dat și ei să înțeleagă și să creadă și să poată pentru mântuirea lor după ce Eu, Domnul, le-am dăruit ridicarea din nepăsarea de suflet. Și nu numai atât răceala lor de Mine și de voi, căci apoi aceștia au fost hrăniți cu mult dispreț pentru voi, iar Eu merg și azi cu voi, după ce nu-i mai am pe cei ce Mi-au stat alături mulți ani până ce n-au mai voit să stea și s-au tras în lături, împrăștiind atâta îndoială, atâta necredință, atâta batjocură pe mersul Meu cu voi, căci ce altceva ar mai putea să facă cei care lasă în urmă amintiri sfinte și pleacă iarăși de unde au venit, în lume, fiilor, acolo unde Eu nu sunt iubit, nu sunt urmat, nu sunt primit?
+
+O, cât aș vrea să șterg acest păcat al disprețului de Mine și de voi din dreptul celor care s-au despărțit, și care i-au despărțit și pe cei care ar fi putut să fie ajutați să poată pentru credință și cu Domnul! Păcatul împotriva acestei lucrări de cuvânt și al mersului Meu cu voi, e greu, fiilor, acest păcat. Vă spun vouă aceasta că și voi sunteți îndurerați pentru cei ce au lucrat acest păcat și n-au mai căutat spre pocăință cu lacrimi, iar acum, Eu, Domnul, îi îndemn la păreri de rău și le dau lor acest simț al inimii care doare pentru pocăință, numai să mai poată ei să-i doară de ei.
+
+Iar acum, pe voi vă întăresc și vă ocrotesc și vă privesc mereu duhul, căci voi stați în duhul pocăinței, cea mai frumoasă stare a unui creștin iubitor de Dumnezeu, și care știe cum se stă lângă Dumnezeu, cum să-L țină pe Domnul aproape, cum să stea în slujirea cea pentru Domnul pe pământ prin pocăință fără de capăt, o, și de ar fi învățat aceasta toți cei care M-au cunoscut în acest cuvânt, pentru care Mă sprijin pe voi să-l așez pe pământ față în față cu omul, ca apoi să vin să Mă arăt, să vin văzut, precum este scris să vin și să împlinesc cele scrise în Scripturi până la capătul împlinirilor toate, o, și cât de mult Îmi trebuiți, fiilor, o, cât de mult!
+
+[legatura_la_teme id_capitol="5" id_subcapitol="5"]Suntem aici acum cu amintirea celor trei zile de serbare întru una, fiilor: pecetluirea grădiniței cuvântului Meu acum treizeci de ani, apoi ziua apostolului Andrei, martor din cer atunci, iar după ea ziua trâmbiței Mele Verginica, și stăm în sfat cu voi la masă de cuvânt, stăm cu voi, fiilor. Privim din cer și de pe pământ, privim cu amintire dulce, dar și tristă, privim ziua cea de acum treizeci de ani, când am putut prin credința și prin lucrul Meu cu voi să așezăm pecetluirea grădiniței cuvântului Meu alături cu arhiereul Meu cel de pe pământ lângă voi atunci, și cu apostolul Andrei dintre cei din cer arhierei, iar lângă aceștia a stat trâmbița Mea Verginica, martori de sus lângă martori de jos pentru sfințirea ieslei cuvântului Meu.
+
+O, și Mă aplec Tatălui ca să-I mulțumesc cu lacrimi că am rămas cu voi, fiilor, că pot să merg mai departe, că am sprijin de la voi și credință în voi ca să pot să merg și să nu stau din mers, și vă îndemn spre puteri de sus să căutați pentru voi mereu, mereu, că se împlinesc aproape șaptezeci de ani curând, fiilor, de când Eu, Domnul, Mă fac cuvânt peste pământ, râu al vieții veșnice, o, și numai din greu am mers, că mai mereu dintre creștini s-au ridicat trădători, defăimători, hulitori, vânzători de taine și de frați, că iată, îi este greu creștinului să stea până la capăt, după ce a fost luminat cu credința și cu mila Mea pentru om, iar Eu, Domnul, am avut numai de oftat, numai în lacrimi, fiilor, numai așa mereu, căci așa poate omul să-I facă lui Dumnezeu dacă nu se leapădă de sine, și numai apoi să caute să Mă urmeze, și până la sfârșit, nu numai o vreme, căci părăsirea mersului cu Domnul apasă greu la Dumnezeu apoi. [/legatura_la_teme]
+
+Stăm acum în sfat cu martorii cu care am venit la voi și Ne așezăm în carte cu masă de cuvânt și însemnăm sărbătoarea și duhul ei.
+
+Sunt cu voi venit, căci ați fost martori din cer în ziua pe care azi o avem ca amintire privind la ea, și cuvântăm acum, iubiții Mei din cer.
+
+[legatura_la_teme id_capitol="5" id_subcapitol="5"]— Da, Doamne, ne-ai luat atunci alături. Ai coborât cu mine ca să-Ți fiu martor din partea ucenicilor Tăi cei doisprezece și m-ai ales ca să mă iei ca pe cel întâi chemat ca să Te urmez ca ucenic, și apoi ca pe cel care a pecetluit cu numele Tău pământul român și neamul de pe el acum două mii de ani, după ce ai înviat și ne-ai trimis pe noi să ducem vestea împărăției cerurilor peste tot neamul, iar eu am venit pe acest pământ și am scris pe el numele Tău ca Dumnezeu al acestui popor de pe acest meleag, odată cu Tine înființat ca neam între neamuri, și a fost acest neam de atunci și până azi neam creștin. O, și mi-ai dat mie bucuria să fiu lângă Tine și acum, la sfârșit de timp aici, unde Tu ai început împărăția Ta și taina ei lucrând pe acest pământ ales Ție de Tatăl ca să-l ai al Tău pentru venirea Ta iarăși pe pământ după om.
+
+Am fost martor lângă arhiereul Tău de pe pământ în ziua aceea și s-a așezat din cer și de pe pământ taina și lucrarea ieșirii deasupra a cuvântului Tău care grăiește din anul 1955 pe acest meleag român prin trâmbița Ta, prin Verginica, până ce ai luat-o la cer lângă noi, ca apoi să pregătești cărare pe mai departe a mersului Tău cuvânt peste pământ, că Tu mergi și nu stai, chiar dacă mulți pornesc în mersul lor cu Tine și se lasă de Tine apoi. [/legatura_la_teme]
+
+O, Doamne al nostru și al lor, al celor ce-Ți poartă venirea, voiesc să le spun lor așa cu binecuvântarea Ta:
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]O, copii ai lui Hristos, ucenici de azi, voi să purtați jugul Lui și să nu vă îngrijorați cu nimic, căci jugul Lui este ușor, fiilor. O, de ce este ușor? Fiindcă cei ce-l poartă au iubirea ca lucrare și este ea atât de dulce, atât de odihnitoare, atât de ușor de purtat, iar necredința și toate răutățile ei sunt jugul cel mai greu, cel mai rușinos, cel mai apăsător, iar cei ce sunt așa n-au odihnă.
+
+O, fiți fiii iubirii! Noi așa am putut să fim și să purtăm jugul Domnului, iar cei ce n-au putut așa până la capăt, aceia s-au lepădat de Domnul ca și cei din vremea voastră, care n-au ținut pasul cu voi, și au pățit aceia ca frații lui Moise, care l-au urât pe el numindu-l păcătos și nevrednic de Dumnezeu. Așadar, iubirea din voi vă ferește de orice duh potrivnic, ca să puteți mai mult ca noi, cei de atunci ucenici ai Domnului. Aceasta este taina unui ucenic desăvârșit: iubirea și jugul ei cel ușor, Domnul și purtătorii Lui, fiilor. Amin.
+
+— O, tot așa și eu, și eu, Doamne, trâmbițez peste ei și le spun lor să rămână așa, întru iubirea Ta, și să poată prin ea și pentru cei ce n-au putut pentru ea până la capăt, o, că n-au putut pentru Tine până la sfârșit, și au părăsit calea și au luat pe inimă și pe buze cuvinte de necredință și dezvinovățirea lor, pentru care s-au tot căinat în stânga și în dreapta cu nemulțumire, iar pentru aceste păcate ne-au pierdut, și și-au ales să lucreze necredință peste mulți, chiar dacă ei nu și-au pierdut credința, ci numai statornicia, numai răbdarea cea pentru cruce.
+
+Mă port cu privirea spre cei ce stau acum cu noi pe cale și îi povățuiesc numai și numai pentru iubire să poată, căci acest jug dulce ține omul pe calea cea cu slavă a crucii, Doamne, că iată, nu poți altfel, fiule creștin, nu poți rămâne cu Domnul decât dacă nu pierzi duhul și lucrarea iubirii. Ea îți păstrează și credința cea cu putere în ea, dar și statornicia și lucrarea ei doveditoare față în față cu Domnul și cu frații Săi.
+
+Vă privesc duios, vă mângâi pentru mersul cu Domnul. Sunteți puținei, dar cei din cer se strâng lângă voi ca să nu fiți puțini, numai să învățați tot mai statornic să-i țineți aproape, să le dați loc cu voi și în tot lucrul vostru cu Domnul, că iată, nu mai are Domnul pe alții.
+
+E mare slava Domnului peste voi, fiilor. O, stați cu ochii deschiși spre această minune și puneți pe ranele voastre cuvântul cel dulce al creșterii voastre când Domnul vă grăiește vouă și vă dă viață să lucrați în voi și să-I dați Lui viața ca să vă poarte El de grijă, fiilor. O, faceți-vă cuvânt de viață unul peste altul ca frați ai lui Hristos, ca unii care aveți masă pusă mereu, și pe ea cuvântul vieții, fiilor, o, și să nu apună între voi glasul cuvântului, cartea care vă poartă în ea când Domnul vă grăiește vouă.
+
+O, Doamne, m-am mângâiat cu ei, m-am mângâiat de dor. Dorul fără de mângâiere plânge, dar când prinde grai se alină. Așa am grăit eu acum cu ei, așa ne mângâiem noi când le grăim lor.
+
+— O, Verginica Mea, și tu, apostol iubit, am stat cu voi la masă cu ei ca să-i mângâiem și ca să Ne mângâiem. Orice rană are nevoie de mângâiere, căci dorul doare, iar când prinde grai găsește alin.
+
+O, fiilor din cetatea Mea de cuvânt, ați fost luați în brațe de cei din cer, care au suflat peste voi cu duhul iubirii.
+
+O, fiilor, rămâneți întru iubirea Mea! Spuneți și voi: *Rămâi întru iubirea noastră, Doamne! [/legatura_la_teme]*
+
+O, fiilor, să ne asemănăm prin iubire și pentru iubire, prin aceeași iubire pe care de la Mine s-o învățați și s-o dăruiți. Priviți-Mă tot timpul ca să rămâneți întru iubirea Mea, iar Eu întru iubirea voastră să rămân, îmbrățișați prin ea și pentru ea tot timpul, o, fiilor. Amin, amin, amin.

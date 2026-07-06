@@ -1,0 +1,43 @@
+---
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfântului Apostol, întâiul mucenic şi Arhidiacon Ştefan"
+date: 2017-01-09
+year: 2017
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1354
+cheie: 1354
+audio: https://noul-ierusalim.ro/audio/1354.mp3
+audio_file: 17.01.09.mp3
+---
+
+Izvor de cuvânt este glasul Meu, și se face el mângâiere, că e multă nevoie de mângâiere, iar mângâierea întărește puterea Mea și a ta, popor al cuvântului Meu, și întărește ea puterea multora care Mă caută în cartea Mea cu tine, carte deschisă, ca să fiu găsit în ea cu duhul mângâierii și să Mă dăruiesc cu el și să Mă mângâi când Îmi împart mângâierea.
+
+Dintre cetele din cer am masă de cuvânt în ziua aceasta cu ceata mucenicilor mărturisitori, între care este sărbătorit mucenicul Ștefan cu ziua lui de sosire între sfinții Mei. Când văd dorul lor lângă dorul Meu intru cu ei în carte și punem în ea masă de cuvânt, de la care se împarte mângâiere.
+
+O, pace ție, poporul Meu de la izvor! Tu ești cel ce așezi pe Domnul în mijlocul tău cu cuvântul Său, din care se mângâie suflete multe și iau putere să se facă și să rămână ei fii ai lui Dumnezeu, că iată ce frumos lucra și Mă împărțea slujitorul Meu cel sărbătorit azi! O, era plin de dor de Dumnezeu și de duh de Dumnezeu acest ucenic, și-Mi îngrijea biserica și împărțea pâinea cea pământească și hrană de Duh Sfânt pe masa turmei Mele, de a cărei viață se îngrijeau apostolii Mei, cei care au așezat pe Ștefan la lucrul cel împărțit peste turmă, după ce l-au văzut dăruitor de putere și de mângâiere și de cuvânt sfânt, din care turma lua pe Domnul spre înțelepciunea ei și-Mi slujea cu dor, căci dorul este cel ce-l face pe om să poată spre ceea ce înclină el, fie spre păcat, fie spre Dumnezeu și spre sfințenie cu viața și cu fapta, și e mare taină lucrarea dorului și spre ce înclină omul cu dorul din el.
+
+O, nu-i mai este omului dor de Dumnezeu. Îl tot aștept pe om să-i fie dor de cei din cer, de patria celor veșnici și de duhul ei în duhul omului, duhul mângâierii de sus. E rece omul și caută să ia de la om pentru sufletul lui, și lucrează cu omul cel ce ia de la om, sau nici așa nu mai lucrează când îi lipsește credința și roadele ei apoi. Cei ce nu au roade nu au credință, căci credința din om face ce a făcut credința lui Ștefan, că tot un foc, tot un duh și un lucru sfânt ieșeau din gura lui și din mâna lui apoi ca fapte sfinte pentru turma bisericii Mele. O, el Îmi dădea inima și sălașul ei plin de dor și de duh cu dor, și din aceasta venea și dăruirea cu mâna pentru slujirea bisericii Mele, iar Eu am ce să mărturisesc pentru el în cer și pe pământ, și era el ucenic din ucenic și lucra desăvârșit cu mărturisirea lui cea pentru Hristos, iar cei goi de Hristos, goi de tot, își înțelegeau lipsurile iubirii și ale înțelepciunii și nu puteau îndura înfrângerea și-și aspreau inima în fața adevărului cel despre ei împotriva lui Hristos și a Duhului Sfânt și-și dădeau pe față ura lor, goliciunea lor, pe care n-aveau cu ce să și-o acopere, căci erau lipsiți de daruri și de lucru cu dar, și iată de ce nu poate să tacă cel neîmplinit, căruia i se vede și i se arată neputința lui!
+
+O, ucenicule destoinic pentru Hristos, e ziua ta de serbare și-ți dau intrare lângă Mine ca să grăiești în mijlocul bisericii Mele de nou Ierusalim, acum, când Eu vin pe pământ cuvânt și-Mi zidesc cu el cale și-Mi zidesc popor. O, pace ție și cuvântului tău mărturisitor! Amin.
+
+—O, Doamne Mângâietor, e tot o mângâiere în el duhul celui ce Te mărturisește împărțindu-Te între frate și frate. Dorul de Dumnezeu se face lucru duhovnicesc din cei ce Te doresc cu neliniștea dorului din ei, că tot o neliniște este acest dor în cei ce Te au de hrană sufletului lor, Doamne. Ei știu ce dulce este această hrană, pe care și-o împart, iar taina aceasta s-o învețe bine cei mânați de dor de sus pentru calea Ta cu cei ce Te doresc pe pământ, că fără lucrul dorului aprins tot timpul în cei ce merg cu Tine pe cale ei nu sunt lucrători și primitori de plată apoi pentru lucru, și sunt leneși, iar lenea este păcat de moarte, și se lasă neputincios în el și din el cel ce nu lucrează Ție și nu Te împarte, o, Doamne!
+
+O, e foc dorul de Tine în om. Îi plâng pe cei care nu simt arsura lui în lucrul lor lângă Tine. O, numai lucrul cel duhovnicesc îl umple de dor de Dumnezeu pe creștin, și simte el să împartă din acest foc și se hrănește frate pe frate din hrana aceasta sfântă, hrană care sfințește omul și îl păstrează apoi sfânt.
+
+Mă așez în fața poporului cuvântului Tău de azi și-i dau lui din dorul meu, Doamne, că e ziua mea între sfinți, și sunt tot așa cum eram pe pământ, când tot un foc eram în mine pentru dorul de Tine și pentru împărțit din el, ca să dau mângâiere celor ce se alegeau ai Tăi în vremea aceea de după coborârea Duhului Sfânt cu multul peste cei ce aveau în ei mistuitor dorul de Tine, Doamne. O, tot așa sunt eu și în cer între sfinți, și dau poporului Tău de azi îndemnul și spun:
+
+Fiți plini de Duhul, voi, cei tocmiți ai Duhului Sfânt! Cuvântul lui Hristos e foc care arde cu dor în cei în care el se așează, și din care se împarte acest foc și dor. Lucrul cel duhovnicesc îl umple de dor de Dumnezeu pe cel bogat de acest duh. Duhul mărturiei este în mijlocul vostru cu multul prin cuvântul lui Hristos și vă îmbracă pe voi pe dinăuntru și pe dinafară ca să semănați cu Domnul înaintea Sa și înaintea oamenilor. O, fiți plini de Duhul! Orice clipă goală e durere pentru Duhul Domnului, Care dorește pentru El cu dor și-Și face ucenici lucrători așa cum este lucrarea Sa. Orice colțișor întunecos se luminează și tresare și zâmbește când Duhul îl atinge. Ucenicul cel mărturisitor nu îndură să nu împartă putere și mângâiere, de care este atâta nevoie peste tot, și care împarte atâta bine, atâta sănătate de duh și de trup, atâta viață de sus.
+
+O, e sărac de Dumnezeu pământul și omul, iar Duhul arde să Se așeze cu mângâierea Sa peste suferință pe unde este ea și peste pustiul cel fără Dumnezeu al lumii, căci unde nu este Dumnezeu cu omul, acolo e pustiu și este lipsă de viață și de bucurii trainice și binefăcătoare omului. O, nimeni să nu uite că bucuria cu Domnul e binele cel mai dulce și cel mai bun pentru suflete, dar să aibă cine să împartă această taină și toată lucrarea ei.
+
+Daruri de sus vă împart cu duhul cuvântului meu în ziua mea de serbare între sfinți. Fiți darnici, și veți avea mângâiere, și de la ea putere, o, frați iubiți!
+
+Îți mulțumesc Ție, Doamne! Sunt plin de Tine ca și pe pământ cât Ți-am slujit. O, facă-se voia Ta peste toți fiii poporului cuvântului Tău! Amin.
+
+— Și Eu îți mulțumesc ție, ucenicule mărturisitor peste poporul Meu de azi pe pământul român. Mă sprijin cu voi, o, sfinți iubiți, ca să așezăm întărire și putere pentru lucrul Meu cel sfânt, dar iată, nu s-a putut să am mulți lucrători, că greu se mai găsește creștin statornic sub slava cuvântului Meu din vremea aceasta și lucrător cu Mine peste pământ și peste cei ce caută pe Domnul aici, la ieslea Sa de cuvânt.
+
+O, fiilor, fiilor, fără hrană primită de sus și împărțită între frate și frate nu este putere în creștin, nici pentru Mine, nici pentru el, nici pentru cei din jur. Așadar, pilda lui Ștefan, cel plin de Duhul este cale de urmat pentru poporul cuvântului Meu. O floare proaspătă se usucă dacă nu este adăpată, și tot așa și duhul și lucrul creștinului nelucrător cu duhul.
+
+Vine praznicul Bobotezei, fiilor, și se apropie grăbit. Cei plini de dor și de sete cu dor vin la apă, fiilor, vin curând la izvor. O, gata să fim de sărbătoare și de întâmpinare în prag! Casă și masă caldă, totul împodobit frumos, că e frumos tot ce e frumos, o, fiilor, și așa să ne așezăm în prag pentru primire de oaspeți și pentru masa Mea cu ei. Șapte zile de lucru mai sunt. Dăruiți-vă cu înțelepciune și cu dăruire și cu clipe răscumpărate în zilele care au mai rămas pentru pregătirea care mai este de împlinit.
+
+Strângeți-vă în sfat frățesc, fiilor, și învățați să primiți povață de pe masă și lucru de lucrat apoi, că timp nu e mult, și trebuie chivernisit timpul cu înțelepciunea cea de pe masă frățească, fiilor. Misiunea voastră este mare, mereu mare, mare cât nu înțeleg cei ce Mă știu aici cu voi, și cât nici voi nu o înțelegeți pe deplin, dar e măreață această misiune, iar Eu sunt în față, mereu în față, fiilor, și nu e greu pentru cei ce știu să creadă și să primească lucrând la această slavă.
+
+Vă dau vouă din cer, ca să aveți cu voi și între voi, din cer să aveți, că din cer vine puterea și toată lucrarea ei. Fiți plini de pace, fiilor, între Mine și voi, între voi și voi și dăruiți-vă pentru ea! O, lucrați pacea! Ea este mângâietoare, o, fiilor. Amin, amin, amin.

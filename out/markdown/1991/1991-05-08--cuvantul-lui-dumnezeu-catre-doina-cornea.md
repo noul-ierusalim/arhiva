@@ -1,0 +1,29 @@
+---
+title: "Cuvântul lui Dumnezeu către Doina Cornea"
+date: 1991-05-08
+year: 1991
+source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=791
+cheie: 791
+audio: 
+audio_file: 
+---
+
+Dumnezeu S-a ridicat să aşeze dezrobire peste România, şi va birui Domnul. Amin. Domnul puterilor este numele Meu, şi voi vărsa din Duhul Meu peste mulţi şi voi lucra dezrobirea acestui neam ales. Aşa este scris, că va veni Domnul cu zecile de mii de sfinţi, şi cele scrise, toate se vor împlini.
+
+Pace ţie, iubita Mea! Pace din cele cereşti, din înălţimea Sfintei Treimi, din iubirea Mea, pace ţie! Vin spre tine iar, căci te-am scris în schiţa planului cel ceresc după care lucrează cerul în vremea aceasta. Apostolul Pavel a fost luat de Mine la lucrul cel pentru cer, căci cerul este veşnic, şi a fost luat de Mine la lucrul cel veşnic. I-am ieşit în cale atunci când mergea spre Damasc ca să facă împotrivire peste bisericile care călcau pe urmele Mele, şi apoi a lucrat acesta cu Mine, căci a crezut în Mine dacă i-am ieşit în cale, şi creştea ceata Domnului în vremea lucrului celui ce a crezut în Mine.
+
+România va fi poporul cel sfânt al gloriei Mele, căci sunt aproape acum. România este aleasa Mea, este binecuvântata Mea, şi voi curăţi fărădelegea din ea şi voi aşeza imn de înviere peste ea, că aceasta îi este soarta de la Dumnezeu, şi toate popoarele să ştie că ea este aleasa Mea din vremea de sfârşit a plinirii vremurilor. Crede tu Mie, căci cei ce vor să lucreze la dezrobirea acestui neam, nu vor izbuti fără Mine. Eu sunt în mână cu biruinţa şi cu diadema acestui popor, că va fi poporul cel sfânt al veacului cel nou, dar cei ce lucrează fără Mine pentru acest neam, aceia nu sunt binecuvântaţi de Dumnezeu.
+
+M-am ridicat să pun binecuvântare peste apostolii acestui neam, ca să biruiască aceştia, dar cei ce Mă tăgăduiesc pe Mine, aceia nu iubesc acest neam. [legatura_la_teme id_capitol="4" id_subcapitol="5"]Am în România izvorul cuvintelor Mele, care vin de la Mine. Iată cum vin! M-am ridicat să croiesc cursuri vii de la acest izvor, şi să bea de la Mine acest neam ales, ca să ştie că este ales.
+
+Scoală-te, iubita Mea, şi ascultă-Mi glasul! Deschide-Mi ca să intru şi să cinez cu tine! Eu sunt Cel ce a făcut cerul şi pământul. Eu sunt Stăpânul lumii, dar nu Mă voi lăsa tăgăduit de făptura Mea. Vin să-Mi fac arătarea, dar vin să dezrobesc acest neam care este rob şi vin să fac cale unsului cel de la Mine, căci al lui este acest popor. Vin să-i fac dreptate şi să cert cu asprime pe cei ce au călcat peste acest neam ca să-l robească. Cei ce l-au robit, nu sunt de la Mine aceia, nu sunt din spiţa cea binecuvântată a acestui neam. Acest neam este al Meu, şi prinţ peste el este cel de la Mine. Trag din greu ca să-i gătesc venirea, ca să-l aduc din Egipt. Trag din greu, căci este necredinţă în Dumnezeu. Eu sunt Dumnezeu, şi nu este Dumnezeu afară de Mine, dar toţi s-au abătut de la Mine. Vreau să pun coiful biruinţei pe creştetul unsului Meu, că vreau să-l ridic, să scape acest neam de sub robie, dar nu se suie credinţă în Mine de la cei care lucrează fără Mine peste acest neam ca să-l ajute. [/legatura_la_teme]
+
+Ridică-te spre Mine şi stai în unire cu Mine, ca să vezi cum vei birui întru Mine şi să te bucuri şi să crezi apoi. Am spus să fii ca Iudita, căci Iudita a biruit cu Mine. Iubeşte pe România, dar iubeşte-Mă pe Mine, după adevăr iubeşte-Mă. Cei ce zic că Mă iubesc pe Mine şi nu fac voia Mea, aceia nu Mă iubesc pe Mine. Iubirea e numai una, şi cei ce se bizuie pe Domnul, aceia cunosc iubirea.
+
+Am în tine o inimă mare şi dulce, şi vreau să fii cu Mine în tot locul. Stai aproape cu cel iubit al Meu care este aproape de tine, şi stai în sfat cu el mereu, că vreau mereu să vărs prin el binecuvântarea Mea peste tine. M-am ridicat să-Mi desăvârşesc turma, şi voi face o singură turmă, voi face numai una, precum Eu, Unul sunt. Voi alege între oaie şi oaie şi voi deosebi grâul de neghină şi voi aşeza sfinţenie şi stare îngerească peste turma cea aleasă şi credincioasă, şi voi împlini.
+
+Lucrează în ogorul Meu, lucrează cu cele de la Mine şi scoală-te să crezi în Mine, ca să fii tare cu Mine. Fă-Mi unire cu casa unsului Meu Mihail, regele acestui neam românesc. Vreau să-i mângâi aşteptarea, dar vreau să aşez peste el şi peste casa lui binecuvântarea şi lucrarea cu care Eu lucrez în România. Eu sunt Cel biruitor, şi voi aduce pe unsul Meu. Eu sunt adevărat, şi nimic nu este cu neputinţă la Dumnezeu. Dacă iubeşti pe România, dacă iubeşti pe unsul cel de la Mine, stai cu Mine în unire, că Eu lucrez ca să-l aduc, şi voi împlini, iubita Mea. Un pic, şi cei ce ţin încă rob acest neam, aceia nu vor mai fi. Lucrez peste mulţi, iubita Mea, lucrez cu mulţi din cei ce iubesc pe România. Lucrăm împreună ca să biruim. România va fi cea mai frumoasă, căci Eu voi fi cu slavă văzută peste ea, şi toate noroadele vor vedea şi vor curge să i se închine.
+
+Nu Mă tăgădui. Eu te iubesc. Şi tu să Mă iubeşti. Iubire pentru iubire, şi vom fi învăluiţi de iubire. Mi-e dor să o scot pe România de sub piatra robiei, dar lucraţi cu Mine voi, cei ce iubiţi acest pământ ales. Lucraţi, dar nu fără Mine. Vreau să scurtez aşteptarea unsului cel de la Mine, şi vreau credinţă să se ridice spre Mine de la fiii cei adevăraţi ai acestui neam. Ştefan cel sfânt, cu Mine a biruit, şi a ridicat pietre de aducere-aminte în numele Meu. Se ducea la sihastrul Daniel, care era robul Meu credincios, şi lua Ştefan binecuvântare şi biruia cu Domnul, că nu este biruinţă fără Domnul.
+
+Pace ţie, iubita Mea, binecuvântata Mea, dar stai sub această binecuvântare, căci Eu sunt Unul Dumnezeu, şi toţi vor fi una întru Mine când Mă voi arăta. Eu voi lucra unire întru Unul Dumnezeu. Amin. Pace ţie! În tot locul, în tot lucrul şi cuvântul, în toată vremea, pace ţie! Pace peste cea iubită! Amin, amin, amin.

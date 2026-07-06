@@ -1,0 +1,335 @@
+#!/usr/bin/env python3
+"""csni-migrate — extract messages from noul-ierusalim.ro to local Markdown.
+
+Phase 1: crawl a year archive and write one Markdown file per message.
+Stdlib only. Raw HTML is cached under cache/ so re-runs don't re-hit the server.
+
+Usage:
+    python3 csni_extract.py --k 86 --year 2026
+"""
+import argparse
+import html
+import os
+import re
+import time
+import unicodedata
+import urllib.request
+
+BASE = "https://noul-ierusalim.ro/"
+UA = "csni-migrate/0.1 (archive migration; contact bogdan@grozoiu.com)"
+CACHE = "cache"
+OUT = "out/markdown"
+OUT_AUDIO = "out/audio"
+DELAY = 0.5  # seconds between live requests (politeness)
+
+
+def fetch(url, cache_name, retries=4):
+    """Fetch url, caching raw bytes under cache/. Returns decoded HTML.
+
+    Retries with backoff because the source site is unstable. Raises the last
+    error only after exhausting retries, so callers can skip-and-continue.
+    """
+    os.makedirs(CACHE, exist_ok=True)
+    path = os.path.join(CACHE, cache_name)
+    if os.path.exists(path) and os.path.getsize(path) > 0:
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    last = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            raw = urllib.request.urlopen(req, timeout=30).read().decode(
+                "utf-8", "replace"
+            )
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(raw)
+            time.sleep(DELAY)
+            return raw
+        except Exception as e:  # noqa: BLE001 - unstable source, keep trying
+            last = e
+            time.sleep(1.5 * (attempt + 1))
+    raise last
+
+
+def audio_filename(iso):
+    """ISO date 2026-01-04 -> local audio name 26.01.04.mp3."""
+    y, m, d = iso.split("-")
+    return f"{y[2:]}.{m}.{d}.mp3"
+
+
+def download_audio(url, year, name):
+    """Download url to out/audio/<year>/<name>. Skip if already present.
+
+    Returns (local_name, bytes) or (None, 0) on failure.
+    """
+    d = os.path.join(OUT_AUDIO, str(year))
+    os.makedirs(d, exist_ok=True)
+    path = os.path.join(d, name)
+    if os.path.exists(path) and os.path.getsize(path) > 0:
+        return name, os.path.getsize(path)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        data = urllib.request.urlopen(req, timeout=120).read()
+    except Exception as e:  # noqa: BLE001 - report and continue the run
+        print(f"    ! audio download failed: {url} ({e})")
+        return None, 0
+    # Atomic write: a killed process can never leave a half file that the
+    # resume logic would mistake for a complete download.
+    tmp = path + ".part"
+    with open(tmp, "wb") as f:
+        f.write(data)
+    os.replace(tmp, path)
+    time.sleep(DELAY)
+    return name, len(data)
+
+
+def strip_tags(s):
+    return re.sub(r"<[^>]+>", "", s)
+
+
+def clean_text(s):
+    """Strip tags, decode entities, collapse whitespace — for titles."""
+    return re.sub(r"\s+", " ", html.unescape(strip_tags(s))).strip()
+
+
+def slugify(title):
+    t = unicodedata.normalize("NFKD", title)
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    t = t.lower()
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    return t[:70] or "fara-titlu"
+
+
+def iso_date(ddmmyyyy):
+    d, m, y = ddmmyyyy.split("-")
+    return f"{y}-{m}-{d}"
+
+
+def parse_year_index(html_text):
+    """Return list of (iso_date, cheie, title) from a year page."""
+    items = []
+    pat = re.compile(
+        r"<li>\s*(\d{2}-\d{2}-\d{4})\s*"
+        r'<a href="(index1\.php\?pg=look&cheie=(\d+))"[^>]*>(.*?)</a>',
+        re.S,
+    )
+    for m in pat.finditer(html_text):
+        items.append((iso_date(m.group(1)), m.group(3), clean_text(m.group(4))))
+    return items
+
+
+def extract_document(html_text):
+    """Return (title, audio_url, markdown_body) from a document page."""
+    m = re.search(r"<h1\b[^>]*>(.*?)</h1>", html_text, re.S)
+    title = clean_text(m.group(1)) if m else ""
+
+    am = re.search(r'href="([^"]*/audio/[^"]+\.mp3)"', html_text)
+    audio = html.unescape(am.group(1)) if am else ""
+
+    # Body: content of the <font size="4"> wrapper that follows the <h1>,
+    # stopping at the footer (the right-aligned date div / niro logo block).
+    start = html_text.find('<font size="4"')
+    body_html = ""
+    if start != -1:
+        start = html_text.index(">", start) + 1
+        foot = re.search(r'<div align="right"|<center\b', html_text[start:])
+        end = start + foot.start() if foot else html_text.find("</font>", start)
+        body_html = html_text[start:end if end != -1 else None]
+
+    return title, audio, html_to_md(body_html)
+
+
+# A full <a>…</a> element. The start-tag matcher consumes quoted attribute
+# values wholesale, so `>` chars inside an onMouseOver tooltip don't end it
+# early. Anchors never nest, so the non-greedy body is safe.
+ANCHOR = re.compile(
+    r"""<a\b(?:[^>"']|"[^"]*"|'[^']*')*>(.*?)</a>""", re.S
+)
+SUBCAP = re.compile(r"pg=subcapitole&cap=(\d+)&sub=(\d+)")
+
+
+def _anchor_repl(m):
+    tag, inner = m.group(0), m.group(1)
+    sub = SUBCAP.search(tag)
+    if sub:
+        # A "theme link": wrap the (possibly multi-paragraph) content so it
+        # round-trips to the new site's [legatura_la_teme] shortcode.
+        return (
+            f'[legatura_la_teme id_capitol="{sub.group(1)}" '
+            f'id_subcapitol="{sub.group(2)}"]{inner}[/legatura_la_teme]'
+        )
+    # Other links (audio, footer logo, etc.): keep the inner text only.
+    return inner
+
+
+def _emphasize(marker):
+    """Wrap inner text in `marker`, keeping any edge whitespace outside it."""
+    def repl(m):
+        inner = m.group(1)
+        stripped = inner.strip()
+        if not stripped:
+            return inner
+        lead = " " if inner[:1].isspace() else ""
+        trail = " " if inner[-1:].isspace() else ""
+        return f"{lead}{marker}{stripped}{marker}{trail}"
+    return repl
+
+
+def html_to_md(body_html):
+    # Resolve anchors first, on the whole body: a subcapitole link can span
+    # several <p> blocks, so it must be handled before paragraph splitting.
+    body_html = ANCHOR.sub(_anchor_repl, body_html)
+
+    # Split into paragraphs on <p> boundaries.
+    parts = re.split(r"</?p\b[^>]*>", body_html)
+    paras = []
+    for part in parts:
+        s = part
+        s = re.sub(r"<(?:i|em)\b[^>]*>(.*?)</(?:i|em)>", _emphasize("*"), s, flags=re.S)
+        s = re.sub(
+            r"<(?:b|strong)\b[^>]*>(.*?)</(?:b|strong)>", _emphasize("**"), s, flags=re.S
+        )
+        s = re.sub(r"<br\s*/?>", "\n", s)
+        s = strip_tags(s)
+        s = html.unescape(s)
+        s = re.sub(r"[ \t]+", " ", s).strip()
+        if s:
+            paras.append(s)
+    return "\n\n".join(paras)
+
+
+def write_markdown(year, iso, cheie, title, audio, audio_file, body):
+    d = os.path.join(OUT, str(year))
+    os.makedirs(d, exist_ok=True)
+    slug = slugify(title)
+    path = os.path.join(d, f"{iso}--{slug}.md")
+    fm = (
+        "---\n"
+        f'title: "{title.replace(chr(34), chr(39))}"\n'
+        f"date: {iso}\n"
+        f"year: {year}\n"
+        f"source_url: {BASE}index1.php?pg=look&cheie={cheie}\n"
+        f"cheie: {cheie}\n"
+        f"audio: {audio}\n"
+        f"audio_file: {audio_file}\n"
+        "---\n\n"
+    )
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(fm + body + "\n")
+    return path
+
+
+def year_map():
+    """Return [(year:int, k:str)] for every year link on arhiva.html, sorted."""
+    arh = fetch(f"{BASE}arhiva.html", "arhiva.html")
+    pairs = re.findall(r"pg=get&k=(\d+)\"[^>]*?>\s*(\d{4})", arh)
+    seen = {}
+    for k, y in pairs:
+        seen.setdefault(int(y), k)  # first k wins if a year repeats
+    return sorted(seen.items())
+
+
+def process_year(year, k, do_audio, failures):
+    """Extract one year to Markdown (always) and audio (if do_audio).
+
+    Resilient: a failed document is logged to `failures` and skipped so the
+    run continues. Returns (n_ok, n_fail).
+    """
+    try:
+        year_html = fetch(f"{BASE}index1.php?pg=get&k={k}", f"year_k{k}.html")
+    except Exception as e:  # noqa: BLE001
+        failures.append(("year", k, year, str(e)))
+        print(f"  ! YEAR {year} (k={k}) index failed: {e}")
+        return 0, 1
+    items = parse_year_index(year_html)
+    ok = fail = 0
+    for iso, cheie, list_title in items:
+        try:
+            doc_html = fetch(
+                f"{BASE}index1.php?pg=look&cheie={cheie}", f"doc_{cheie}.html"
+            )
+            title, audio, body = extract_document(doc_html)
+            title = title or list_title
+            audio_file = ""
+            if audio and do_audio:
+                name, _ = download_audio(audio, year, audio_filename(iso))
+                audio_file = name or ""
+            elif audio:
+                # text pass: predict the local name without downloading yet
+                audio_file = audio_filename(iso)
+            write_markdown(year, iso, cheie, title, audio, audio_file, body)
+            ok += 1
+        except Exception as e:  # noqa: BLE001
+            failures.append(("doc", cheie, year, str(e)))
+            print(f"  ! {year} cheie={cheie} failed: {e}")
+            fail += 1
+    tag = "audio+text" if do_audio else "text"
+    print(f"  {year} (k={k}): {ok} ok, {fail} failed  [{tag}]")
+    return ok, fail
+
+
+def crawl_all(do_audio):
+    years = year_map()
+    print(f"Archive: {len(years)} years ({years[0][0]}–{years[-1][0]})\n")
+    failures = []
+
+    print("=== PASS 1: securing all text + Markdown (no audio) ===")
+    t0 = time.time()
+    tot_ok = tot_fail = 0
+    for year, k in years:
+        ok, fail = process_year(year, k, do_audio=False, failures=failures)
+        tot_ok += ok
+        tot_fail += fail
+    print(f"\nTEXT PASS complete: {tot_ok} docs, {tot_fail} failed, "
+          f"{time.time() - t0:.0f}s\n")
+
+    if do_audio:
+        print("=== PASS 2: downloading audio ===")
+        a_ok = a_fail = 0
+        for year, k in years:
+            ok, fail = process_year(year, k, do_audio=True, failures=failures)
+            a_ok += ok
+            a_fail += fail
+        print(f"\nAUDIO PASS complete.\n")
+
+        # Discoverable completion sentinel (survives a dropped session).
+        n_mp3 = sum(len(files) for _, _, files in os.walk(OUT_AUDIO))
+        with open("CRAWL_DONE.txt", "w", encoding="utf-8") as f:
+            f.write(
+                f"done: {time.strftime('%Y-%m-%d %H:%M:%S')}\n"
+                f"years: {len(years)}\n"
+                f"markdown_docs: {tot_ok}\n"
+                f"audio_files: {n_mp3}\n"
+                f"failures: {len(failures)}\n"
+            )
+
+    if failures:
+        with open("failures.log", "w", encoding="utf-8") as f:
+            for kind, ident, year, err in failures:
+                f.write(f"{kind}\t{ident}\t{year}\t{err}\n")
+        print(f"{len(failures)} failures written to failures.log "
+              f"(re-run to retry — cache resumes automatically)")
+    else:
+        print("No failures.")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--all", action="store_true", help="crawl every year 1955–now")
+    ap.add_argument("--no-audio", action="store_true", help="skip audio download")
+    ap.add_argument("--k", help="single-year archive id (arhiva.html ?k=)")
+    ap.add_argument("--year", type=int, help="single-year label")
+    args = ap.parse_args()
+
+    if args.all:
+        crawl_all(do_audio=not args.no_audio)
+        return
+
+    if not (args.k and args.year):
+        ap.error("provide --all, or both --k and --year")
+    failures = []
+    process_year(args.year, args.k, do_audio=not args.no_audio, failures=failures)
+
+
+if __name__ == "__main__":
+    main()
