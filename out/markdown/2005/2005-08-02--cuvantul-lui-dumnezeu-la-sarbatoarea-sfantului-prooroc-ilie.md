@@ -30,7 +30,7 @@ O, oamenilor, aţi uitat taina vieţii, şi sunteţi prea păcătoşi. Uitaţi-v
 
 Pe vremea profeţilor, care erau micşoraţi de toţi oamenii, erau între oameni inimi mari, care slujeau slujitorilor Domnului, celor ce profeţeau cuvântul Domnului pentru întoarcerea oamenilor de la rătăcirea lor de Dumnezeu, iar cei ce ajutau pe profeţi, erau binecuvântaţii Domnului. Oamenii însă nu ştiu care sunt cei ai Domnului ca să le facă bine la aceia şi nu celor asemenea lor în fărădelegi, şi iată, nu ştiu oamenii ce este Dumnezeu şi ce este omul.
 
-O, oamenilor, a venit Domnul pe pământ, şi strigă peste voi cu Duhul Său Cel Sfânt, ca să vă dea înţelepciunea vieţii.
+O, oamenilor, a venit Domnul pe pământ, şi strigă peste voi cu Duhul Său Cel Sfânt, ca să vă dea înţelepciunea vieţii. [/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]
 
 O, ţara Domnului, S-a întors Domnul la tine, că Şi-a adus aminte de facerea ta cea de la începutul facerii şi apoi cea de la naşterea Lui Om între oameni. O, ţară română, te-a făcut Domnul casa venirii Lui, şi te curăţă de fărădelege ca să fii frumoasă şi curată. Deschide-ţi urechea şi auzi cuvântul Lui, că eu sunt proorocul venirii Lui cea de a doua şi voiesc cu milă să te umbresc pe tine, căci râvna mea de Dumnezeu se lasă cu putere peste tot pământul, ca să pregătesc apoi pe el slava Domnului şi odihna ei, căci oamenii nu vor mai putea sluji la doi stăpâni: şi loruşi şi Domnului.
 

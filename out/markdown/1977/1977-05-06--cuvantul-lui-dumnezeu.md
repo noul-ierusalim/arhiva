@@ -10,7 +10,7 @@ audio_file:
 
 ... Eu, Domnul Iisus Hristos, M-am pogorât din cerul sfânt pe pământ, nu cu trupul, ci cu Duhul. Acest Eu, nu e trupul acesta, ci e Duh, şi plutesc prin văzduh şi grăiesc cu Duhul. După Mine nu mai vine nimeni, şi la venirea Domnului Iisus Hristos va fi greu de cele ce nu s-au împlinit când am fost cu voi.
 
-[legatura_la_teme id_capitol="1" id_subcapitol="6"]Înainte de Domnul Iisus Hristos vin profeţii Enoh, Ilie şi Ioan şi vor pregăti masa Mea. Nu masă de mâncare, ci masă de judecată.
+[legatura_la_teme id_capitol="1" id_subcapitol="6"]Înainte de Domnul Iisus Hristos vin profeţii Enoh, Ilie şi Ioan şi vor pregăti masa Mea. Nu masă de mâncare, ci masă de judecată.[/legatura_la_teme][legatura_la_teme id_capitol="1" id_subcapitol="7"]
 
 ... Tot ce s-a profeţit în Vechiul, s-a împlinit. Şi după Vechiul, a venit Domnul Iisus Hristos şi a pus o lege nouă, şi sfântul Ioan Botezătorul a fost învrednicit prin faptă să-L boteze pe Mântuitorul, şi el a fost înaintemergător. [/legatura_la_teme]A trimis şi a pregătit această fiică de atunci şi de astăzi ca să se mântuiască lumea. Vai şi iarăşi vai de cei ce au rupt legătura aceasta! că mai mult cu sută la sută e păcatul azi, mai mare ca în Sodoma şi Gomora. Dar vă spun: pregătiţi-vă, fiilor, că dureros este de un creştin de azi care face vreo faptă greşită, că n-am venit cu nici un semn să fac. Cu forţa nu te duce Dumnezeu în raiul Său, că iată, Dumnezeu a hotărât ca pe toată lumea s-o nimicească. Plâng îngerii din ceruri, plânge mulţimea de sfinţi, plâng serafimii şi heruvimii, plâng de ceea ce Dumnezeu a hotărât; şi nu Mă mai întorc, la fel cum nu M-am întors la potop.
 

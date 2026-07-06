@@ -20,7 +20,7 @@ O, Românie, Românie, mult lucru sfânt am făcut în tine!
 
 [legatura_la_teme id_capitol="6" id_subcapitol="1"]... Nu poate lua trupul hăinuţa sufletului, şi nici sufletul, hăinuţa trupului. Care din ele e mai scumpă? Haina trupului, sau haina sufletului? Cine a dat haina trupului? Este dată de naş. Şi cine a dat haina sufletului? Este dată de Duh. Nu poate lua trupul haina sufletului, şi nici sufletul, haina trupului. Sfinţiţi-vă acum când sunteţi în trupuri, căci Tatăl are nevoie de voi pentru cer. Numai să vreţi, şi cerul este al vostru.
 
-Se luptă antichrist cu creştinii. Antichristul lucrează în calea lui Dumnezeu şi intră în biserică şi intră în altar, dar voi, ţineţi-vă bine. Am cerut de la Tatăl să Mă arăt în trup, ca să nu mai cădeţi. [/legatura_la_teme]
+[/legatura_la_teme][legatura_la_teme id_capitol="2" id_subcapitol="6"]Se luptă antichrist cu creştinii. Antichristul lucrează în calea lui Dumnezeu şi intră în biserică şi intră în altar, dar voi, ţineţi-vă bine. Am cerut de la Tatăl să Mă arăt în trup, ca să nu mai cădeţi. [/legatura_la_teme]
 
 Copii, glasul ce-l auziţi acum, acela va judeca.
 
@@ -28,7 +28,7 @@ Vine foamete mare, mare, dar Eu tot vă vorbesc, tot Mă mai cobor să vă vorbe
 
 O, poporul Meu, eşti în clasa a patra; ţine-te bine, să nu-ţi ia altul premiul. Crede, învaţă şi luptă-te lupta cea bună ca să poţi lua cunună. Fiule, să nu pierzi şi să nu uiţi nici un cuvânt, că de toate vei fi întrebat. [legatura_la_teme id_capitol="6" id_subcapitol="2"]O, tată, voi ştiţi că doctorii învaţă multe până prind învăţătura să vindece bolnavii şi să le dea medicamente trebuitoare la boala lor. Iată, şi voi, să aveţi credinţă mare şi tare, că veţi învia morţii şi veţi vindeca boli.
 
-... Poporul Meu, cunoşti tu semnele lui antichrist? Iată care sunt: lepădarea de credinţă, tăgăduirea Sfintei Treimi, Tatăl, Fiul şi Sfântul Duh, şi tăgăduirea lucrării sfinte. O, mai e un semn, mai e ceva. Primul semn e lepădarea de credinţă, şi al doilea este depărtarea icoanelor şi a rugăciunii din şcoli, şi al treilea semn este pustiirea casei lui Dumnezeu. Iată piatra de temelie, şi în mijlocul ei este răutatea. [/legatura_la_teme]
+[/legatura_la_teme][legatura_la_teme id_capitol="2" id_subcapitol="6"]... Poporul Meu, cunoşti tu semnele lui antichrist? Iată care sunt: lepădarea de credinţă, tăgăduirea Sfintei Treimi, Tatăl, Fiul şi Sfântul Duh, şi tăgăduirea lucrării sfinte. O, mai e un semn, mai e ceva. Primul semn e lepădarea de credinţă, şi al doilea este depărtarea icoanelor şi a rugăciunii din şcoli, şi al treilea semn este pustiirea casei lui Dumnezeu. Iată piatra de temelie, şi în mijlocul ei este răutatea. [/legatura_la_teme]
 
 Tată, s-a făcut o fabrică de pâine pentru populaţie multă, şi această fabrică nu mai face pâine numai din grâu curat; face din amestecătură multă. Aşa şi în credinţă s-a făcut amestecătură şi nu ştie lumea ce să mai creadă. Tată, tată, vai de acei prin care vine sminteala!
 

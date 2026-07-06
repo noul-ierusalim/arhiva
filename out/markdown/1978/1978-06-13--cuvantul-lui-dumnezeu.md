@@ -10,7 +10,7 @@ audio_file:
 
 ... Tot pământul s-a unit într-o lucrare mare. Tot pământul s-a unit, dar nu pentru lucru duhovnicesc, ci pentru lucru drăcesc, pentru nimicirea poporului Meu şi nimicirea lucrurilor sfinte. Tot cerul să se coboare! Începând cu cel dintâi şi până la cel din urmă, ocrotiţi-i şi sprijiniţi-i pe cei care Mă iubesc. Sprijiniţi biserica, sprijiniţi altarul şi jertfa lui. O, părinţilor care aţi zidit biserica de la început! O, sfinţilor care aţi zidit bisericile de la sfârşit! Puneţi mâna pe armă, că uite, se pregăteşte desfiinţarea şi înjosirea celor aleşi ai Mei. S-a pregătit dezbrăcarea celor cu veşminte sfinte. Uite, s-a pregătit dărâmarea altarelor sfinte. Taci, Maică, şi nu mai plânge, căci ce e scris, nu va trece până nu se împlineşte, aşa cum s-a împlinit şi cu Mine ceea ce a fost scris. Fericit cine ştie ce s-a scris în profeţie. Fericit cine ştie legea pe dinafară.
 
-[legatura_la_teme id_capitol="2" id_subcapitol="2"]Ecaterina, muceniţa de azi, sprijineşte partea femeiască cea care L-a iubit pe Domnul.
+[legatura_la_teme id_capitol="2" id_subcapitol="2"]Ecaterina, muceniţa de azi, sprijineşte partea femeiască cea care L-a iubit pe Domnul.[/legatura_la_teme][legatura_la_teme id_capitol="2" id_subcapitol="6"]
 
 A înviat antichrist şi nu mai e în trup, şi e în inimile tuturor. Zice că e nenea Marin, zice că e nenea Ion, că e nenea Gheorghe, zice că e ţaţa Mariţa sau că e coana Eleonora, dar uite că e antichrist în inima lor ascuns. Cine a deschis uşa? Uite omul cum huleşte! Numai antichrist prigonea şi hulea.[/legatura_la_teme]
 

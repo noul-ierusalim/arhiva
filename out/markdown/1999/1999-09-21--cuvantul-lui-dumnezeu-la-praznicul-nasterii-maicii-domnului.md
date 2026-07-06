@@ -60,7 +60,7 @@ O, copilaşi ai venirii Mele! Suspină mama Mea Fecioara, şi aşa se roagă Tat
 
 – Coboară-mă, Fiule, în ţara venirii Tale şi ocroteşte-o pentru mine; şi să Te aştept în ea ca să vii şi s-o ridici deasupra răului care vine cu mânie peste pământ odată cu venirea Ta. Nu da drumul durerii peste pământ pentru curăţire, Fiule, până mai întâi nu întăreşti acest pământ în care îţi ai venirea şi povaţa cea pentru venirea Ta. Dă-mi îngeri înzestraţi cu arme ocrotitoare. Dă-mi voie să suflu cu Duhul Tău peste România, că ea este cea dintâi şi cea de pe urmă. Amin.
 
-– Te dau pe tine, mamă, cu tot ce-Mi ceri să-ţi dau. Mergi în taină şi dă daruri de umilinţă şi de pocăinţă şi de credinţă şi de sfinţenie la cei ce sunt scrişi în cartea Mea, ca să creadă şi să se aşeze veghind înaintea Mea, şi mulţime de fecioare te vor asculta şi vor ieşi îngereşte înaintea ta şi te vor sluji cu rugăciunile lor suspinânde pentru venirea Mea cu ocrotire pentru România, ţara Mea de azi. Amin.
+– Te dau pe tine, mamă, cu tot ce-Mi ceri să-ţi dau. Mergi în taină şi dă daruri de umilinţă şi de pocăinţă şi de credinţă şi de sfinţenie la cei ce sunt scrişi în cartea Mea, ca să creadă şi să se aşeze veghind înaintea Mea, şi mulţime de fecioare te vor asculta şi vor ieşi îngereşte înaintea ta şi te vor sluji cu rugăciunile lor suspinânde pentru venirea Mea cu ocrotire pentru România, ţara Mea de azi. Amin.[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]
 
 – Mă duc, Fiule scump, să strig din mijlocul grădinii Tale să se scoale întru întâmpinarea Ta ţara Ta de azi.
 

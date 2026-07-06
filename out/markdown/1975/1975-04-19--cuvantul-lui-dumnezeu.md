@@ -22,7 +22,7 @@ audio_file:
 
 [legatura_la_teme id_capitol="2" id_subcapitol="6"]... Ţineţi minte, căci câte i s-au arătat prin vedenie acestui vas, astăzi sunt.
 
-... Dacă ţi-a spus cineva că te-a văzut greşit şi tu ştii că nu ai făcut, nu te mâhni, ci crede, că e solul lui Dumnezeu. [/legatura_la_teme]
+[/legatura_la_teme][legatura_la_teme id_capitol="6" id_subcapitol="3"]... Dacă ţi-a spus cineva că te-a văzut greşit şi tu ştii că nu ai făcut, nu te mâhni, ci crede, că e solul lui Dumnezeu. [/legatura_la_teme]
 
 ... Nu mai e anul 1954. O, nu mai sunteţi de atunci, şi sunteţi de astăzi, când se uită moartea pe fereastră să numere pe cine să ia cu grămada. Duhovniceşte vorbesc. Nu vorbesc de roşul de pe buze sau de sprâncenele făcute, ci vorbesc de credinţă şi de suferinţă, şi voi nu aşteptaţi sfârşitul, că ţi-a şoptit satana la ureche că nu se mai sfârşeşte acest veac, şi te minte, tată.
 

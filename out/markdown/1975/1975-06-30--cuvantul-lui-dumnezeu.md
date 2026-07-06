@@ -16,6 +16,6 @@ audio_file:
 
 [legatura_la_teme id_capitol="6" id_subcapitol="3"]... O, copilaşii Mei, nu folosiţi Scriptura anapoda. Da, tată, zice Scriptura să iubeşti pe aproapele tău, dar deosebeşte-l, că acela e aproapele tău, care face voia lui Dumnezeu.
 
-... În vremea lui Moise am trimis pe mulţi în Canaan să cerceteze, şi s-au întors minţind şi au stricat şi mintea celorlalţi şi au zis că nu e fericire. Nu fiţi ca aceia care n-au mai avut pe Moise şi şi-au făcut dumnezei şi s-au închinat lor. Primiţi pe cei trimişi la voi. Nu-i mâhniţi, nu-i întristaţi. [/legatura_la_teme]
+[/legatura_la_teme][legatura_la_teme id_capitol="1" id_subcapitol="6"]... În vremea lui Moise am trimis pe mulţi în Canaan să cerceteze, şi s-au întors minţind şi au stricat şi mintea celorlalţi şi au zis că nu e fericire. Nu fiţi ca aceia care n-au mai avut pe Moise şi şi-au făcut dumnezei şi s-au închinat lor. Primiţi pe cei trimişi la voi. Nu-i mâhniţi, nu-i întristaţi. [/legatura_la_teme]
 
 ... Domnul a grăit în faţa poporului Său: creştinul să fie ca smochinul.

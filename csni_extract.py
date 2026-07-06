@@ -139,27 +139,50 @@ def extract_document(html_text):
     return title, audio, html_to_md(body_html)
 
 
-# A full <a>…</a> element. The start-tag matcher consumes quoted attribute
+# Anchor open- and close-tags. The open-tag matcher consumes quoted attribute
 # values wholesale, so `>` chars inside an onMouseOver tooltip don't end it
-# early. Anchors never nest, so the non-greedy body is safe.
-ANCHOR = re.compile(
-    r"""<a\b(?:[^>"']|"[^"]*"|'[^']*')*>(.*?)</a>""", re.S
+# early.
+A_TOKEN = re.compile(
+    r"""<a\b(?:[^>"']|"[^"]*"|'[^']*')*>|</a\s*>""", re.S
 )
 SUBCAP = re.compile(r"pg=subcapitole&cap=(\d+)&sub=(\d+)")
 
 
-def _anchor_repl(m):
-    tag, inner = m.group(0), m.group(1)
-    sub = SUBCAP.search(tag)
-    if sub:
-        # A "theme link": wrap the (possibly multi-paragraph) content so it
-        # round-trips to the new site's [legatura_la_teme] shortcode.
-        return (
-            f'[legatura_la_teme id_capitol="{sub.group(1)}" '
-            f'id_subcapitol="{sub.group(2)}"]{inner}[/legatura_la_teme]'
-        )
-    # Other links (audio, footer logo, etc.): keep the inner text only.
-    return inner
+def _resolve_anchors(body_html):
+    """Linearize anchor tags into [legatura_la_teme] shortcodes.
+
+    The source occasionally *nests* <a> tags (invalid HTML): a theme link that
+    opens, then a second theme link before the first has closed (e.g. cheie=221,
+    where one message points at two different chapters). Browsers auto-close the
+    first anchor when a new <a> begins, so we do the same — otherwise the inner
+    link's open-tag is swallowed into the outer link's text and the second theme
+    reference is lost. Each theme link therefore spans from its own <a> up to the
+    next <a> or </a>, whichever comes first, and may cross <p> boundaries.
+    """
+    out, pos, open_theme = [], 0, False
+    for m in A_TOKEN.finditer(body_html):
+        out.append(body_html[pos:m.start()])
+        pos = m.end()
+        tok = m.group(0)
+        if open_theme:
+            # A new <a> auto-closes the current theme link; so does any </a>.
+            out.append("[/legatura_la_teme]")
+            open_theme = False
+        if not tok.startswith("</a"):  # opening <a …>
+            sub = SUBCAP.search(tok)
+            if sub:
+                # A "theme link": open a shortcode; its (possibly multi-
+                # paragraph) content round-trips to the new site's shortcode.
+                out.append(
+                    f'[legatura_la_teme id_capitol="{sub.group(1)}" '
+                    f'id_subcapitol="{sub.group(2)}"]'
+                )
+                open_theme = True
+            # Other links (audio, footer logo, etc.): drop the tag, keep text.
+    out.append(body_html[pos:])
+    if open_theme:
+        out.append("[/legatura_la_teme]")
+    return "".join(out)
 
 
 def _emphasize(marker):
@@ -178,7 +201,7 @@ def _emphasize(marker):
 def html_to_md(body_html):
     # Resolve anchors first, on the whole body: a subcapitole link can span
     # several <p> blocks, so it must be handled before paragraph splitting.
-    body_html = ANCHOR.sub(_anchor_repl, body_html)
+    body_html = _resolve_anchors(body_html)
 
     # Split into paragraphs on <p> boundaries.
     parts = re.split(r"</?p\b[^>]*>", body_html)

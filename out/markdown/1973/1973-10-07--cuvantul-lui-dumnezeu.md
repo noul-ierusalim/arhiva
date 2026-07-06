@@ -28,7 +28,7 @@ Copiilor, pentru voi am certat pe împărat, şi i-am zis: *«Nu vă atingeţi d
 
 ... Copiii Mei, fiţi ai Scripturii, fiţi ai cerului.
 
-[legatura_la_teme id_capitol="6" id_subcapitol="1"]... Omule care ai femeie, trăieşte cu ea ca şi când n-ai avea femeie. Şi zic femeii: femeie, trăieşte cu bărbatul tău ca şi când n-ai avea bărbat.
+[legatura_la_teme id_capitol="6" id_subcapitol="1"]... Omule care ai femeie, trăieşte cu ea ca şi când n-ai avea femeie. Şi zic femeii: femeie, trăieşte cu bărbatul tău ca şi când n-ai avea bărbat. [/legatura_la_teme][legatura_la_teme id_capitol="3" id_subcapitol="4"]
 
 ... O, tată, preotul de altădată nu schimba hăinuţa sa, dar acum am întâlnit preot în haine la fel cu lumea. Am întâlnit preot cu ceas la mână şi cu fundă la gât. [/legatura_la_teme]
 

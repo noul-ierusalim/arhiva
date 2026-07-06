@@ -32,7 +32,7 @@ Omule, tu trebuie să semeni cu Mine, nu cu diavolul, căci Eu după chipul și 
 
 O, iată, nu mai păcătuiți, și fie-vă rușine să faceți păcat. Faceți cruce ca să vă ajute Domnul să scăpați de cursa păcatului. S-a umplut pământul peste tot de păcatul din oameni și dă să se scufunde în adânc cu tot ce e pe el. O, lăsați-vă de păcat și cereți lui Dumnezeu iertare și pocăiți-vă mult și mereu, ca să nu vină mânia cea pentru păcat pe pământ.
 
-Dar mai ales la tine strig, o, popor român, că Eu, Domnul, sunt pe vatra ta cu mare lucrare de cuvânt și strig pe omul de peste tot ca să-l opresc de la păcat, că toate războaiele au venit pe pământ peste oameni din pricina păcatelor lor.
+[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]Dar mai ales la tine strig, o, popor român, că Eu, Domnul, sunt pe vatra ta cu mare lucrare de cuvânt și strig pe omul de peste tot ca să-l opresc de la păcat, că toate războaiele au venit pe pământ peste oameni din pricina păcatelor lor.
 
 O, neam român, dau să vină peste tine cei care-ți pot cere socoteală că nu asculți să fii creștin după toată legea creștină, iar tu ești vinovat pentru călcare de lege. O, acoperiți-vă trupul, fii români, că dacă nu veți face aceasta vă veți porni unii spre alții numai spre păcat pe mai departe și vă veți atrage pedeapsă pentru păcat.
 
