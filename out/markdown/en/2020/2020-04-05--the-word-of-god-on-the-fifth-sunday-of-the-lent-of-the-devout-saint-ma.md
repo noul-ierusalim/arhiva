@@ -1,0 +1,74 @@
+---
+title: "The Word of God on the Fifth Sunday of the Lent, of the Devout Saint Mary, the Egyptian"
+date: 2020-04-05
+year: 2020
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=674
+cheie: 674
+audio: 
+audio_file: 
+---
+
+I am walking above with the hosts of saints and angels and I am watching in heaven and on earth, and I am shepherding, too, for I am a Shepherd.
+
+I am the Son of God the Father, and the Father is giving Me the whole of My work, and I am listening to the Father; I am not working or speaking by Myself, and the Father is telling Me to shepherd with an iron rod over the nations of the earth, and My rod is the word, and it is life in My word, and the life is the light of men, as it is written.
+
+I proclaim Myself when I come as word on earth, and I am writing it into My today’s book, an book on the hearth of the Romanian people, and I am writing My word in it; I have been writing in it starting with 1955 and I have always written, it and this is how I have been fulfilling the Scriptures that say that the Lord is coming with tens of thousands of His saints, **(Judas: 1/14)**, that the Lord is coming on a white horse, and His name is called the Word of God. **(Apoc: 19/11-13).**
+
+[legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Oh, peace to you, Romanian people. I am speaking from your hearth over all the earth and I am saying:
+
+Peace to you, nations on earth! I am the faithful and the true One by My spoken word, and after I have spoken it, I fulfill it, and give it power of fulfillment and I put peace in it, and it runs quickly from heaven down to earth, down to the Romanian land, here, where My footstool is, and then from here all over the earth, with peace in it, with life in it, and life is the light of the nations of the earth, as it is written.
+
+Oh, Romanian people, receive My comfort! Peace to you, My today’s country! The Father has been sending Me to you for such a long time, and you are the house of the Lord, Jesus Christ; you are the footstool of His feet, and God has not done so to any nation on earth. For I have come to work from the midst of the people of Israel two thousand years ago, but when I came from heaven to it, it did not receive Me from the Father, and it rather gave Me over to death on the cross, and I took My gifts and came down on the hearth of the Romanian people and I have been working the making of this nation and setting upon it My Gospel and the love of God and eternal faith, to be able to find faith here, now, at My coming again after man, for the man is the work of My hands, and he is now My longing and I miss him very much and I want to make him remember of My love for him, and of My waiting for him, first for the Romanian and then through this nation to be able to make progress with the news of the Gospel from margins to margins and to appear then in glory, oh, and I also want to be joy for many, for many people, and I am working by calling out and I am calling out to the man to get ready to meet Me, for the Scriptures show this time, and I want to remind man of this and to prepare him beautifully and then to be his joy, and he to be My joy, and to give love to each other.
+
+Moreover, as for you, My today’s country, bring your heart before Me and call Me in time of your trial to save you. *(Trial provoked by the corona-virus pandemic, r.n.)*. Oh, wait for Me, and call for Me, as My disciples called Me on the sea in time of storm, and I came and rebuked the storm to calm down and I gave them rest, I gave them My peace and I stayed with them and took them out to the shore. Oh, and this is what I also want to do with you, My Romanian country, but I want you to help Me, My love, and to believe My word from your midst and you to grow up in the love of God and to fulfill the commandments of life, for their fulfillment is your salvation, your victory, oh, and lift up the cross, the cross through which I overcame the world, and through which you will be victorious. Oh, and all the nations of the earth will want you and seek after your beauty, and My voice will resound with the spirit and many will walk in the way of salvation and ask from God salvation from the darkness of this earth, and you will be the glory of the nations, My today’s country, and the Lord, your God, is speaking this to you.
+
+I am coming to you to comfort you and to bring hope to you, and then to set back those that have been spoiled by the time, *(Spoiled by the changing of the feasts from the Julian calendar on to the Gregorian one, in the year of 1924, r.n.)*, and to bring your holy walking under your feet, My country, oh, and you have no choice because this is what I want to do with you and to spend with you the glory of My coming after two thousand years from My resurrection and from My ascension to the Father, and when I promised that as I ascended to the Father, in the very same way I would come back again, and here I am, standing and walking on the clouds. **(Matt: 24/30)**, and coming and proclaiming My word and calling under My mantle those who moan and cry because of the lie of the satanic spirit and because of the work of the antichrist, the man of lawlessness on earth, and whom I rebuke and cast him out and send him into the outer darkness without God; then, over you, a new sun is rising, My country, and I am shepherding you for Me, and let the evil spirit know this and depart from My way with you, for I am commanding him to do, I, Jesus Christ, that I am coming to overcome the darkness over the earth, and to be the light of the world by the word, as it is written, for man is not able to be and to bring light and then to walk within it after that, for this is God’s not man’s.
+
+[/legatura_la_teme]
+
+Oh, it is a day of Sunday, Romanian sons, Christian sons. Two weeks before the Lord’s Passover, the holy fathers ordained on a day of Sunday the memorial of the devout holy Mary of Egypt, that who overcame sin by its work, the world and hell, oh, and now I am sitting down with her in a council for the churchly food over the Christian flock, to make her getting used with the power against sin and with heavenly life upon it after that, for the love of God gives holy powers to the Christian flock; it gives a lot of resurrection and it gives it always.
+
+I am sitting in a council with you among those in heaven, and We are making ourselves heard on earth on your day of memorial according to the churchly order, oh, victorious daughter against death, like your Lord, Jesus Christ. I made you into a way to Me to know My mourning and My love from the way of those who love God on earth, and then you started fighting against sin as much as you loved sin, and My grace protected you, and the angels were looking, wondering and serving you in your fight day and night, for you stood up to overcome by fighting.
+
+Oh, sons of the flock of the Christian flock, look at this daughter and have hope of fighting against sin, for sin deceives everywhere with its face, hidden from the truth in heaven, and then it brings sufferance here, and then forever. Oh, I tell you that the sin in you and among you casts the Lord out from near you and you remain as a mere plunder for satan, the spirit of sin, and the reward of sin hurts much and hard. Oh, it is the time of the Lent, that before the feast of Resurrection, and I have wanted you with great longing to leave the sin die out and I have made you a way to stay at home in a monastic way, *(By forced isolation or self-isolation, r.n.)*, to take care of your souls, your hearts, and your habits of sinning, and then to wash away with the spirit of repentance and to suffer that you have gone wrong against God in you and with you, and then I to come and heal your pain and to give you the instructions for life, oh, Christian sons.
+
+Now My speaking is sitting down to listen to what the daughter, healed from sin, is speaking, and whose story marvels not only the people that find out about it but also God’s angels.
+
+Oh, speak now with your Lord, with the One for Whom you came to life in the battle against sin and overcame by fighting against it! Peace to you and in your word with your Lord!
+
+— My spirit, Lord, even now is humble and crushed for You, the Lamb of sufferance on the cross and of Your wound for all the sins of the people on earth in all the time of the heaven and earth, our good Jesus, of those who are sinful, those who seek healing from You, Lord.
+
+I had darkened the heaven and the earth with my sin and then I suffered my whole life, and this is how I stood against sin, which did not let me free, which did not release me from bondage and from its memory. Oh, then I did no longer listen to it, I always punished it, and in this way I remained over it always, and the angels were supporting me from above, Lord, for the angels had place by my longing after Your salvation and by my love and mercy for You, because You suffered on a shameful cross for my sin, and I had never forgotten You even for a moment, for I was looking at You on the cross for me, Lord.
+
+Oh, I would like to come it to the ear of those who love and commit sin, and that they may know to look at You on the cross for their sin and to suffer because of You and then to make You place near them, for woe to those who stand away from You on earth, Lord!
+
+Oh, Your beauty is great, here, on the hearth of the Romanian people, where You have Your bed and Your coming on earth as word. On earth it has to be as in heaven, Lord, but do the people know the One Who made the heaven and the earth anymore?
+
+Oh, what a great gift You have given to this nation, merciful Master! Oh, how much You share Yourself, oh, how much Lord! And let the people know to cover their body all the time, to be able to take care of each other from the sin in them, and then from the one among them, for You have given holy laws through the Scriptures for the faithful people and for Your church in all the Christian times, for the Christian people is the most powerful people on earth, it is Your army, it is Your kingdom on earth among people, and satan knows this about Your church among people, to which the antichrist man would like to come, but You proclaim Yourself with the word and fulfill the keeping away of the enemy of the cross and always strengthen under the power and protection of the cross the Christians who love You on earth with the fulfillment of the life pleased to You among the sons of men, among those who stand aside from You with their love, Lord.
+
+However, now, I am kneeling in my spirit and ask You hopefully to help the sons of the Romanian people to know, to learn and to understand that the future of this nation is in Your godly hand and that they have to side with You with their life day and night, and then to give each other power for their walking with glory in Your steps, with the cross before, for this joy is very great; it is great brightness on earth, and all the temporary joys fall under this joy of the cross, but let them only taste the happiness with You and the wisdom of God’s sons, their life with You, great Lord, beautiful Lord, and so sweet to the souls that know Your love and who give their love to You, as I had also chosen to give it to You, oh, and then to look after Your today’s word, thorough which You give life and inheritance to those who love You on earth.
+
+— Oh, get comforted now from the wound of your love of God, daughter, so burning in your love and its tear. I am going to take your tears from the earth and wash in them the filthiness of those who, like you, choose the love of God, love, tearful by its power, and I will make on earth one nation, holy by its love of God, and who will love to fulfill the commandments of life, and I will shepherd the nations with this light, as it is written.
+
+[legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Oh, Romanian people, seek with love and with great longing after the Lord your God, and make Him place near you. I, the Lord, urge you to do this. Oh, be patient and be good until the trial is over, but do not turn back again to sin; rather, learn to be able to live with God on earth, for I want to light a great torch into your mist so that all the nations may know it and draw to its light, to the exhortations from heaven over the nations.
+
+Oh, peace to you, My today’s country! Do not be sorrowful over the feasts of the Passover, but sing with Me and with My angels: Christ has risen! When you were going to the church for the feast of the Passover, you did not know to stay beautifully before Me, and many were violating the feast of the Lord by their bad conduct and by their unchristian customs in all the days of the feasts of Passover, *(Habits of going out in nature and grilling and roasting meat, consuming alcoholic beverages, listening to shrill music, etc., r.n.)* and I was sighing. However, you can stay close to Me and so that I may come near to you and thus to be My Christian country and to value what you have from the Lord, for behold, the comfort you are used to is lacking now, but I am waiting for you to get beautiful for the Lord, your God, according to the holy order, and which you are to learn well, as you have also learned well to separate from it; and now, come back and learn from Me how to work your walking and life and how to have My peace with you, the peace from Me, not from the spirit of the world, oh, not in this way, for the light of the resurrection wants to teach now the Christian, the life with God.
+
+I am teaching you, Romanian sons, I am giving you great exhortation. You should not keep on speaking among you about some kind of evil coming to test you, *(corona-virus, r.n.)* for the more you speak about it, the more power it receives and it does not grow less; on the contrary, the less you speak about it, the more it dies out; it leaves and then it perishes, because it is from satan. And, the more you speak about the glory from God with you, the more it grows and comforts and it makes place to the holy victory and to the Lord near you, to the One from Whom protection and then peace comes.
+
+Oh, close the window facing the spirit of the world, *(The television and internet, r.n.)*, and open the window that faces the glory of the Lord with you, for the truth is in heaven, it is not on earth but only if the Lord is near you on the way, with the cross before on the way with the Lord, Romanian sons.
+
+Now, peace to you, Romanian people, peace to you, My country, My today’s house, and then let the priests of the church keep burning the spirit of the flock so that it may have from heaven!
+
+Peace to you, good and faithful Romanian sons!
+
+[/legatura_la_teme]
+
+Peace to you, nations on the earth, My peace upon you!
+
+I spoke and I am speaking from the midst of the Romanian people My word over the earth. Amen, amen, amen.

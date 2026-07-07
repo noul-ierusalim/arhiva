@@ -1,0 +1,26 @@
+---
+title: "The Word of God over the synod from the manger of the word (Excerpt)"
+date: 1998-08-16
+year: 1998
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=1057
+cheie: 1057
+audio: 
+audio_file: 
+---
+
+I said in the time of My body that unless a man was born from above, he would not enter the kingdom of heavens. And behold, this is it, for those who are not born from above, to be newly born from Me, Who I am from above, those do not take in them My word with which I am coming today on earth, My kingdom that is by the word over the man. [legatura_la_teme id_capitol="7" id_subcapitol="3"]In the time of My body, I revealed many heavenly mysteries, and I covered other of them, I have sealed them until today’s time. Then I said about My second coming that no one would know but My Father only, and the people on the earth make of this word a way of escaping to postpone their watch and their preparation for the Lord. Sons, sons, why did I say this word? For this is what I said: *«About that day no one knows; neither the angels from heaven nor the Son, but the Father only»*. I said so to strengthen the watch in the faithful man, who knows that the Lord’s Day will come like a thief, like a trap, to catch under it those who are not faithful. This word that I spoke at that time, would have been given to make holy the man who waits for the Lord, and by no means to hide himself behind this word and to hide My coming from the Father.
+
+Oh, sons of men, I have mercy on you for no one teaches you My coming. Your priests have hidden Me so that I may no longer come and that I may not be able to prepare you for My coming. They have hidden behind My word in the time of My body when I said: *«But of that day or that hour no one knows, nor even the angels in heaven, nor the Son, but only the Father».* **(Mark: 13/32)** Then I was in My body on earth, then I worked visibly, but now I am on the right side of the Father in the heavens, and the Father is one with Me in heaven and on earth. Amen. However, I will come as word over the earth and I will come with the Father in My word, for My word is the Father. Amen, amen, amen.
+
+My Father is coming in the word and He will speak over the earth about this word behind which the man hides so that he may not wait for My coming and that the old man may linger on earth. The old man is an old wineskin and the new things do not have place in the old wineskins. For a new word a new man is needed, who is for the new things, and there is no longer for the old ones, for this is what I said: *«No one puts new wine into old wineskins, or else the wine will burst the skins, and it will be spilled, and then the skins will be destroyed».* **(Luke: 5/37)** My new teaching is for the new people, who prepare themselves for My coming all the time, for I am coming like a thief, when no one expects Me to come. [/legatura_la_teme]
+
+Oh, sons from the garden of My word, behold, My word from that time was and is true: «No one expects Me to come». Therefore, I am coming to you, for I have no where to come any longer, and it is the time of My coming, but no one expects Me to come. And I am going to come with the Father as word over the earth, for the Father wants to unseal the mysteries of My word in the time of My body. And I am going to come with John, the apostle of love, for the people hid him too because people have learned from people, not from God. There was only one single John was among My apostles, and I dictated the Book of the Apocalypse to John, My beloved apostle, to John the speaker about God, which means John the theologian, as the holy people wrote next to John’s name, My apostle, whom I and the Father loved. This apostle did not die, for whoever loves God does not die, and has eternal life. This disciple of Mine was always saying to everybody: *«Love one another, for this is what the Father has commanded».*
+
+… I want to leave through you a mystery that is understood upon the earth: he who eats meat also drinks wine, and he who does not eat meat does not drink wine either. This is the distinction between the saints and the sinners.
+
+Sons, receive the perfect holiness in you, for he who does not eat meat does not drink either. The wine is My blood only in the cup, sons, amen, and what is beside this is from the devil. The entire intoxicating drink is cursed by Me, for it has destroyed the human kind. I am full of grief, because the wine was not cursed and the man gets drunk with wine, and those who believe in My word also get drunk, and the servants of the church also get drunk with wine, not only from other drinking. Sons, meat and wine are a great plague on the people, but I, the Lord, will take this from the people, for this draws the man to separation from God. The man who eats meat and drinks wine, that one has no wisdom from heaven and has no holiness in his mind, in his body and heart.
+
+Sons, sons, here is what I said upon you: be alive! Let no one from among the living ones tread upon the life that is in him, for My Body and Blood, which I gave to the saints in the time of My body, sanctified the holy ones and killed Judas.
+
+Sons, be alive, be holy. My teaching has eternal life in it. My teaching is My kingdom with the people on the earth. My teaching is My coming. Amen, amen, amen.

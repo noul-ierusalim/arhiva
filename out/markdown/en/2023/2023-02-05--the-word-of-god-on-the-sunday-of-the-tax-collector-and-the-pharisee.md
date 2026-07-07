@@ -1,0 +1,56 @@
+---
+title: "The Word of God on the Sunday of the tax Collector and the Pharisee"
+date: 2023-02-05
+year: 2023
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=749
+cheie: 749
+audio: https://noul-ierusalim.ro/audio/749en.mp3
+audio_file: 23.02.05-en.mp3
+---
+
+I am above here, with the hosts of saints and angels, and I am setting My word into My today’s book and I am shepherding with it, for I am the messenger of the Father as I was two thousand years ago, and I am working under My new name, the Word of God, as is written. **(Apoc: 19/13)**
+
+It’s Sunday and I have to write a word into the book today. It is dawn and I am waking you up to meet Me, sons receiving of God, for I have a shepherding word and I have a word to say, oh, sons. I am watching with the saints from here, from above, from the land of My coming at the end of the time and I am watching with the spoken word and then the word goes and works too, for this is how God works; He is working as in the beginning, because in the beginning was the word, and the same is now, in the end of the time, when all things end, to be renewed, and to fulfill My word now for the new birth of the world.
+
+[legatura_la_teme id_capitol="3" id_subcapitol="1"]Man has spoiled everything and set his work and cast aside God, the Maker, oh, but who can fight against God and prevail? All the adversaries who wish to be gods only lose all the time of their lives, for they are blind and have nothing to see with beyond their fleshly minds, the minds of man fallen from God through the corruption born out of disobedience to God in paradise, and behold, all the adversaries do not see, but they only boast, they only think that they can do, and when they see God afterwards, they will be filled with all the shame and see that the time of their lives has been lost, oh, and that is why I spoke to the Father, two thousand years ago, about their struggle against God: *«Father forgive them for they do not know what they are doing!».* **(Luke: 23/34)**
+
+I have worked wonderfully, so that the works of God may remain written on earth, for I have worked so that all that glorifies God in time may be written. However, the hypocritical man is blind, deaf and narrow-minded; he is not taught from heaven, where the teaching comes over those who choose it. Oh, how can not be God? Who made the heaven, the earth, the world and man? Oh, what can I do to you, man, if you keep on forgetting this so that you may find a way to say something, so that you may think that you know and are capable. Oh, then make the heavens, the earth and everything God did, so that you may have something to say that you know and that you can. Do you not see that if you want to make something visible on earth you have to set about to do this so that it can be seen and then to make use of what you have made? I would not ask you anything of you but to marvel at all the works of God, the Maker, and then to be small and live the time of your life usefully. However, you have become hostile and you love yourself and that is why you do not love and honor God, the Maker, and that is why you have given yourself over to the foreign spirit, the spirit opposing to God, the spirit that entered into paradise and changed the man’s mind and then turned man away from obeying God, and it has been seven thousand years since then, and this is what you are, man, and this is what you work, oh, and this is how you fall into ignorance and try to think that you know, too. I, the Lord, ask you to repent from the time of your ignorance. You cannot prevail against God! Bow down! God is asking you this! You cannot be as big as you may want to be. You cannot rule over the earth and over your fellows, for this is not yours, you are just fleeting and you do not have anything from heaven. Oh, stop being conceited! Wake up and try to understand how small and weak you are for you and for your fellows. I am teaching you from heaven, from My dwelling place and I am telling you this: listen to Me!
+
+[/legatura_la_teme][legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Oh, Romanian people, you have had the seal of a Christian for two thousand years on your forehead. On this Sunday, it is written in the order of the Christ’s church the beginning of the preparation for the entry into the time of the great fast before the celebration of My resurrection from among the dead two thousand years ago, and now My gospel remembers the parable of the Pharisee and the tax collector, oh, and it must be taken into consideration the cleansing of the sins committed with the mind and then committed with the deed, the sin of hypocrisy, the sin that uproots man from God, as well as the first man built by God and who fell from God through his mind.
+
+I am teaching you, Romanian people. Come to the school of the heaven! I am calling you, I am waiting for you, I desire you with heavenly longing, for I want to rely on your faith in My word upon you to fulfill with it the scriptures of the new birth of the world, as I use the faith of the people of My word to come on earth as word, and to fulfill by the man’s faith all those that are to come and be set with their fulfillment, and to protect My people as many times it is to open the eyes of the blind of those who oppose God.
+
+I am coming on your heart as word, Romanian people. Open so that I may be able to come in to you! You cannot do this but by the faith that I am this word, that I am calling you by it, that I am the One Who knock for you to open to Me and to take you to the teaching from heaven, with which I want to teach man what sinlessness is, what his likeness to God is, the setting back to place of those displaced by the hypocritical man’s unbelief even to himself, not only to those like him.
+
+Here is the parable of the tax collector and of the Pharisee. Oh, learn, sons, from this parable which I spoke two thousand years ago and take from it to know that before God you do not have to show that you rely on yourselves, that you think you are worthy to stand before God, but, on the contrary, humble yourselves and give all the glory to God so that you may receive grace upon grace and to help the Lord in all His works on earth during this time of the great fulfillments, of the preparation of My coming with much glory and with the salvation of those who believe and work together with Me, as I had faithful disciples two thousand years ago, who gave Me then to the people and by so doing winning them over to My kingdom, to My flock confessing of God through time, and behold, God does not perish, and it does not perish the kingdom of the heavens on earth, too, for it is inside of the man’s heart and of its works then, as it is written.
+
+Therefore, stand up and be My confessor, Romanian people! Behold, it is the time, sons. Hypocritical people sit over you and submit you to the word of power, for they are blind, they are without God over their works, even if they have taken upon them the robe of a shepherd and think they are worthy to put pressure on the flock of My church.
+
+Oh, I suffer, and these false shepherds work out pain for themselves, for My pain is coming over them and the pain of those they have persecuted you as well, for I have seen and heard this pain they have caused. I said and I am saying again: The church will split in two, and this is what these shepherds, greedy for money and with their life without God, are trying to do and to stir, and who use the house of God for their iniquities, because they have a foreign master over them, whom they obey and thus do the work contrary to God and to the Christian flock.
+
+However, rise up, Romanian people and work brotherly unity for the fight of the victorious faith on God’s side, and I, the Lord, will take note and fulfill at your faith, oh, for the Romanian people and its anointing from Me are great, that from the beginning to be My people for two thousand years and until the end of the time, and that I may fulfill through its faith the great miracle, My coming with the saints, **(See 1 Thessalonians: 3/13)** and to cast away from this holy land of the work of the antichrist together with his hypocritical servants in every way possible, even if they cover themselves with the robe of shepherds, for behold, they are mere antichrist shepherds, and behold how they dare to work damage under the name of the shepherds of the church by persecuting the Lord with their hypocrisy!
+
+Therefore, I will take note of their hypocritical work and bring them to shame and they will lose, and I will stand face to face with them with My works, oh, because I cannot lose the fight, and I will be victorious for those who mourn waiting for Me to come and do, because it is the time for Me to overcome.
+
+I am Who I am. Let those who may want to forgive learn that I am and that they are not.
+
+And behold what I am telling to those who mourn waiting for the Lord because of the injustices upon them by those who are hypocrites.
+
+You, those from the Christian flock with faith for Me and for the flock, wait a moment! I am coming to do justice to the sheep, as it is written for Me to do. There is a secret remnant preserved by grace, and who have not bowed their knees before antichrist, and these are waiting for the temptation to pass and for the deceivers to show themselves and the Lord to come victorious, and then the Christian flock to rise up to holiness for My coming with the day of glory. Amen.
+
+[/legatura_la_teme]
+
+And as for you, watching sons for Me in the citadel of My word, send My word all over so that it may work. Amen.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Oh, sons, prepare for the Lord holy feasts, holy days with Me among you, with you in Me, sons. Just as you prepare your food for Sunday, for the brotherly table, oh, so you have to prepare holy and edifying feasts of heavenly glory among you, too, and in such a way that the power and the work of My Sundays with you in the citadel may increase, along with prayers for you, for the flock, for the country, for My victory with you against the antichrist man, because I, the Lord, need to have power upon you, over all the Romanian people and then over the earth, and in all and everything God’s will to be done among the people of the faith and My victory through them, oh, sons.[/legatura_la_teme]
+
+I am giving you holy powers, I am giving you the peace from Me and I am giving you from Me, sons, and you have to give what I am giving you and do the work mercy with those who do not have from God.
+
+I always strengthen you with the word and with My longing and I want to catch power in the sons of the Romanian people to be able to work by their faith, oh, sons. All things come to fulfillment by prayer with petition. Therefore, let us ask from the Father in My name upon you and to receive from Him, and this is how the fulfillments that await at the border are to come, and which are not expected by My adversaries, who are impatient against Me and against those who rely on the Lord on earth.
+
+And now peace to you! Ask from the Father for you in My name, sons, and the Father will answer you.
+
+I am clothing you with grace, in My peace for you. Peace to you, peace to you, peace to you, oh, sons!

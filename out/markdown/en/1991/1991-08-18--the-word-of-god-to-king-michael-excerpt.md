@@ -1,0 +1,20 @@
+---
+title: "The Word of God to King Michael (Excerpt)"
+date: 1991-08-18
+year: 1991
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=961
+cheie: 961
+audio: 
+audio_file: 
+---
+
+I stretch out My Spirit over you, and look I sit in counsel with you by this river of heavenly word. Peace to you, my anointed Michael! Peace to you, Michael of My Romania, for Romania will be the garden of Eden before Me, a clean and blessed land of blessing. Peace to you, and rejoice from now on, for your time is coming near, for you are sealed with a heavenly ointment and you are announced from the very beginning to be in this time.
+
+When the time of the trial came over My Romania, when the red beast drove in the pole in Romania too, then it was the year of your birth. The time of temptation came, and together with it I worked out a means of salvation, a blessed branch, as it was written before in the Scriptures, and I carried you in all that bad time and I was with you in every moment to save you of all and to have you now, and to bring you to save those that escaped and to forgive those who brought you to Egypt, as the good Joseph forgave his brothers who sold him to the Egyptians.
+
+I will raise you to rule My blessed people and all soul who will want to come under the umbrella of this vine and under My work, which will take now a new beginning, a beginning of deliverance of My creature. I am in Romania, and I am with word, and I want to make a steadfast deliverance, for into the midst of this people it has been worked out a much bigger work than the one that was in the time of Moses, who was and delivered Israel of the Egyptian slavery. And you will come and make straight paths and we will give light on earth, and I will bring you through My living church, the unsleeping one, the righteous one, which, here, it arises, and it will be with power of resurrection over My creature.
+
+… Oh, My beloved one, the time is coming to put away the decaying things and let the unshakable ones, which were kept in hiding, [legatura_la_teme id_capitol="2" id_subcapitol="5"]spring into their place, for it was a time of want under the red beast whose reign came to an end, and the number of those seventy years of which is written in the Scriptures. *(The communist period, r.n.)* My Romania is the country of glows which will be seen rising from God, for it was enslaved under the time of Edom, but the time of establishment to its place of the kingdom of Israel is coming; the time is coming to build back those demolished, for the red beast stretched its tent over My church and displaced from their places the Lord’s seasons and feasts of the saints which hold the foundation of the Lord’s church. Behold the abomination of desolation which entered My church, it is written an end for it too, and all will come back to their runway. The saints from heaven are crying and waiting that their feasts may be celebrated again, for these are the days of the heaven and are the days of the Lord, who were displaced from their places, and Romania trampled them. But I will rise in this time and I will wash away the land of My Romania and I will turn the hearts of the children to their parents, and of the parents to their children, lest I come and strike with a curse, the one still left alive.
+
+I am the Lord of the powers, and from now on I am, [/legatura_la_teme]and behold, I make a new thing, a living resurrection over My Romania, and then I will be the one to fulfill from Romania, and My creature will rise and we will work things of which one has never heard before, and Romania will be queen over nations, for you are an intercessor from Me and I gave you birth at the same time with time of reconciliation, to be and to rise towards the end of the red time and to be righteous for Me, as it is written in the prophets, for you are spoken of by the prophets to be the anointed of My Romania, for Romania is My loved one for the time of My glory, for the time of My second revelation, as it is written about Me.

@@ -1,0 +1,42 @@
+---
+title: "The Word of God on the Sunday of Adam’s expulsion from Paradise"
+date: 2022-03-06
+year: 2022
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=724
+cheie: 724
+audio: https://noul-ierusalim.ro/audio/724en.mp3
+audio_file: 22.03.06-en.mp3
+---
+
+Sons, sons, on this Sunday, which has its being until the rising of the Monday sun, when the seven-week fasting season begins, so that it may be met then the Sunday of the feast of My Resurrection according to tradition, I am coming to put over the people of My word the blessing of the Father, of the Son and of the Holy Spirit to bring with it love, meekness, humility and consolation, peace and the spirit of speaking with God in a prayer of love all the time of the Christian fasting and then to come the feast of My resurrection, the memory of the day when I, the Lord, overcame through the cross, satan, the ruler of the world without God in this fleeting age.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Here is a little word with holy exhortation in it to you so that you may be good and holy, and to strengthen your steps on the way with Me bolder and more beautiful so that you may know how to appreciate My coming down to you and for you to bow before the Lord with more and more submission, because the Lord’s blessing is for those who are afraid of Him through obedience, sons, and you shall be obedient so that you may have part of God’s blessing over you, oh, sons.
+
+I am not coming to put more burdens upon you, rather I am coming to give you holy powers for the time of the fasting, for you are the people of the Lord’s coming and you are set by God to eat monastic food all the time of the year, all the time, that is to have as your food, bread, vegetables, fruit, seeds, as I wanted to put Adam to fulfill in paradise, **(Gen: 1/29)**, but if he be hardened not to listen, and to stretch out his hand toward what was not his from God, behold what happened to the one who chose knowledge that has puffed every man since then and up to this day and until tomorrow, sons, and this is how Adam lost the grace of his obedience to God and by so doing he lost his place in paradise and brought pain upon him and from man to man from Adam to this very day, and behold, sons, man is hard to be obedient to God. However, you are the people of the word of My coming at the end of the time and you have eaten clean food all the time so that when the time of fasting comes you only have to abstain from oil and wine and to seek according to every one’s power in you to bring before the Lord the sacrifice of your heart and body with all the joy of the soul in you, and your heart has to be restrained from everything that is not pleasing to heaven, and you also must take care of the food so that you may be able to do your duty with respect to the things that must be kept in control all the days and that your body may be able to resist in all that you have to bear and fulfill.
+
+Therefore, be wise, sons, and put to work the love between you and God, between brother and brother then and with these to organize the sacrifice for the fasting from food, for almost all of you are gentle, for this is how God’s children are; they are not like the sons of the world, rather they are fragile, they are gentle, and those who are like that have God as their Father, and have from the Lord given the grace of the love of God and brothers and also have a loving spirit of people and have in them the longing so that all people may be with God and to seek after Him with longing, to their temporary good and then eternal, oh, and this is the life and the heart of those who give themselves to God to be sons and heirs with Him forever, oh, and I do not know how to speak more sweetly to be gentle, meek and humble in your heart like God, sons.
+
+Do not forget, oh, do not forget, sons, My advice for those who fast, for I said: *«When you fast do not show to the people that you fast and in this way to lose your reward, rather be at peace, be gentle in your face, heart and conduct, and let only the Lord see your sacrifice in secret and let Him only reward you, He Who sees everyone’s heart in secret».*
+
+If your body is weak and suffering, be wise and temperate, and work according to your power so that you have in your body too lest you may show your weakness from fasting to those on the side, and help each other and search your weaknesses to be able to do your customs that you have to carry, and on Saturday and Sunday eat food with oil to prepare the power of your body to be able to stand according to the Christian way to the day of resurrection, when the time of the fast rises and when the song of the resurrection is sung: Christ has risen!
+
+Sons, eat bread with apples, with fruit, with seed; drink water and add sweetness for a loving prayer to the Lord, sweet moments of brotherly fellowship for the love which the Father had and because of which He had sent Me to sacrifice Myself for your salvation and for the salvation of every man in all ages, oh, and in this way to get sweeten from our fellowship with Me, and let your conduct be warm, gentle, sweet, wise and spiritual, sons.
+
+I do not want to suffer from you but to get comforted with you, dear sons. Therefore, seek not to do anything without My blessing so that you may not lose the Lord’s blessing upon you, oh, sons. If you did something from yourselves and do not have My blessing upon your work, try to repair, to depart from those that separate you from My blessing, for the time is very hard and I do not want this hard time to affect you.
+
+I have always been signaling for obedience with God, oh, and I see much separation from the spirit of obedience, of blessing, for the Christians do their will against those required by God from them to fulfill before Me, and they have mingled too much with the time outside, with the spirit and custom of the world, oh, and the saints look and cry this hard time and the Christians that play with the spirit of the world without knowing that they do, poor of them.
+
+I was with My trumpet Virginia at work on earth, *(The Holy Virginia, 1923 – 1980, the sixth apocalyptic trumpet, r.n.)*, and I as saying with mourning: “Christian, you shall not use or do anything that associates you with the world. You shall not wear any watch at your hand as the world does, for the Lord does not know you if you resemble the world,” oh, and the Christian took his watch off his hand he used to wear it in his bag so that he might not look like the world, but now I am asking him to take great care no to resemble the world, and the Christian does no longer want, oh, and he does no longer want, and tries no longer to hear, and one takes after the other to resemble the world, and he does everything without My blessing, and because of this I, the Lord, am troubled, I am troubled with all the saints and angels for the destiny and salvation of those that know Me by this word and are not able to listen to My exhortation upon them, exhortation for the sons of God.
+
+Behold, My people, in the time of the Lent, cleanse yourself from sins, son, from disobedience, from carelessness of God and of His word, from your likeness to the world, from the works and customs that have no share with God’s blessing, those that do not come from God’s will and separate you from the Lord.
+
+Oh, seek after the wisdom from above, sons, as your many wrong steps you have made have to be directed and brought on to the way with the Lord, lest satan may win you over to his side, after that I, the Lord, have taught you so much and holy for your life with God among people on earth.[/legatura_la_teme]
+
+Now, I am leaving you under the power of the wisdom from above, but you should also choose to stay under this power, sons. May the time of the fasting that starts now be blessed, and you too should be blessed like some obedient sons and to listen to My exhortation upon you, for behold, I have come to put you properly on the way to the preparation that ends with the day of the feast of My resurrection when you will sing: Christ has risen!
+
+Peace to you now! And you should also bring Me peace from you and comfort Me in My sufferance and you should also heal Me from My burden from those that do not listen like some sons steadfast in love, in faith and in My word!
+
+Oh, strengthen yourselves in the love of God all the time, and remain like that after that in love, sons.
+
+And again, peace to you, peace to you, peace to you, oh, sons! Amen, amen, amen.

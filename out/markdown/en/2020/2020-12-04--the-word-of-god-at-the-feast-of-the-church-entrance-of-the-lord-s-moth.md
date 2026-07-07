@@ -1,0 +1,60 @@
+---
+title: "The Word of God at the Feast of the Church Entrance of the Lord’s Mother"
+date: 2020-12-04
+year: 2020
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=687
+cheie: 687
+audio: 
+audio_file: 
+---
+
+Comfort, first I am placing the comfort between Me and you, sons from the citadel of My word. You always need My comfort, for you have to be able to work for Me, for My work with you all over the earth, oh, and all that are to be carried have to be done, and I, the Lord, always watch and strengthen your spirit and body and I give you the entire comfort, and every-thing is done according to My will; you have from Me the wisdom and you know that I watch, I work and I give to strengthen you at the work for Me. I also comfort your weaknesses and your little souls all the time and I listen to you when you speak to Me, but you should also submit to My will, sons.
+
+I have always watched for you and for My walking with you, and on this day is written a royal feast in heaven and on earth for My mother Virgin, and We are giving the word for the feast to be written into My book with you and We are sitting at the table of word. My mother is embracing and taking you to her bosom and she is giving the comfort of the mother to all of you, and you all should comfort those who comfort you, for the Spirit of Comfort does My work with you and always has His power at work, and We do, sons, the work of the Father, of the Son and of the Holy Spirit the Comforter, and everything is done by your obedience. Your obedience gives you power and it takes from Me for you, sons.
+
+My word over the earth is milk and honey; it is only mercy coming from heaven to the people, and I miss very much the awakening of all, and for two thousand years I have been longing for this. With longing I came then from heaven to the people, and the priests rejected Me and lied against Me so that they might be great and might have power over the people, oh, and there is no longing for God; people do not want God to be with them on earth and, as at that time, they do not want it now either; however, as at that time, all things are being ordained and are fulfilled as it is written to be fulfilled by God and by people, and I still want to grow in the people their knowledge of God, their faith, their longing and mercy between God and man, between man and God, oh, I am coming with the saints and angels and I am taking care of Our little ones, that is you, sons, and you should take care of Me and of those from the heaven because it is very hard for the man on earth to be able to understand this time of God as word coming to the people, but I have you before Me and I have Romania as the country of My coming during the entire work of this time, for I am the Lamb of the Father and I have to overcome here the unbelief and the man without faith in God, oh, and everything is being worked mysteriously, for this is how God has been working over the earth all the times, sons.
+
+Oh, My mother, We are now with your feast at the table with them, mother. We are making a halt with the heavenly armies in My citadel of word and We are sitting down into the book, mother. Oh, how mysteriously We are working! Because of the lack of knowledge of the people on earth, We work mysteriously, mother. The man tries and seeks to know all things, but despite all this, God’s mysterious work is not known, it does not come to the man’s mind, for the man’s mind is not with God.
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]Oh, let Us work the word of wisdom for man, mother, for the man has to know from God the work of the pure heart, and only after that he is supposed to know the things from God, how they work on earth, My mother.
+
+*— Yes, my Son, Jesus Christ, given to me by the Father to carry and to give Him birth as a Man on earth, yes, the man’s mind lacks its wisdom and God in man on earth. Let Us tell him, dear Son, let Us tell the man the mystery and the work of the pure heart, without which he cannot understand God with the people. Two thousand years ago, it was the same. The lack of the clean heart in those at that time was the reason why the people did not know You at that time. However, You worked and wrote on earth the work and the truth of Your coming from the Father to the people, but no one knew enough Your mercy for the people.* [/legatura_la_teme]There was so much sufferance in Us then! We had only been suffering on earth since We were children, and the Father did His work and strengthen Us under it according to His will. Nevertheless, the man did not understand Your coming, he has not built in him a pure heart to be able to love You with it and to know You by Your coming.
+
+Oh, there is so much pain on Us, but there is also comfort with it and with Us, dear Son. The coldness of the man’s heart burns within Us. You are the Creator of the heaven and earth, Lord Word, You are the Son of the heavenly Father, but the people are very cold in their heart. It is hard for a man to have in him a pure heart before God and towards his neighbors. Oh, the man does not have any part of this heavenly happiness by which he may be able to see God, Whom, those with a pure heart see, as You said about this mystery of seeing God inside of the man’s heart. **(Matt: 5/8)**
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]*The lack of the pure heart has divested man of the love of God, of God’s work with the man, dear Jesus Son. The pure heart has always had in it the longing of God, the longing which I had for You, Lord, and You made Your dwelling place in me, in my pure heart, and now every man that hears me has to understand and then to know what the pure heart and its work are.*[/legatura_la_teme]
+
+I am asking You now, on a day of the holy feast for me among the saints, to put in all those on earth the longing after You, Jesus Son, so that they may understand You with their heart and then to see that You are doing, all over the earth, Your work in the middle of the people, for behold, even today, the priests are rejecting You and are not giving You to the people with Your today’s good news, oh, and who is to help the people to follow Your word and Your life of the cross, with which You have loved and forgiven all people?
+
+I am helping the people and telling them all that my heart was only longing for God in it, that I worked all things on earth for God in my little heart, until I saw You coming on earth, and behold, blessed are those who are pure in heart, for they will see God, they will believe and do God’s works on earth, for they give themselves to God with their heart in them, and it carries in it all to give them all to God, becoming a way to God for all.
+
+You, the little ones of my Son, Jesus Christ, oh, receive my comfort over you! Do always the work of the pure heart. God has always worked for you and through you over the earth to become known to the pure hearts, and then more and more to the people on earth, for Romania is the country of God’s work now, in the end of the time, and the Lord has been working to have Christ’s church in it even since His walking on earth then, for it came the work of His church to it through His disciples, oh, and Christ saw it as a gift from the Father for Him for the end of the time, and He saw it from the cross and blessed it with His cross to be His church kept through the times and that He may be able to work through it the mystery of His coming as word on earth for the renewal of the creature, as it is written. **(Apoc: 21/5)**
+
+you before the Lord for His entire goodness with you, and for all your goodness with Him, oh, and my prayer for you is great, sons, for you need a comforter and comfort on His way with you.
+
+And, You, my Son, You have given me Romania to take care with those in heaven of its destiny from You. Oh, behold You are taking care in the day of the draw now over the country (Parliamentary election day, r.n.) *so that people may stand up with mercy for God and people and to build Your will over this land, and make this country into Your light and into the light of Your word over the earth, for I have been watching with great longing and in a stream of tears before You since then and up to this day, my Son, Jesus.*
+
+— Oh, My mother, how much care you have had for Me, for what is Mine and for My hard work of the renewal of the world, mother!
+
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]We have always put holy power over the sons of My word and We given them from heaven, mother. The power of the antichrist man is growing weak, it always grows weak, be-cause I always tell him to leave My inheritance, for the Romanian country has been Christ’s church for more than two thousand years, as it was set from its very beginning, and as its truth has been kept through the time, and I will work through the church, as it is written for Me to work, for I have faithful sons after the order from the beginning, and I have and they will be, for the Holy Spirit the Comforter, is coming and breathing, and many will receive the Holy Spirit, and the pure hearts will multiply, and the longing in them will call for the Lord with His great work over the earth, oh, and there are many, mother, and more and more will wake up with their love and will help Me to work with My victory, for I have to find faith on earth and to be able to work through it, to be able to work through the faithful ones, mother.[/legatura_la_teme]
+
+You, sons from the citadel, you should persevere in prayer like My mother Virgin, because first of all, you have to do the work for heaven on earth. Warm yourselves under My love, sons! Have your thought and waiting fixed on Me, for I am in all of your things, I am with you and near you. Let us give to each other, and then you should take care of My fulfillment within you, sons!
+
+[legatura_la_teme id_capitol="4" id_subcapitol="4"]
+
+Oh, My today’s country, do not forget Me! Be a *„don`t-forget-me flower”* before Me, for you have a great heaven of confessors among those in heaven, and yours from heaven are praised because you have been My country for two thousand years and you are given to Me by My Father, and since then and up to this day I have been looking at you as at a priceless pearl, and I will bring to painful shame all those who have wanted to hurt you, to despise you, to put you down, My Father’s choice for Me, to have you as Mine, My house of coming to you in the end of the time, My country, My today’s flower.
+
+Oh, wake up, you, Romanian sons! Receive the Holy Spirit, take Him to know how to choose with Him those who will stay for you at the helm of the ship!
+
+Oh, Father, My Father, let the Holy Spirit give to all the Romanian sons to know, to work and to become wise from above, from heaven!
+
+[/legatura_la_teme]
+
+And you, sons of My coming as word over the earth, watch in your prayers, sons. The power is with God not with the people, even if the people may thing that they have the power.
+
+Peace to you, sons! I am giving you My comfort. Strengthen the spirit and the peace in you! Put your hope in Me, together with your prayer!
+
+Be diligent for the needs of the citadel and watch for all things that are to be done, sons. Be strong in your faith all the time, and especially, let your speech be spiritual in all things, sons, and let all those in heaven, among you and with you in the entire work that has to be done, see only holy love.
+
+Peace to you! Power in your spirit, health in your body and comfort, this is what I am giving you, oh, sons. Amen, amen, amen.

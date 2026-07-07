@@ -1,0 +1,60 @@
+---
+title: "The Word of God from the third Sunday after Passover, of the Holy Myrrh bearers"
+date: 2024-05-19
+year: 2024
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=892
+cheie: 892
+audio: https://noul-ierusalim.ro/audio/892en.mp3
+audio_file: 24.05.19-en.mp3
+---
+
+With a tender spirit I am opening Myself and confessing the heavenly glory of the view of the hosts above, seated in holy celebration above the garden of My word, here with you on this day, children of the citadel of the New Jerusalem, placed by Me with its holy mystery on the land of the Romanian nation.
+
+We are gathered for a sweet celebration, We, those in heaven, and you, those who welcome Us and open to the heavenly glory that has arrived at dawn above My garden with you, sons, and now we are sitting down with glory and announcing to each other the greeting of My resurrection and we are saying to each other: Christ has risen!
+
+I am the Lord Jesus Christ, the Lamb of God, your Passover Lamb, sons. Peace to you I say whenever I am with you in word and in spirit, oh sons! The sight of the heavenly hosts above here is magnificent. The angels are making illustrated witnesses and placing them in the eternities of God that they may witness the sight of the glory of the feasts of heaven with you here, sons. I glorify Myself over you with the word and with My saints, whenever We sit in the garden, confessing with each feast My works with you on earth, and on this Sunday I am surrounded by My disciples and the myrrh-bearing women of My resurrection confessed by them on earth then, oh, and from then until today their news resounds, shared with each other, after I rose from the crucifixion, and when the voice of their confession was heard, making all creation tremble at the news that Christ has risen.
+
+Oh, male and female disciples, oh, witnesses of My Gospel and of the resurrection of the One you followed to the cross of His suffering for the people oppressed by time, oh, beloved sons, I went to the Father to prepare your place next to Me, so that We may be together with the Father forevermore. We are coming from the Father; We are coming together on holy days of My remembrance with you. We unite the beginning with the end of each spoken word, oh, and how beautiful it is when the beginning and the end meet, how beautiful, sons, how great, how comforting!
+
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]I have given, and again I give news and advice to today's disciples working with Me, and We are telling them that whenever fulfillments come to them first announced, and then worked by Me with them, oh, let them look to the fulfillment of My word over them, and I told them: Look to the end of every work to be done, and begin with it like that, as if it has already been accomplished.
+
+Oh, I have worked in this way and fulfilled every word proclaimed with its utterance, for I first saw it fulfilled in the unseen, and only then I proclaimed it and set it up for manifestation to the visible, and here is a mystery difficult to understand, difficult to accept and fulfill, for unbelief is so great, as to make man use the limitation of his mind, completely small face to face with God the Creator, and before Whom man stands great through his mind, so as to confess God as small, but I, the Lord, have prepared vessels for Me that bear faith and through which I have passed over all human ordinances and have written Myself on earth with wonderful works, with great disciples, with bearers of God full of love from above, and who believe and fulfill all of them and they remain as testimony.
+
+But behold, the mind of man has human, earthly, passing occupations, because man does not work out his eternity during his life on earth, and the temporary ones end with their beginning, and the work of man is not like God, for everything that man does is transient like man, oh, and that is why I come to accustom man to spend a lot of time with God on earth, more, so that God may be able to work and gather them in eternity, to have them and draw man towards them, so that man may have something to draw him towards his eternal life with God.[/legatura_la_teme]
+
+Now, I am blessing those who are celebrated, and I am blessing their word, so that they may place on the table of the feast for them, what they have preserved forever, and so that the power of God's mysteries may be clearly understood with the people on earth, with the children of the holy faith, and in whom the Lord places word and fulfillment of word.
+
+Oh, how great is the mystery of My word over men, and I, the Lord, greatly enlarged My place among you and My work with you then, oh, disciples, male and female, because I worked with you on earth, and My work have remained fulfilled with you, oh, sons.
+
+— We are standing before You as witnesses for You, Lord, and we are standing embraced in comfort and in the truth about You. Greater fulfillment than Your resurrection from the dead, what other fulfillment can speak so much, from how many words of testimony Your mouth has spoken over us, so that we may believe, and You may fulfill according to our faith, Lord?
+
+We were little in mind when you found and gathered us, and You then taught us to get used to believing the fulfillment of Your word spoken over us. We were little, little and weak in mind, little until after Your resurrection from the dead, little and weak in faith and little until the day of the fulfillment of Your word placed over us, and through which You told us: «You will be clothed with power from on high, and the Holy Spirit, the Comforter, will receive from Me and will declare it to you and you will know all things». **(See Luke: 24/49)**
+
+O Lord, our fear of men perished that day, and we told the unbelievers, who commanded us not to speak of You to men, but we had received power from the Holy Spirit, and we said to the unbelievers: «We must obey God rather than men». **(Act: 5/29)** We then confessed Your Being as the Son of God, and the truth about You remained over time, for the witnesses testify, Lord. You then took us to Yourself on the same path that You went to the Father, for You told us: «You will be hated by all for My name’s sake, and whoever kills you will do so in the name of God». **(Matth: 10/22)**
+
+[legatura_la_teme id_capitol="8" id_subcapitol="2"]*Great is the fulfillment of Your words, Lord! Great was Your work over us then, and all was written and all testify, and on this day, we, Your disciples and the myrrh-bearing disciples have the comforting joy to testify from heaven that You have all the fulfillments in heaven, You only take them and announce them on earth and then place them for view, and we give people the strength to believe when we now say Your work on earth, descended from heaven ready accomplished, Your work of the New Jerusalem, Lord, but which hardly fits in this world, during the age of unbelief, for the people on earth do not love God, O Lord.*[/legatura_la_teme]
+
+Again and again we say on earth that great is Your mystery with men, and only after we had arrived near You in heaven did we receive the solution to so many misunderstandings from our time with You on earth, and when we were so limited in order to understand Your teaching shrouded in great mystery under the glory of Your word spoken to us, and which You held under Your control for its elucidation at the time appropriate for Your fulfillments, Lord.
+
+[legatura_la_teme id_capitol="7" id_subcapitol="1"]Here we are gathered into You on our feast day, all together: the disciples, the myrrh-bearing women, the Virgin Mother, and many witnesses of the three and a half years of the time of Your word, spoken and fulfilled then, before the eyes of Your witnesses! We are seated with celebration for ourselves among Your disciples today on the hearth of the Romanian nation, and it is very, very beautiful here, where You have Your dwelling on earth with Your coming from the Father after two thousand years since Your first coming, Lord.
+
+Behold, above and below, in the air and on earth, a heavenly table, the tent of God in all its breadth, for a holy table and a holy memorial have been set for the sleeping people, who are awaiting the gong of full awakening, the resurrection of all those who have fallen asleep, oh, Lord, and then Your glorious forgiveness for them, and Your day of victory, the day without evening, with which You are coming, oh, Lord.
+
+Oh, the mystery of the resurrection of the sleeping cannot fit among people on earth, for people are too dead, and behold, the sleeping speak at Your command and they tell those on earth to choose themselves for faith, for resurrection, and here is what they are saying:
+
+— You, bearers of the body on earth, oh, run to the spring, to the word of God, which comes like a river to teach you, to wash you, that you may come out of death into life. The Lord is coming! We are coming with Him too, for so it is written, as soon as we hear the voice of His word, that we may rise up and testify of His coming. The word of God does not remain unfulfilled. Take note of the word that descends from heaven to earth through Christ, Who is calling us to come out and testify by rising from the graves at His voice. [/legatura_la_teme]
+
+Come to confession, do not stay entangled in temporal things! Eternity is coming, it is coming without notice, and the Lord is announcing Himself with it coming. We are speaking from near Him, together with the call to the table for us, for we are called to go out, to come and receive resurrection, oh, and how great is the word of God! His tent is being expanded, together with the call of all those who have passed away with the body, and for whom the ordinance of resurrection is being made here, where the Lord Jesus Christ has His abode of His second coming from the Father to men. Oh, run to find out and understand the mysteries of God, the eternal mysteries, for the temporal things are ending, as it is written. The kingdom of God is coming on earth with men! Go out to meet the Lord! Give yourselves as a dwelling place to Him!
+
+Oh, Lord of resurrection, the great and small dead bless You, their Savior. The mystery of the resurrection of those who have fallen asleep cannot yet be contained on earth, of all who have passed from Adam to this day, but You are the Angel Who holds in His hands the keys of death and hell and calls for the resurrection to come.
+
+Oh, write forgiveness and deliverance for all of us, write them for us, Lord, for the faith of Your disciples today, and with whom You work for us before You. Amen.
+
+— You, who are gathered from heaven and earth at the table of My word on this holy day, oh, sons, sing with joy that Christ has risen for the resurrection of all, being for them the beginning of the resurrection as it is written. I am very dear and very longing for the end of the expectations that have been suffering for seven thousand years, I long for the resurrection of all. I want to draw everyone to the Father, as I had made the promise before the witnesses of My resurrection, My disciples of that time, and to whom I left words and their fulfillment.
+
+I am looking with tender spirit upon those gathered together at today's memorial table of the witnesses of My resurrection. I wish you all on the side of the faith that is being fulfilled, oh, sons. The faith in you is the power of God over the earth and over men. The heavenly powers now receive the command to clothe you in the shield of the holy faith that is being fulfilled, sons.
+
+Oh, be careful to stay with God, for the thief is hidden and lurks to weaken your powers of faith, oh sons.
+
+I, the Lord Jesus Christ, am commanding the hidden wolf to let himself be discovered and to flee quickly from before Me, for I am with you to watch over you, to keep you in My mantle, to remain with you, and for you to remain with Me and to testify far and wide your faith in My coming to you, and Me by your side all the time, day and night, God with you on earth, oh children. Amen, amen, amen.

@@ -1,0 +1,54 @@
+---
+title: "The Word of God at the Feast of the Lord’s Ascension"
+date: 2022-06-02
+year: 2022
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=733
+cheie: 733
+audio: https://noul-ierusalim.ro/audio/733en.mp3
+audio_file: 22.06.02-en.mp3
+---
+
+[legatura_la_teme id_capitol="3" id_subcapitol="3"]This work of word coming down from heaven is My second coming from the Father to men. I, the Lord, am this word, and those who serve Me take from My mouth and share over the earth so that every man may here and come to eternal life even from the earth, a life without sin, when man hears from God and chooses to separate himself from sin for a life with God, and as for the one who hear from God and does not separate himself for God, that one remains a servant of sin, a son of disobedience to God and to the salvation from God.
+
+I love the man as My creature, but he does not love Me as his Creator. Man has life in his body from Me, for when he is born, I give his soul and his body catches spirit of life and then he walks. Oh, but you, man, you do not let Me be and remain your Father, you do not know to be your Maker, even if you have from Me the life in the body from your parents, for I gave your soul, but do you really know this?
+
+What a shameful history has a people that has brought in bondage other nations and lands, and what a fate will have in eternity! What a shameful history a man has, who has violated God in his disobedience and over His word of resurrection of the man condemned by the sin in him, and what a terrible fate will have such a man in eternity!
+
+Oh, Christian man, think about the judgment day of your life, when you will have neither accusers nor witnesses, but only the book of your life open with all things written into it by that time. Oh, think with pain and cry out with pain to My mercy to help you no longer sin, for if you do not call Me in tears, you go wrong again and again and fill the book of your life with the sin of carelessness to the life of the soul and to the judgment that comes to put you near your possessions without any saving fruit. Oh, do not rejoice over not being seen with the works of your life when this is what you want and seek, but rather be afraid of the punishment of the hidden things and do no longer seek after darkness not to be known or seen, for the light comes and brings you out, and all things work from God, only you, oh, only you man, only you work against Me, only you do not work for Me. Water does not stop from running and working and the light does the same. Oh, work too, and do not stop from the work of your life, for the work of your life is to prepare you to meet God, from Whom you have life.
+
+Oh, man without humility, you cannot endure humility when it comes from the sides for your lack of humility before the Lord and Creator. I, the Lord, am telling you that more than your sins all the time cannot humiliate you more. However, you want to appear as righteous and worthy, but if it were like that, you would love first the humble spirit inside and outside of you and you would receive with humility the cleansing of your sins when humility comes to you from the sides, oh, for you have many sins and keep on doing to have and you do not want to humble yourself for your forgiveness from God, for you laugh and joke, you become upset when someone does not behave properly with you, and the sin writes you. Do you see what it happens to you when you do not have the grace to work with you for your salvation from satan’s hand? Sin looks for you to use you if you do not seek after the work of the grace, oh, and then there comes even greater lack of work, it comes and keeps on coming if you do not want to have God in you as your Master and protection against the enemy sin and thirsty after man.
+
+You need a guide every step you make, man, but you do not seek it, as though you have decided for your destiny to remain with the sinful ones. Oh, humble yourself, for you are a Christian with the name of God, the Father, the Son and the Holy Spirit.
+
+Oh, where is your guide, dear Christian? You would give everything to have him when you seek after someone to be on your side against the threaten that will appear so that satan could not release you from the noose when all will be sorted out to the right and to the left!
+
+[/legatura_la_teme][legatura_la_teme id_capitol="6" id_subcapitol="3"]Sons, sons, I am with you in the citadel, here, with a holy feast and we are working the word of life giving and we share it further. Water works, wind works, sun works and light works, too. You, too, work for the Lord, sons, as I advise you. I am preparing to save you so that you may be light, to forgive you for the time when you have not been together with My word. I am preparing you in a special way, sons, to be able to lift you up for protection, to meet you, to come into your way before the moment prepared by God for those who are obedient now, and you will see then how much it has meant the obedience and preparation that I am requiring from you and to be able to come into your way and comprise you within the cloud as it is written.
+
+I have asked you to have whole preparation, sons. I have taught you everything you have to fulfil for you to be slight and easy. Every flesh that has life within it, has the movement of life as well. I have asked you not to take and eat, and neither eat from any bodies so that you may be slight, sons, and you listened and listen to Me. Living creatures are not for your food, for the preparation from Me is great and I want you to be obedient also for those who do not listen to the preparation of My people, fed with word from heaven.
+
+Oh, listen to Me, sons, for disobedience is heavy sin! When you have to pass over the one who teaches you or over the one who grows you up, you pass over God, and that is why you do not have anyone upon you to whom you should listen, as I listen to My Father and I do not do My will, as well as I did not do My will for the cross.
+
+Parents who separate children from God with their disobedience or children who separate their parents from God, these do separation because of disobedience, for their mixture against God, oh, and I suffered and suffer bitterly because of the lack of mercy for one another, and that is why I call out within the word and say that your preparation may be whole for the sons of My people so that I may not lose any one of them, for it will be painful on earth and in heaven the separation for disobedience of the preparation asked from the sons of the people of My word.
+
+The Christian does not suffer when he separates from God by his disobedience from those required today, after he has walked for a while with the Lord, but he will suffer when I will separate from him, oh, for it will not be able to be otherwise with the one who turns away from My will.
+
+You did not suffer when you separated from Me, but you will suffer, Christian, when I will no longer be able to be on your side, oh, and then you will not find any comfort, for the time passed when I was walking after you, as I have said all the time during this work when I have seen how those on whom I had mercy separate from Me and then they became disobedient. I suffer, for these will receive pains, pains that they do to God, all for those that are earthly, as passing as the grass in the field.
+
+I have wanted the Christian not to cut from the cross, but all the unfulfillments mean the cutting of the cross by any violated word, after I have taught you, Christian, and the shortened cross does no longer help you to end your way to Me; it is no longer whole either the cross and the way.
+
+Oh, there are so many little lambs and ewes who have left Me for the world with the sin! I have called out so many years: My little ewe, stay near Me, stay near the Shepherd, for the wolf sees that you are walking away from the flock and it comes when you least expect it, but you did not want and went and took from My fold and left two by two and made God suffer!
+
+Oh, My Spirit has been kindled after you when you sought to come to Me and when you wanted to have fellowship with Me, and then you did no longer love God, you have no longer listened, son, and I am behind you with My burning longing and I am looking at you and see how much you have grown cold until your heart went out. Behold, if you come as a child, then the age of the falls from God comes, separation from God for the lusts of the mind and body, and you have not watched, sons, against these enemies, who have torn your wedding garment and left you naked.
+
+Oh, My people, oh, sons, you do not have to live your life but My life, for otherwise you will get used to your lives. You have to live in Christ and work like that, so that you may remain with what you have worked for the dowery from heaven, and I am saying it again: woe to those who live their lives, for those without Christ get lost!
+
+Oh, My people, stay on My right side until I bring My enemies as the footstool of your feet so that they may know that I have loved you, as it is written, for I wrote on you God’s name and that of God’s citadel, New Jerusalem and My new name: God’s Word. And he who has ears listens to My voice, and that one will open to Me and I will come to him, dine with him and he with Me, as it is written. **(Apoc: 3/12, 13, 20; 19/13)**[/legatura_la_teme]
+
+And now, sons, I am setting you with My blessing for the setting of the Pentecost feast, for those asleep are coming at the table of memorial for them and remain at the feast and we will give them comfort, for we have to be ready with their lifting, oh, sons, so that all of us may meet, and behold what a great work I have to fulfil with you by My word with you, and which is heard at those in the tombs too, so that they may come out, sons, and you to know how much you have been waited.
+
+Therefore, prepare the bedding in the citadel for a day of feast and lift up the gates for the Lord to come in with the saints, *(Gates - those by whom the Lord speaks, the Lord comes as word, r.n.)* for the Lord to come with the armies from above to you. I will support you both from above and from below and I will take care that you may have good time, but ask from Me to give to you and that you may give yourselves, too, sons.
+
+The Christian king Constantine, and his mother, Helen, also leave blessing upon you, for I have them with Me to see with Me near you, to give you holy powers, holy gifts as to some sons of kings, for you are Mine, sons.
+
+Blessing and again great blessing for the setting of the feast of the Holy Spirit, and working grace for the greatness of the feast, sons, and peace to you! Work with much peace, with great order, with sweet talk, and let the spirit of obedience be helpful to you for the preparation of these moments of holy greatness, here, on My land with you, oh, sons. Amen, amen, amen.

@@ -1,0 +1,16 @@
+---
+title: "The Word of God at the feast of the three hierarchs Basil, Gregory and John (Excerpt)"
+date: 1994-02-12
+year: 1994
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=989
+cheie: 989
+audio: 
+audio_file: 
+---
+
+… Blessed are those who are clean within their hearts, for they will see God, and this work is Mine not yours, unfaithful Christian. Those from heaven within their heart will see God, but I tell you that they see God. But there is still a little bit of time and I will appear, so that others will also see Me, and those who pierce Me now, too.
+
+Loved people, I am with the feast of the three holy hierarchs in the garden of My word. These were sent by Me to Verginica after she fulfilled My commandment for the fast of forty days in the year of 1955. These saints had come down from heaven and brought the Holy of Holies to Verginica, well children, and after that I came down with My word in it and I spoke to My people that was to be born of heaven by My word, and I called this people on its name and I gave it a new name, a name from heaven, a holy and a blessed name, and I blessed it and I sealed it with a heavenly anointment, and no one on the earth has got now the gift and grace like the gift and grace of this people. But who shall perceive this? Who, sons, who? As behold, there is no one to understand. This people do not understand. Not even the one who is endowed with little wisdom; he does not understand it either and one like that turned to, he turned to those in the world, if Verginica is now near Me.
+
+Oh, people who have spent your little faith through which you have stayed with Me one way or another by this work! Oh, how I am to rebuke you, son! I will rebuke you bitterly and I will ask from you what I have given to you. You need to know that it will not be otherwise, and you will not be able to speak as you do now. I do not know if you are able to speak something then. But here it is what I tell you; you will not perish, son, and I will ask for you from the sea of unbelief, for the sea will give back its dead and the death and the hell will give back their dead, and I will open all the books and My angels will read from the books, and the joy and sorrow will start. However, those who will not be found then for joy, they will embrace the sorrow and will suffer until they pay the last penny, well My people, beloved and waited at the table of faith, at the table of joy. Do not seek to be after sorrow, and come in with the Holy Spirit, with the gift and with the grace that were given to you at your birth by the word of this work, for this work gave you birth to be the working son of this heavenly time, which is coming with Me. Do not be unfaithful! Come near to Me and to My mysteries which are into your midst by the word, and you do not do the job of Judas, son, for you are no longer able to do anything that is evil now, because I have come out, Christian, I have come out with you and where are you? Wake up, and come near to Me, you and all your house, and share My kingdom with those who receive it by your faith. Oh, let yourself be hired. Your obedience will save you from all your sins, little and tiny people, for you are weak and tiny, little and tiny both in your heart and in your love and faith.

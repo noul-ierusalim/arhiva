@@ -1,0 +1,26 @@
+---
+title: "The Word of God at the feast of the Holy Spirit’s descending. The Feast of the Ro-manian Christianity, on the third day (Excerpt)"
+date: 2000-06-18
+year: 2000
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=1092
+cheie: 1092
+audio: 
+audio_file: 
+---
+
+I come down in the garden at dawn with My comfort and with the Holy Spirit, the Comforter. Amen, amen, amen.
+
+I pour Myself down on you, those who have gathered together around the manger of My word. You have made a stopover for three days and I fill you with the glory of the Holy Spirit, the Comforter, on the third day, and I release you. My wedding with My bride, with My people out of the Romanians, is a wedding of new age and it lasts day and night, for the Bridegroom is from above, and the bride remains dressed forever, both in her going to sleep and in her awakening, while working or feasting or mourning or rejoicing, both on earth and in heaven. The bride is that one who does not take off her bridal dress. My wedding with My bride is a feast of Pentecost; it is the feast, which keeps the wedding sons and the wedding guests in it forever. Amen.
+
+At the beginning of the feast I gave you of My peace. Now, I will release you with My word and I give you again of My peace. Peace to you! Peace to you! Peace to you! This is how I comfort My disciples. Now go to your own things but do not forget about God. I will pour Myself down over you with the spirit of the holy joy. I will warm Myself up in you more and more. I will bind you over from above, from below and from the sides with the longing after Me and you will know that you were around Me for three days in a row, and you will feel how the longing will burn you and you will say: *“Were not our hearts burning within us while He spoke to us from above?”* I gave you sweet bread and new wine and I stayed with you dressed within the garment of the word. Take from the table with you and put it into your bags for the days on earth are hard and the bread and wine have gone bitter and sour everywhere. Take from My supper with you and remain within the spirit of the wedding, within the spirit of New Jerusalem on earth. I have stayed with the saints and angels at the table with you. I have eaten of your food for We long to come with the heaven on earth. I have woken up with you and I have gone to sleep with you; I have rested with you, I have sung with you and I have celebrated with you. I was in each holy joy within you, rejoicing over you.
+
+My heart burns within Me and it burns with longing after the man. My longing burns after the work of My hands. I leave it on you for its fire is consuming, which cleans the spirit and the soul and the body of the man; it is a fire which keeps the man warm, alive, awake and with longing.
+
+I have given to you My word. Make a little shirt out of it and a little coat for bad weather; mother and father, relatives and glory and life, for those who are old will pass away with great noise and I, the Lord, come with those who are new and I put them over the man and on earth, so that I may give the man a new heaven and a new earth and to be able to call him My son. The world and its face will no longer be and I come and set back to its place a new heaven and a new earth and the man full of longing after Me, and I will be fulfilled visibly by the Scripture which said: *«Behold, I am with you forever and you will be My witnesses from margins to margins and then I will be with you from everlasting to everlasting».*
+
+[legatura_la_teme id_capitol="6" id_subcapitol="2"]… I have made you the way of My coming for I have found you written in the book of the heaven, in the book of the Lamb’s Life, and the Lamb’s life is in you. I am the little Lamb of the Father, and you are My altar, the ark of My new covenant, the chalice in which I am being poured out every day for the life of the world, by the sacrificing of your life which you gave and give to Me. You are enveloped within the mystery of My coming. Soon, soon, I am going to remove the veil from you, and I will be seen visibly near you, as My word is in you.
+
+Now, we are going to rest because you have been working hard. Each day of the wedding needs preparation and sacrifice. I am comprising and embracing you within the spirit of My comfort and I am giving you to carry the cross of My coming much more, because I have no one to share it with. [/legatura_la_teme][legatura_la_teme id_capitol="8" id_subcapitol="3"]Soon, soon, the sun will shine seven times brighter, and the world will be renewed under the power of My word, which is making the world again. I am building the man again. Amen. And you are My building, and I have set you before the people as a new house, a new foundation, and I, the Lord, am building again on this new foundation the heaven and the earth, the new heaven, the new earth and the new man, **(Apoc: 21/1, 2)** in My image and after My likeness, and after you, for you are My new building, and you are the fruit of My love from the end, My love from My coming. [/legatura_la_teme]
+
+Oh, sons from My today’s manger, always comprise My coming and let yourselves be comprised by it, for you are My love from My coming, and you are the unfathomable mystery of My coming after two thousand years. Amen, amen, amen.

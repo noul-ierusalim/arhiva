@@ -1,0 +1,14 @@
+---
+title: "The Word of God at the feast of the Saint apostle and evangelist, John (Excerpt)"
+date: 1999-10-09
+year: 1999
+lang: en
+source_url: https://noul-ierusalim.ro/index1.php?pg=looken&cheie=1076
+cheie: 1076
+audio: 
+audio_file: 
+---
+
+[legatura_la_teme id_capitol="3" id_subcapitol="4"]Let no Christian, among those that believe and feed on the joy of My coming, word upon earth, wonder at the persecution that is, at the wandering that struggles to lead astray those that love God. During all My preaching of two thousand years ago, the Pharisees, the scribes and the elders who killed Me on the cross, tempted Me with questions to find error in My word and then to catch Me, as they were puffed up because of their knowledge. I was going from place to place and huge multitudes were coming after Me, not in secret as now. I was healing their sufferings to reward their faith and love, but the scribes and the Pharisees, because they had not got My power to also perform My works, were murmuring saying: *«Who is This, Who blasphemes?»*, *«Who can forgive sins except God?»*, *«Why does This eat with tax collectors and with fornicators?»* But I answered them: *«Most assuredly I tell you that the tax collectors and the prostitutes are entering into the Kingdom of God before you, for John came in the way of the righteousness and you did not believe in him, and the tax collectors and the prostitutes believed, and you seeing, did not repent afterwards and to believe in him».* [/legatura_la_teme]The man who sins does not repent because he sins, but the one who repents, that one does no longer sins, and understands the Kingdom of the heavens, and John told the Jews: *«Repent for the Kingdom of the heavens has come near!»* I told them the same, and I have also told them: «the Kingdom of the heavens is like the virgins», and it was I that I caught them into the word and not they, and they were plotting My death.
+
+The people are no longer satisfied with marriage and being given in marriage and fornication. The man would like to have a woman after the resurrection as well, as I was asked: «Whose wife will the woman of the seven brothers be for they all had her». And I told them: *«You are mistaken not knowing the Scriptures, not the power of God, for in the resurrection they neither marry, nor are given in marriage, but are like God’s angels in heaven».* To those that were tempting Me about the man’s separation from the woman, I answered with those that Moses told them, as I could not give them something else; however, to My disciples I answered clearly, as clear as their soul was, as they understood My speaking with the Pharisees, and they said: *«Lord, if this is the case of the man with his wife, it is not expedient to marry»*. I answered them: *«Not all the men can receive this saying, but only those to whom it is given to understand»*, and I added this: *«He, who understand, let him understand»*. Amen.
