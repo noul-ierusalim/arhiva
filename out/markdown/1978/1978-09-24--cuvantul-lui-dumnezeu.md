@@ -38,7 +38,7 @@ Nu te amăgi, că omul acela care a umplut pământul de minciună şi de muncă
 
 ... Sunteţi în mare primejdie, că faptele preoţilor fac lumea să-i duşmănească, duc lumea să păcătuiască, duc lumea de râpă. Dar mai e puţin timp şi vei vedea că preotul vine la poarta ta şi spune: *„Dacă mai faci rugăciune, te leg să nu mai poţi ieşi afară din casă“.* Vai de preotul care-l leagă pe cel credincios să nu mai creadă în Domnul Iisus Hristos! Aşa scrie pentru el în carte, şi scris este să se caterisească.
 
-... De ce preoţii nu-i împărtăşesc pe credincioşi de câte ori voiesc aceştia? că iată, au monopolizat lucrul sfânt, lucrul dat de Mine.[legatura_la_teme id_capitol="2" id_subcapitol="6"]Antichrist e pe pământ şi e bătrân şi s-a făcut apropiat prieten şi cu împăratul şi cu argatul şi cu preotul. Numai cu credincioşii Mei nu se poate împrieteni, şi între ei e un mare război cu foc.[/legatura_la_teme]
+... De ce preoţii nu-i împărtăşesc pe credincioşi de câte ori voiesc aceştia? că iată, au monopolizat lucrul sfânt, lucrul dat de Mine. [legatura_la_teme id_capitol="2" id_subcapitol="6"]Antichrist e pe pământ şi e bătrân şi s-a făcut apropiat prieten şi cu împăratul şi cu argatul şi cu preotul. Numai cu credincioşii Mei nu se poate împrieteni, şi între ei e un mare război cu foc.[/legatura_la_teme]
 
 ... Fiilor, ţineţi minte, că e un grup de creştini care au aflat de masa voastră şi vor veni şi ei să ia parte. Nu sunt aduşi de voi, sunt trimişi de Noi.
 

@@ -35,7 +35,7 @@ Oh, Romanian Jerusalem, I said in the time when I was sounding My trumpet, Vergi
 
 The devil that has enclosed everything makes Me angry to cut his way and to take My man back, My kingdom lost seven thousand years ago. I want to be able to speak with you; I want you to stay with Me; I want to be able to establish on earth together with you the resurrection of the dead and of those who are alive, for it is for this that I came from the Father two thousand years ago. And again, now, with the spirit full of the longing of My kingdom in man, I always come, always, and I speak with My voice from the sky and I give you, faithful children, to give to all, both who believe and to those who do not believe in My voice, which resounds from the clouds of My glory from above My little garden of word, to give the word of My coming to the man. Amen.
 
-Sing, Jerusalem, sing as in heaven, not as on earth. Pray as in heaven not as on earth, for I, the resurrected Lord, want to bring with My word that is on you the new birth of the world. Amen.[/legatura_la_teme]Christ is risen! I, Myself, declare on you the hymn of the remembrance of My resurrection of two thousand years ago.
+Sing, Jerusalem, sing as in heaven, not as on earth. Pray as in heaven not as on earth, for I, the resurrected Lord, want to bring with My word that is on you the new birth of the world. Amen.[/legatura_la_teme] Christ is risen! I, Myself, declare on you the hymn of the remembrance of My resurrection of two thousand years ago.
 
 Christ is risen! And I also tell this to the world that is intoxicated with the wine of its inflammation in it!
 

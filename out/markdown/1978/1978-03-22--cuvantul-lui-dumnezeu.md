@@ -8,7 +8,7 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Dacă eşti creştin, să nu te îngrijeşti cu ce te hrăneşti. Dacă eşti creştin, să nu te îngrijeşti cu ce te îmbraci şi unde călătoreşti şi ce vorbeşti, că toate vin de la Mine.[/legatura_la_teme]Nici un fir de iarbă nu creşte fără porunca Celui Sfânt. Nici un fir din capul tău nu creşte fără Dumnezeu.
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Dacă eşti creştin, să nu te îngrijeşti cu ce te hrăneşti. Dacă eşti creştin, să nu te îngrijeşti cu ce te îmbraci şi unde călătoreşti şi ce vorbeşti, că toate vin de la Mine.[/legatura_la_teme] Nici un fir de iarbă nu creşte fără porunca Celui Sfânt. Nici un fir din capul tău nu creşte fără Dumnezeu.
 
 Poporul Meu, s-a mărit judecata. Judecata de un ceas s-a făcut an, şi judecata de o lună s-a făcut, iarăşi, ani. S-a mărit judecata. Judecă Dumnezeu făpturile. A început, a început. Fericit cel ce a fost judecat pe pământ şi cu o suferinţă, şi cu o întristare, şi cu o lipsă de avere. Dar vai de cel ce va intra în judecata cea mare când va fi judecat pentru păcat, când vei fi judecat pentru părul din cap de ce l-ai tăiat, sau pentru ce ai avortat, sau pentru ce ai trădat, sau pentru ce ai înjurat, sau când vei fi judecat că ai venit la Mine şi ai plecat şi M-ai lăsat. Eşti ca un zidar când ai lăsat casa neterminată, nezidită, că nu se mai aseamănă zidăria unuia cu a altuia, şi lucrul pe care l-am început cu unul, trebuie să-l stric, că nu pot să-l termin cu altul.
 

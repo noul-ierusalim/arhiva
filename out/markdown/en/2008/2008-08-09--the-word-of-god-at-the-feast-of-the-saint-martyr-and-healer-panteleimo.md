@@ -42,5 +42,3 @@ The martyr Panteleimon wants to speak to you a word of teaching, sons, for alway
 Peace to the Romanian people with which I have spoken today to its healing from darkness and unbelief, because there is a time of unbelief, as it is written the Scripture of faith denial before My coming, which catches under it those that are unfaithful.
 
 [legatura_la_teme id_capitol="4" id_subcapitol="2"]Peace to you, Romanian nation! Do not yoke together with unbelievers; unbelievers are all those who do not seek after My face in order to do My will. Take My yoke upon your shoulders, oh My today’s country, for My yoke is easy, because I am without sin, and My burden is good, because I carry the Father in Me, and I want to make you the bearer of God, oh, My today’s people, Romanian nation, My people now, when I am coming on the earth as word for the healing of the nations. Amen, amen, amen.[/legatura_la_teme]
-
-[legatura_la_teme id_capitol="4" id_subcapitol="2"][/legatura_la_teme]

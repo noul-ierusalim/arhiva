@@ -32,7 +32,7 @@ O, fericit va fi cel care-şi curăţă haina vieţii, că acela va avea stăpâ
 
 Ridică-te şi te încinge şi te împlineşte, copilul Meu iubit, că iată, mare şi minunată este taina nestricăciunii, că de la acest început voi revărsa râu de viaţă, râu de înviere, iar când viaţa se va arăta, noroade însetate vor bea şi vor lua Duh Sfânt şi se vor adăuga la Dumnezeu.
 
-[legatura_la_teme id_capitol="4" id_subcapitol="5"]Copilul Meu iubit, cu câtă dragoste te port şi te cresc! Iată, vezi cum te ridic. Te ridic din zi în zi, şi apoi te voi arăta mare.[/legatura_la_teme]Iată, îţi dau să mănânci din mărul vieţii pe care l-am coborât şi pe care în curând îl voi aşeza la mijloc, că voi descoperi puterea Mea la cei fără putere şi voi împărţi putere şi viaţă.
+[legatura_la_teme id_capitol="4" id_subcapitol="5"]Copilul Meu iubit, cu câtă dragoste te port şi te cresc! Iată, vezi cum te ridic. Te ridic din zi în zi, şi apoi te voi arăta mare.[/legatura_la_teme] Iată, îţi dau să mănânci din mărul vieţii pe care l-am coborât şi pe care în curând îl voi aşeza la mijloc, că voi descoperi puterea Mea la cei fără putere şi voi împărţi putere şi viaţă.
 
 [legatura_la_teme id_capitol="4" id_subcapitol="5"]Îţi aduc aminte iar, să fii cum am fost Eu. Am pus peste tine duhul înţelepciunii cu care am lucrat Eu când eram un copil în mijlocul cărturarilor şi învăţătorilor legii, şi după Mine au mers apoi noroade întregi să-Mi asculte înţelepciunea. Fii întru Duhul Meu, căci Duhul Meu este întru Tatăl. Fii întru Duhul Meu, ca să fii fiul Tatălui Meu.
 

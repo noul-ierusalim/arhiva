@@ -40,7 +40,7 @@ Nu dori semne, nu dori minuni, că mai mare e plata dacă va fi fără minuni.
 
 ... Tată, sunt oameni de nouăzeci şi peste suta de ani, care se tăvălesc ca porcii în curvie până mor; şi după ce mor, le face preotul o slujbă, două şi s-a terminat. Fiilor, nu vorbim de păcatele acestora, dar feriţi-vă de acest păcat, că din pricina a ce este în lume astăzi, Dumnezeu S-a hotărât ca să nu mai fie căsătorie. Acum, ce facem? Stricăm legea? Dar cu ce să împlinim legea dacă n-am cu ce?
 
-[legatura_la_teme id_capitol="2" id_subcapitol="4"]... Încă o dată vă spune Domnul: nu fiţi îndărătnici la credinţă, că veţi vedea cu toţii lucrarea de azi în mijlocul cerului, de la facere şi până la sfârşit. Toate trâmbiţele vor fi scoase şi arătate în faţa voastră.[/legatura_la_teme]Să citiţi la Apocalipsă, la vedeniile apostolului Meu, că acolo scrie de vremea de astăzi.
+[legatura_la_teme id_capitol="2" id_subcapitol="4"]... Încă o dată vă spune Domnul: nu fiţi îndărătnici la credinţă, că veţi vedea cu toţii lucrarea de azi în mijlocul cerului, de la facere şi până la sfârşit. Toate trâmbiţele vor fi scoase şi arătate în faţa voastră.[/legatura_la_teme] Să citiţi la Apocalipsă, la vedeniile apostolului Meu, că acolo scrie de vremea de astăzi.
 
 Mai e un pic şi toate aceste lucruri diavoleşti dispar şi ia locul altcineva pe tron pentru o clipă, şi nici acela nu va fi bun. Tot nebun, şi va cădea şi acela, şi apoi va fi plânsul şi scrâşnirea dinţilor, va fi jalea.
 

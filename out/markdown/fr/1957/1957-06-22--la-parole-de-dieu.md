@@ -35,6 +35,6 @@ Savez-vous pourquoi on n’en a plus de fruit? A la place du fruit il y a seulem
 
 … Oh, Mes petits enfants, ne vendez pas Mon Esprit, car ce sera un péché plus amer que celui de Judas. Voilà, ceux à qui J’en ai beaucoup donné, ceux-là M’ont traité de mépris.
 
-[legatura_la_teme id_capitol="1" id_subcapitol="3"]… Il va venir le jour où, pour de la nourriture, vous pouvez rester en dehors du jardin, car Adam c’est pour la nourriture qu’il a été mis dehors.[/legatura_la_teme]Faites attention à ce que vous manger dans les jours de jeûne. Pourquoi mangez-vous du poisson dans les jours de jeûne? Pourquoi dites-vous que ce n’est pas ce qu’entre dans le corps qui souille l’homme, mais ce qu’il sort de sa bouche? Oh, comme ils seront amers vos pleurs! Mais ce sera trop tard.
+[legatura_la_teme id_capitol="1" id_subcapitol="3"]… Il va venir le jour où, pour de la nourriture, vous pouvez rester en dehors du jardin, car Adam c’est pour la nourriture qu’il a été mis dehors.[/legatura_la_teme] Faites attention à ce que vous manger dans les jours de jeûne. Pourquoi mangez-vous du poisson dans les jours de jeûne? Pourquoi dites-vous que ce n’est pas ce qu’entre dans le corps qui souille l’homme, mais ce qu’il sort de sa bouche? Oh, comme ils seront amers vos pleurs! Mais ce sera trop tard.
 
 [legatura_la_teme id_capitol="3" id_subcapitol="2"]Voilà ce que Je vous dis: l’anathème soit sur celui qui travaille du couchant de samedi jusqu’au matin de lundi, au levant du soleil.[/legatura_la_teme]

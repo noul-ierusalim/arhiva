@@ -8,7 +8,7 @@ audio:
 audio_file: 
 ---
 
-... Cine împlineşte cuvintele Mele, pe Mine Mă primeşte, şi când voi veni, voi intra în casa sa; şi când voi veni, voi birui. [legatura_la_teme id_capitol="1" id_subcapitol="3"]Pe pământul acesta se aduce cuvântul lui Dumnezeu, dar nimeni nu-l ascultă, şi nici cei care-l iubesc, că pe urmă îl şterg. O, nu-l şterge, tată. Uită-te la strămoşul tău, Adam, ce a făcut când Eu i-am spus şi n-a ascultat.[/legatura_la_teme]Uitaţi-vă la moşii şi strămoşii voştri, căci nu s-au ascuns.
+... Cine împlineşte cuvintele Mele, pe Mine Mă primeşte, şi când voi veni, voi intra în casa sa; şi când voi veni, voi birui. [legatura_la_teme id_capitol="1" id_subcapitol="3"]Pe pământul acesta se aduce cuvântul lui Dumnezeu, dar nimeni nu-l ascultă, şi nici cei care-l iubesc, că pe urmă îl şterg. O, nu-l şterge, tată. Uită-te la strămoşul tău, Adam, ce a făcut când Eu i-am spus şi n-a ascultat.[/legatura_la_teme] Uitaţi-vă la moşii şi strămoşii voştri, căci nu s-au ascuns.
 
 Copiii Mei, am venit pe cărare la voi, dar cărarea Mea nu o vede nimeni, fiindcă am venit în chip nevăzut.
 

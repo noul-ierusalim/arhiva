@@ -60,7 +60,7 @@ Florile Mele, nu vă cere Domnul averea voastră. Nu v-am cerut avere, dar v-am 
 
 ... Pe malurile apelor e scris un nume pocit: *„litoral“.* Şi pe acel mal sunt numai despuiaţi şi despuiate. E libertate la aceştia. Numai tu, creştine, n-ai libertate. Cum să mai aibă soarele lumina când îi vede pe aceştia? că s-a dat libertatea la lucrurile necurate şi s-a închis libertatea la lucrurile curate şi blestemul dumnezeiesc îi va ajunge pe aceştia care au interzis lucrurile curate.
 
-[legatura_la_teme id_capitol="3" id_subcapitol="4"]Vă anunţă Domnul: mulţi copii de ai Mei vor să dea copiii la şcoala de preoţi. Interzis! Interzis! Interzis! că nu iese preot, ci iese purcel, iese purcel. Nu mănâncă mâncare din care mânca sfântul Nicolae la şcoala sa, şi acum mănâncă chimicale.[/legatura_la_teme]Şi ce mănâncă atunci, va mânca întotdeauna, va mânca ce a mâncat în şcoală, nu ce a mâncat la mama şi la tatăl său.
+[legatura_la_teme id_capitol="3" id_subcapitol="4"]Vă anunţă Domnul: mulţi copii de ai Mei vor să dea copiii la şcoala de preoţi. Interzis! Interzis! Interzis! că nu iese preot, ci iese purcel, iese purcel. Nu mănâncă mâncare din care mânca sfântul Nicolae la şcoala sa, şi acum mănâncă chimicale.[/legatura_la_teme] Şi ce mănâncă atunci, va mânca întotdeauna, va mânca ce a mâncat în şcoală, nu ce a mâncat la mama şi la tatăl său.
 
 ... Dacă ai fi credincios, n-ai mai dori să te căsătoreşti, şi nici fii şi fiice n-ai mai dori, pentru că ţi-i ia vremea aceasta. Te-ai scrie în cartea unor fii feciori şi fecioare.
 

@@ -10,7 +10,7 @@ audio_file:
 
 ... Fiţi credincioşi, căci Domnul Iisus Hristos sfârşeşte ce a profeţit, şi mulţi vor căuta acest izvor din care au băut şi li s-a părut fără gust.
 
-[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Îmbrăcaţi-vă bine în viaţă creştină, căci cine nu are haină creştină, peste puţină vreme va pieri prin ceea ce vine.[/legatura_la_teme]Îmbrăcaţi-vă în haina duhovnicească, îmbrăcaţi-vă în lumină creştină, că piere această lume. Zice Domnul: *„Gata!“,* şi când zice: *„Gata!“,* a pierit lumea şi conducătorul ei, dar puţin, puţin şi vă veţi uita şi nu veţi mai vedea lumea, nu veţi mai vedea soarele şi luna, căci lumina va fi creştinul adevărat, bine înarmat în viaţa creştină.
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Îmbrăcaţi-vă bine în viaţă creştină, căci cine nu are haină creştină, peste puţină vreme va pieri prin ceea ce vine.[/legatura_la_teme] Îmbrăcaţi-vă în haina duhovnicească, îmbrăcaţi-vă în lumină creştină, că piere această lume. Zice Domnul: *„Gata!“,* şi când zice: *„Gata!“,* a pierit lumea şi conducătorul ei, dar puţin, puţin şi vă veţi uita şi nu veţi mai vedea lumea, nu veţi mai vedea soarele şi luna, căci lumina va fi creştinul adevărat, bine înarmat în viaţa creştină.
 
 ... Aveţi grijă că vom trece printr-o pădure uscată. Să nu ziceţi să ocoliţi, că nu aveţi pe unde, căci de la răsărit la miazăzi şi de la apus la miazănoapte sunt marginile acestei păduri. Nu aveţi pe unde trece afară de această cale, dar să fiţi bine întăriţi şi bine stabiliţi prin aceste cuvinte sfinte.
 

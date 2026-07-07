@@ -16,7 +16,7 @@ audio_file:
 
 ... Am trimis la tine soli să te oprească de la moarte şi nu te-ai oprit. Israele, de poporul lui Dumnezeu are grijă Dumnezeu, şi de poporul rău are grijă duhul rău şi îl duce să bea, să mănânce, până la un loc, şi acolo îl lasă şi se leapădă de el; şi poporul acela se tânguieşte, că atunci Dumnezeu nu mai e iertător şi milos.
 
-Este păcat strigător la cer! Am spus odinioară să vă înfrânaţi de la curvie, şi tocmai lucrul acesta nu se împlineşte. Am spus că femeia, după ce naşte copilul, bărbatul nu are voie să se ducă la ea trei ani de zile, iar bărbatul s-a dus la femeie. Fiule, grea pedeapsă ai să primeşti, că te duce trupul în iad. Cum să mai zic Eu *„poporul Meu“* când poporul e îndreptat spre rău? [legatura_la_teme id_capitol="6" id_subcapitol="1"]Eu aş vrea să fii curat, să fii sfânt, să fii înger, ca la ziua de apoi să închei veacul cu voi.[/legatura_la_teme]Pot Eu să mai stau în mijlocul poporului Meu?
+Este păcat strigător la cer! Am spus odinioară să vă înfrânaţi de la curvie, şi tocmai lucrul acesta nu se împlineşte. Am spus că femeia, după ce naşte copilul, bărbatul nu are voie să se ducă la ea trei ani de zile, iar bărbatul s-a dus la femeie. Fiule, grea pedeapsă ai să primeşti, că te duce trupul în iad. Cum să mai zic Eu *„poporul Meu“* când poporul e îndreptat spre rău? [legatura_la_teme id_capitol="6" id_subcapitol="1"]Eu aş vrea să fii curat, să fii sfânt, să fii înger, ca la ziua de apoi să închei veacul cu voi.[/legatura_la_teme] Pot Eu să mai stau în mijlocul poporului Meu?
 
 ... O, poporul Meu, mult te osteneşti, mult te trudeşti, dar dacă un lucru dintre toate nu e după voia Mea, toate se vor veşteji.
 

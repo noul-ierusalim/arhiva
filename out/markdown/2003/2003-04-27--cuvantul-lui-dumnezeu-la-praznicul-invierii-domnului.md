@@ -34,7 +34,7 @@ O, Ierusalime român, am spus în vremea când trâmbiţam din trâmbiţa Mea Ve
 
 Diavolul, care a cuprins tot, Mă mânie ca să-i tai mersul şi să-Mi iau înapoi omul, împărăţia Mea cea pierdută acum şapte mii de ani. Voiesc să pot cu tine; voiesc să poţi cu Mine; voiesc să putem să aşezăm pe pământ învierea celor morţi şi a celor vii, că Eu pentru asta am venit de la Tatăl acum două mii de ani. Şi iarăşi, acum, cu duhul plin de dorul împărăţiei Mele din om, vin mereu, mereu şi grăiesc cu glasul Meu din văzduh şi vă dau vouă, copii credincioşi, ca să daţi voi tuturor celor ce cred şi celor ce nu cred glasului Meu care răsună din norii slavei Mele de deasupra grădiniţei Mele de cuvânt, ca să daţi omului cuvântul venirii Mele. Amin.
 
-Cântă, Ierusalime, cântă ca în cer, nu ca pe pământ. Roagă-te ca în cer, nu ca pe pământ, că Eu, Domnul Cel înviat, voiesc să aduc cu cuvântul Meu cel de peste tine naşterea din nou a lumii. Amin.[/legatura_la_teme]Hristos a înviat! Eu Însumi rostesc peste tine imnul amintirii învierii Mele cea de acum două mii de ani.
+Cântă, Ierusalime, cântă ca în cer, nu ca pe pământ. Roagă-te ca în cer, nu ca pe pământ, că Eu, Domnul Cel înviat, voiesc să aduc cu cuvântul Meu cel de peste tine naşterea din nou a lumii. Amin.[/legatura_la_teme] Hristos a înviat! Eu Însumi rostesc peste tine imnul amintirii învierii Mele cea de acum două mii de ani.
 
 Hristos a înviat! îi spun şi lumii ameţite de vinul aprinderii din ea!
 

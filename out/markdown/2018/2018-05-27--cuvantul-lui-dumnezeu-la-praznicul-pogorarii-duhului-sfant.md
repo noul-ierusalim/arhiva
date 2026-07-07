@@ -44,7 +44,7 @@ O, nu defăimați, și nu veți fi defăimați! Cercetați-vă să nu aveți tru
 
 O, ce mult, ce multe v-aș învăța și v-aș povățui după fiecare stare, fiilor! E Duhul Sfânt lucrător cu dor peste voi, și iată-L cum și cât lucrează, purtându-Se plutind pe deasupra ca la facerea lumii, fiilor. El știe toate, precum este scris, și umple lumea și nu-I scapă nici șoapta cea mai la întuneric scăpată, și toate ajung la Domnul spre cercetare și spre sortare apoi.
 
-Vă umplu de înțelepciunea Duhului Sfânt, și aștept de la voi pe Duhul Sfânt, fiilor.[/legatura_la_teme]E masă dulce cuvântul Meu la praznicul de azi. Aici sub cort se lucrează azi înțelesuri de taine și de lucrări de taine, și este nevoie de înțelepciunea Duhului Sfânt ca să pătrundeți tâlcuirea simbolurilor de aici în zi de Rusalii, fiilor. Limbile Duhului Sfânt se deslușesc aici minunat. Toată podoaba care îmbracă aici sărbătoarea are deslușire, fiilor, prin cei aici de strajă așezați.
+Vă umplu de înțelepciunea Duhului Sfânt, și aștept de la voi pe Duhul Sfânt, fiilor.[/legatura_la_teme] E masă dulce cuvântul Meu la praznicul de azi. Aici sub cort se lucrează azi înțelesuri de taine și de lucrări de taine, și este nevoie de înțelepciunea Duhului Sfânt ca să pătrundeți tâlcuirea simbolurilor de aici în zi de Rusalii, fiilor. Limbile Duhului Sfânt se deslușesc aici minunat. Toată podoaba care îmbracă aici sărbătoarea are deslușire, fiilor, prin cei aici de strajă așezați.
 
 E tot o îmbrățișare tot ce este aici pregătit, toată fața cea văzută a sărbătorii.
 

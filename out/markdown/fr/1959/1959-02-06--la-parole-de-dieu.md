@@ -17,7 +17,7 @@ Vous ne le croyez pas, mais nous sommes tous des frères, et nous avons tous le 
 
 [legatura_la_teme id_capitol="8" id_subcapitol="5"]Oh, Mes brebis, une seconde de plus et nous allons nous rencontrer dans la patrie céleste.
 
-Oh, les fils, il y a beaucoup de ceux qui ont demandé leur part et sont partis dans le monde.[/legatura_la_teme][legatura_la_teme id_capitol="2" id_subcapitol="6"]Voilà, satan vient devant Mon Père et il Lui dit que tout le monde est à son service par la débauche et par les enfants non baptisés, qui doivent être purifiés et sanctifiés, puisqu’ils servent au satan. Vous savez déjà qu’il y a beaucoup de ceux qui servent à Dieu et au satan aussi, car ils vont à l’église pour se prosterner, et à la taverne aussi, où ils s’enivrent, ils y profèrent des injures, et ils s’adressent des paroles obscènes. Beaucoup de gens passent devant Ma croix, ils se prosternent et plus loin ils profèrent des injures.
+Oh, les fils, il y a beaucoup de ceux qui ont demandé leur part et sont partis dans le monde.[/legatura_la_teme] [legatura_la_teme id_capitol="2" id_subcapitol="6"]Voilà, satan vient devant Mon Père et il Lui dit que tout le monde est à son service par la débauche et par les enfants non baptisés, qui doivent être purifiés et sanctifiés, puisqu’ils servent au satan. Vous savez déjà qu’il y a beaucoup de ceux qui servent à Dieu et au satan aussi, car ils vont à l’église pour se prosterner, et à la taverne aussi, où ils s’enivrent, ils y profèrent des injures, et ils s’adressent des paroles obscènes. Beaucoup de gens passent devant Ma croix, ils se prosternent et plus loin ils profèrent des injures.
 
 Premièrement Je jugerais l’antéchrist.[/legatura_la_teme]
 

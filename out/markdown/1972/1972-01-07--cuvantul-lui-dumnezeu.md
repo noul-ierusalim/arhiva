@@ -8,7 +8,7 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="7" id_subcapitol="3"]... O, fiilor, de aş mai fi în trup, n-aş mai putea sta pe pământ. Trupul Meu este de-a dreapta Tatălui, iar Duhul Meu a venit să plinească lucrarea.[/legatura_la_teme][legatura_la_teme id_capitol="1" id_subcapitol="7"]Eu sunt Cel ce am fost cu trup şi M-am pogorât în iadul cel mai întunecat, de am scos pe cei iubiţi ai Mei. Am zdrobit porţile iadului, am iertat orice păcat, cu sângele de pe cruce, şi am trecut din legea veche în legea nouă, în cer şi pe pământ. Nu am murit, ci a fost o lucrare mare. Am avut putere să ridic sabie asupra fariseilor şi să le zdrobesc lucrarea.[/legatura_la_teme]
+[legatura_la_teme id_capitol="7" id_subcapitol="3"]... O, fiilor, de aş mai fi în trup, n-aş mai putea sta pe pământ. Trupul Meu este de-a dreapta Tatălui, iar Duhul Meu a venit să plinească lucrarea.[/legatura_la_teme] [legatura_la_teme id_capitol="1" id_subcapitol="7"]Eu sunt Cel ce am fost cu trup şi M-am pogorât în iadul cel mai întunecat, de am scos pe cei iubiţi ai Mei. Am zdrobit porţile iadului, am iertat orice păcat, cu sângele de pe cruce, şi am trecut din legea veche în legea nouă, în cer şi pe pământ. Nu am murit, ci a fost o lucrare mare. Am avut putere să ridic sabie asupra fariseilor şi să le zdrobesc lucrarea.[/legatura_la_teme]
 
 Vai de păcătosul care s-a întors la păcatele sale! Fiule Israele, ţine-te bine, că Mă uit din cer la tine; privesc de la Tatăl Meu la tine şi nu te părăsesc. Nici pe păcătos nu-l părăsesc, dar la ziua de judecată se va desparte.
 

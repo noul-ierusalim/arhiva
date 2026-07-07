@@ -14,7 +14,7 @@ Eu n-am venit la voi ca prilej de suferinţă sau ca prilej de sminteală sau de
 
 V-am dat iubirea mai presus ca oricărui înger şi mai presus ca oricărui sfânt. Nu vă jucaţi cu cuvintele Mele, că ele nu sunt jucărie pământească. Iubit popor al vremurilor, al veacurilor, dacă ai fi filozof înţelept, ai cunoaşte orice cuvânt ce Domnul ţi-l pune în braţe ca pe o solie cerească. Dar Eu n-am zis: *„Nu eşti vrednic de Mine“,* ci am voit să fii mai presus ca orice sfânt. Nu am descoperit la nimeni ce am descoperit ţie.
 
-[legatura_la_teme id_capitol="6" id_subcapitol="2"]Iubit popor, eşti scris mai înainte de începutul veacurilor să fii cu Mine.[/legatura_la_teme]Vai de cine a auzit aceste cuvinte şi nu va veni să stea în cerul sfânt, că mai mult ca oricărui păcătos îi va fi pedeapsa.
+[legatura_la_teme id_capitol="6" id_subcapitol="2"]Iubit popor, eşti scris mai înainte de începutul veacurilor să fii cu Mine.[/legatura_la_teme] Vai de cine a auzit aceste cuvinte şi nu va veni să stea în cerul sfânt, că mai mult ca oricărui păcătos îi va fi pedeapsa.
 
 Ai venit lângă Mine ca un leneş, fără să munceşti pentru Mine. Pentru ce? Pentru pământ? Pentru poftele tale? Nimeni nu M-a alinat când Eu te-am mângâiat. Eu te-am pansat, şi tu M-ai insultat. Să nu se supere nimeni că nu M-am dus într-un locaş şi am rămas aici. Nimeni nu-Mi face întrebare la a Mea supărare. Cerul suferă că nu mai poate răbda şi vrea să stea lângă faţa ta, că nimeni dintre sfinţi nu se bucură până nu va veni sfârşitul, când se vor împărţi darurile.
 

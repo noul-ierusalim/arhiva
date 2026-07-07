@@ -309,6 +309,21 @@ def html_to_md(body_html):
     # Resolve anchors first, on the whole body: a subcapitole link can span
     # several <p> blocks, so it must be handled before paragraph splitting.
     body_html = _resolve_anchors(body_html)
+    # Drop empty theme links: the source occasionally closes and immediately
+    # reopens an <a> around nothing (e.g. cheie=1346, `…amin. </a><a …></a>`),
+    # yielding a shortcode pair wrapping no text. It references nothing, renders
+    # nothing, and — left in — would shield an adjacent space from stripping.
+    body_html = re.sub(
+        r"\[legatura_la_teme[^\]]*\][ \t]*\[/legatura_la_teme\]", "", body_html
+    )
+    # Make each shortcode hug the word it borders: swap it leftward/rightward
+    # past adjacent spaces so a separator the source tucked *inside* the <a>…</a>
+    # (e.g. `voi da. </a>Iată`) lands *outside* the shortcode. Doing this now,
+    # before emphasis and splitting, lets the existing machinery treat it as an
+    # ordinary inter-word space — hoisting it out of an italic or stripping it
+    # at a paragraph edge — instead of leaving it stranded against the token.
+    body_html = re.sub(r"([ \t]+)(\[/legatura_la_teme\])", r"\2\1", body_html)
+    body_html = re.sub(r"(\[legatura_la_teme[^\]]*\])([ \t]+)", r"\2\1", body_html)
     # Emphasis can span <p> boundaries too, so redistribute it before splitting.
     body_html = _redistribute_emphasis(body_html)
 
@@ -329,13 +344,14 @@ def html_to_md(body_html):
         s = re.sub(r"<br\s*/?>", "\n", s)
         s = strip_tags(s)
         s = html.unescape(s)
+        # Re-hug shortcodes: the emphasis pass hoists an italic's trailing space
+        # to the outside, which can land it against a shortcode token (e.g.
+        # `cer.* [/close]`), and stripping a color <span> can expose a space too.
+        # Swap the space back outside the token so it collapses/strips like any
+        # other, leaving the shortcode flush with its word.
+        s = re.sub(r"([ \t]+)(\[/legatura_la_teme\])", r"\2\1", s)
+        s = re.sub(r"(\[legatura_la_teme[^\]]*\])([ \t]+)", r"\2\1", s)
         s = re.sub(r"[ \t]+", " ", s).strip()
-        # A theme shortcode must sit flush against the text it wraps, but the
-        # source leaves whitespace between the word and the <a>/</a> (e.g.
-        # `a toate. </a>`), and _emphasize hoists a space out of `apoi. </i>`
-        # to the same spot. Squeeze it off both the open and the close.
-        s = re.sub(r"\s+\[/legatura_la_teme\]", "[/legatura_la_teme]", s)
-        s = re.sub(r"(\[legatura_la_teme[^\]]*\])\s+", r"\1", s)
         if s:
             paras.append(s)
     return "\n\n".join(_tighten_theme_shortcodes(paras))

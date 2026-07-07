@@ -39,5 +39,3 @@ Nu e timp de slăbănogire, ci e vremea să te ridici și să mergi și să te v
 Amin, amin zic vouă, fii ai poporului român, voiesc să Mă aplec vouă ca să vă mulțumesc pentru ascultare, după ce ziua cea de cumpănă va trece și va aduce biruință. Dar și acum, mai înainte cu o săptămână Mă aplec înaintea voastră ca să vă aplecați cu Mine înaintea Tatălui și să spunem odată toți, iar și iar să spunem: Tată, o, Tată, fă-ne ascultători să fim și dă-ne nouă din cer, dă-ne Duhul Tău și nu-L lua de la noi pentru greșelile noastre și dăruiește-ne izbăvire după voia Ta!
 
 Iar Eu, Domnul Iisus Hristos, binecuvintez și spun: Pace vouă, fii români! Vă dau din cer și vă îndemn pe voi: Rămâneți, o, rămâneți întru iubirea Mea! Amin, amin, amin.[/legatura_la_teme]
-
-[legatura_la_teme id_capitol="4" id_subcapitol="4"][/legatura_la_teme]

@@ -56,7 +56,7 @@ Mă uit pe pământ, fiilor copilaşi, şi e plin pământul de oameni iubitori 
 
 Cel ce păcătuieşte moare. Să fugă omul de moarte şi să vină la praznicul de înviere, că vin cei din morminte curând, curând şi vor mărturisi învierea cea de la Fiul meu şi se vor ospăta din praznicul învierii. Amin.
 
-O, fiilor copilaşi, m-am lăsat în cartea Fiului meu cu cuvântul puterii cereşti pentru voi şi pentru om, numai să vină omul să ia de la voi, să ia din praznicul învierii, că vine Fiul meu apoi, şi va scrie veşnicie peste tot, şi fericiţi vor fi cei veşnici, că a lor va fi peste tot. Amin. [legatura_la_teme id_capitol="8" id_subcapitol="5"]Se munceşte omul de pe pământ să zidească, să facă, să aibă, dar nu va mai fi nimic, şi peste tot va fi veşnicia pentru cei veşnici.[/legatura_la_teme]Cine, fiilor copilaşi, cine sunt aceia *„cei veşnici”*? Cine, fiilor puişori?
+O, fiilor copilaşi, m-am lăsat în cartea Fiului meu cu cuvântul puterii cereşti pentru voi şi pentru om, numai să vină omul să ia de la voi, să ia din praznicul învierii, că vine Fiul meu apoi, şi va scrie veşnicie peste tot, şi fericiţi vor fi cei veşnici, că a lor va fi peste tot. Amin. [legatura_la_teme id_capitol="8" id_subcapitol="5"]Se munceşte omul de pe pământ să zidească, să facă, să aibă, dar nu va mai fi nimic, şi peste tot va fi veşnicia pentru cei veşnici.[/legatura_la_teme] Cine, fiilor copilaşi, cine sunt aceia *„cei veşnici”*? Cine, fiilor puişori?
 
 *– Cei veşnici sunt cei care au iubit pe Dumnezeu pentru Dumnezeu şi nu pentru ei, şi au trăit şi trăiesc întru venirea Domnului cu tot întregul lor, cu trupul, cu sufletul şi cu duhul lor în taina iubirii veşnice. Amin.*
 

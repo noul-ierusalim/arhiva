@@ -11,7 +11,7 @@ audio_file:
 
 [legatura_la_teme id_capitol="1" id_subcapitol="6"]… I could no longer prepare you for fear seized you. They set you a trap. And look what God did! Now you see, and see that God is with you. God did not want the enemy to catch the innocent, the one who loves God, but the ones without God were caught up.
 
-The drizzle and the waves of the enmity have not cleared yet, but I blow and make it clear. I let you free to have your say. I told you that I took as a help Elijah, the prophet, who brought Israel to Me, in the time of Ahab. I brought him here to help.[/legatura_la_teme]The priesthood was led by the executioner of the humanity but now he is waiting his judgment and punishment.
+The drizzle and the waves of the enmity have not cleared yet, but I blow and make it clear. I let you free to have your say. I told you that I took as a help Elijah, the prophet, who brought Israel to Me, in the time of Ahab. I brought him here to help.[/legatura_la_teme] The priesthood was led by the executioner of the humanity but now he is waiting his judgment and punishment.
 
 The seat of judgment will be in Romania, which I am cleansing now. You will see with your eyes the truth and the righteousness.
 

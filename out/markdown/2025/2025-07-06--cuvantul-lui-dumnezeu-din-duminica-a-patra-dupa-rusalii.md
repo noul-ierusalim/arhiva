@@ -47,5 +47,3 @@ Am grăit cu păstorii turmei creștine și cu mai-marii neamului creștin și r
 Iar celor ce stau de veghe pentru soarta și însănătoșirea ei le trimit tot timpul puterile cerești de sprijin pentru ei și lângă ei, căci apele sunt tulburi și trebuie veghe din cer peste țară și peste cei cu veghea peste ea. Amin.
 
 O, fiilor din cetatea cuvântului Meu, pace vouă, fiilor, și voi grăi cu voi și pentru voi în ziua care urmează după aceasta ca să vă însuflețesc, numai să luați voi de la Dumnezeu pentru voi, că am de lucru cu voi, și v-am numit mâinile și picioarele Mele pe voi, o, și vă voi da povață însuflețitoare și voi sufla cu ea peste voi ca să știți voi că tot ceea ce nu puteți voi pot Eu, poate Dumnezeu prin voi, iar voi veți putea prin El, veți putea pentru Dumnezeu, veți putea mereu, o, fiilor. Amin, amin, amin.[/legatura_la_teme]
-
-[legatura_la_teme id_capitol="4" id_subcapitol="4"][/legatura_la_teme]

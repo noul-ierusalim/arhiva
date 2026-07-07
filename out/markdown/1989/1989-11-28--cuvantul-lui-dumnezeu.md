@@ -8,7 +8,7 @@ audio:
 audio_file: 
 ---
 
-... Tată, fiţi atenţi, că vă dau ceva de ştire. [legatura_la_teme id_capitol="1" id_subcapitol="6"]Vine sfântul Ilie să facă o vizită pe pământul acesta şi ia cu el o părticică din ce-o şti el că trebuie pentru usturimea şi umilinţa fugiţilor de Dumnezeu.[/legatura_la_teme]Atunci să-i văd pe cei ce nu le-a plăcut de Dumnezeu.
+... Tată, fiţi atenţi, că vă dau ceva de ştire. [legatura_la_teme id_capitol="1" id_subcapitol="6"]Vine sfântul Ilie să facă o vizită pe pământul acesta şi ia cu el o părticică din ce-o şti el că trebuie pentru usturimea şi umilinţa fugiţilor de Dumnezeu.[/legatura_la_teme] Atunci să-i văd pe cei ce nu le-a plăcut de Dumnezeu.
 
 Stânca Golgotei este stropită cu sânge nevinovat şi este întărită în temelie şi nu se va prăbuşi în veci, şi nici cei ce se vor alipi de ea nu se vor prăbuşi, şi nici nu vor pieri în veci.
 
