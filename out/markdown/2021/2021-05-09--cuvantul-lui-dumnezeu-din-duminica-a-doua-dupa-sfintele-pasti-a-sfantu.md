@@ -42,7 +42,7 @@ Acum las întărire peste voi și peste cetate, ca să se înceapă aici pregăt
 
 [legatura_la_teme id_capitol="6" id_subcapitol="3"]Iubirea dintre Mire și mireasă, acest fior dulce al inimii celor ce Mă iubesc cu dor, această trăire sfântă să se așeze pe chipurile voastre, pe inimile voastre, iar dorul pentru Mine să vă mistuie inima și liniștea, o, și învățați, învățați voi, fii și fiice, învățați trăirea, și apoi cântarea miresei, că mireasa poartă dor prin toată purtarea ei, căci poartă pe Mire în inima ei.
 
-La început a fost Cuvântul, iar Cuvântul este iubirea, este Mirele, și Mirele iubește cu cuvântul ca la început și-Și gătește mireasa cea născută prin cuvânt, dar și mireasa să iubească cu cuvântul pe Mire, și dacă Eu spun: *„Hristos a înviat!”, mireasa să-Mi răspundă, să-Mi grăiască, să grăiască cu Mirele, și când vă spun: „Pace vouă!”*, voi să spuneți cu glas Mie apoi: *„Pace Ție, Doamne!”*, și să învățăm să vorbim unii cu alții când auziți Mirele că vine, că vă grăiește vouă.
+La început a fost Cuvântul, iar Cuvântul este iubirea, este Mirele, și Mirele iubește cu cuvântul ca la început și-Și gătește mireasa cea născută prin cuvânt, dar și mireasa să iubească cu cuvântul pe Mire, și dacă Eu spun: *„Hristos a înviat!”*, mireasa să-Mi răspundă, să-Mi grăiască, să grăiască cu Mirele, și când vă spun: *„Pace vouă!”*, voi să spuneți cu glas Mie apoi: *„Pace Ție, Doamne!”*, și să învățăm să vorbim unii cu alții când auziți Mirele că vine, că vă grăiește vouă.
 
 Iată, aceasta vă dau să lucrați, numai să nu căutați să fiți voi, ci numai Eu, fiilor, Eu cu voia Mea în voi și prin voi.
 

@@ -305,7 +305,34 @@ def _tighten_theme_shortcodes(paras):
     return out
 
 
+def _resolve_i_typos(body_html):
+    """Repair the source's `<?i>` typo (an invalid tag standing in for an
+    italic delimiter). Its direction isn't fixed: after italic text it means
+    `</i>` (cheie=1082, 1563), before it `<i>` (en/707, fr/174). Resolve each by
+    the running <i> nesting depth — inside an open italic it closes, else opens.
+    """
+    depth = 0
+
+    def repl(m):
+        nonlocal depth
+        tok = m.group(0)
+        if tok.replace(" ", "").lower() == "<?i>":
+            if depth > 0:
+                depth -= 1
+                return "</i>"
+            depth += 1
+            return "<i>"
+        if tok.lstrip("<").lstrip().startswith("/"):
+            depth = max(0, depth - 1)
+        else:
+            depth += 1
+        return tok
+
+    return re.sub(r"<\?i>|</?\s*i\b[^>]*>", repl, body_html, flags=re.I)
+
+
 def html_to_md(body_html):
+    body_html = _resolve_i_typos(body_html)
     # Resolve anchors first, on the whole body: a subcapitole link can span
     # several <p> blocks, so it must be handled before paragraph splitting.
     body_html = _resolve_anchors(body_html)
@@ -322,8 +349,12 @@ def html_to_md(body_html):
     # before emphasis and splitting, lets the existing machinery treat it as an
     # ordinary inter-word space — hoisting it out of an italic or stripping it
     # at a paragraph edge — instead of leaving it stranded against the token.
-    body_html = re.sub(r"([ \t]+)(\[/legatura_la_teme\])", r"\2\1", body_html)
-    body_html = re.sub(r"(\[legatura_la_teme[^\]]*\])([ \t]+)", r"\2\1", body_html)
+    # Only swap when the space follows real text, not a tag boundary (`>`): a
+    # space after an opening `<i>` is that italic's lead space, which _emphasize
+    # must see to hug its marker to the word (cheie=143); such tag-adjacent
+    # spaces are handled after tag-stripping by the per-paragraph swap below.
+    body_html = re.sub(r"([^>\s])([ \t]+)(\[/legatura_la_teme\])", r"\1\3\2", body_html)
+    body_html = re.sub(r"(\[legatura_la_teme[^\]]*\])([ \t]+)([^<\s])", r"\2\1\3", body_html)
     # Emphasis can span <p> boundaries too, so redistribute it before splitting.
     body_html = _redistribute_emphasis(body_html)
 
@@ -352,6 +383,13 @@ def html_to_md(body_html):
         s = re.sub(r"([ \t]+)(\[/legatura_la_teme\])", r"\2\1", s)
         s = re.sub(r"(\[legatura_la_teme[^\]]*\])([ \t]+)", r"\2\1", s)
         s = re.sub(r"[ \t]+", " ", s).strip()
+        # A paragraph that is only emphasis markers wrapped around a lone
+        # shortcode (e.g. `*[/legatura_la_teme]*`, from an <a> the source
+        # stranded inside an <i>) is degenerate — the emphasis wraps no text.
+        # Drop the markers, leaving the bare shortcode for the edge pass to
+        # reattach to its neighbouring paragraph.
+        if re.fullmatch(r"\*{0,2}\s*\[/?legatura_la_teme[^\]]*\]\s*\*{0,2}", s):
+            s = re.sub(r"\*+", "", s).strip()
         if s:
             paras.append(s)
     return "\n\n".join(_tighten_theme_shortcodes(paras))
