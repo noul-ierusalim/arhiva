@@ -55,14 +55,14 @@ I am coming to a halt with My mother and with the heavenly armies and I am looki
 
 From here, from the high mountain of My word on the hearth of the Romanian people, I have announced Myself to you and I have given the word on earth from the mystery of My coming. I, the Lord, make known to you that I am true in this word, and you should not doubt of it, but rather receive the Lord, Who gives Himself by working. Be blessed by the Lord, by the saints and by the fathers, walking in their holy ways, for to this you have been called: to in-herit the blessing. Amen.
 
-— And I, Son Jesus Christ, as Your mother and the mother of the good and faithful Chris-tian sons, give the news from near You, Your truth by this word, and confess upon them that You truly are the Word of God upon those who receive You and write Your word into the book on earth. It is my day of entrance into the church, it is a feast for me in the Christian people, and I have entered into the man’s temple to teach him how to become God’s temple as I became all my time on earth.
+*— And I, Son Jesus Christ, as Your mother and the mother of the good and faithful Chris-tian sons, give the news from near You, Your truth by this word, and confess upon them that You truly are the Word of God upon those who receive You and write Your word into the book on earth. It is my day of entrance into the church, it is a feast for me in the Christian people, and I have entered into the man’s temple to teach him how to become God’s temple as I became all my time on earth.*
 
-You, nations, languages and kings, it is the Lord, this word is my Son Christ. His word is a book written on the hearth of the Romanian people, the country, which I, in His great name, protect, watch, keep and adorn for the wedding, because my Son has got His holy dwelling place here, and from here He goes everywhere with the word.
+*You, nations, languages and kings, it is the Lord, this word is my Son Christ. His word is a book written on the hearth of the Romanian people, the country, which I, in His great name, protect, watch, keep and adorn for the wedding, because my Son has got His holy dwelling place here, and from here He goes everywhere with the word.*
 
-Amen, amen, I say to you, love Romania, take care of it as I do, that it may be, that it can work for the Lord, so that the Lord may work from here over the earth, because great mercy is God’s word, which is written in its book of today, here, in the citadel of His word.
+*Amen, amen, I say to you, love Romania, take care of it as I do, that it may be, that it can work for the Lord, so that the Lord may work from here over the earth, because great mercy is God’s word, which is written in its book of today, here, in the citadel of His word.*
 
-Now, Son Jesus Christ, my Son, let us once say over everyone in a day of holy feast, we, those who are clothed within the word and are standing near them: Peace to you, peace to you, peace to you!
+*Now, Son Jesus Christ, my Son, let us once say over everyone in a day of holy feast, we, those who are clothed within the word and are standing near them: Peace to you, peace to you, peace to you!*
 
-And we put Your name and my name over this word:
+*And we put Your name and my name over this word:*
 
-Jesus Christ and mother Virgin, the Lord’s Mother. Amen, amen, amen.
+*Jesus Christ and mother Virgin, the Lord’s Mother. Amen, amen, amen.*

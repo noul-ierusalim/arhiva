@@ -331,11 +331,42 @@ def _resolve_i_typos(body_html):
     return re.sub(r"<\?i>|</?\s*i\b[^>]*>", repl, body_html, flags=re.I)
 
 
+_EMPH_TAG = re.compile(r"<(/?)\s*(i|em)\b[^>]*>", re.I)
+
+
+def _balance_italics(body_html):
+    """Close an italic run the source leaves open, as a browser would.
+
+    An unclosed <i>/<em> keeps rendering to the end of its block: at cheie=268
+    an <i> opens near the tail ("şi cine a luat…") and never closes before the
+    footer, so the whole remainder is italic on the live site. Our emphasis
+    passes require a matching close, so an orphaned open is otherwise stripped
+    and its text silently loses the styling. Mirror the browser by appending the
+    missing close(s) at the body end. A stray close with no open is left as-is —
+    it matches nothing and is stripped later, exactly as a browser ignores it.
+
+    Scoped to italics on purpose. Bold is different: the only <b> runs here are
+    editorial scripture citations (`<b>(Apoc: 5/8)</b>`), and the unclosed ones
+    are close-tag typos (`<b>(Thessalonians: 3/13)<b>`, cheie=786) whose intended
+    close is mid-text — appending </b> at the body end would wrongly embolden the
+    whole tail. Run *after* _resolve_anchors so <b>/<i> tucked inside an anchor's
+    onMouseOver ddrivetip tooltip are already gone and never counted.
+    """
+    depth = 0
+    for m in _EMPH_TAG.finditer(body_html):
+        depth += -1 if m.group(1) else 1
+    return body_html + "</i>" * depth if depth > 0 else body_html
+
+
 def html_to_md(body_html):
     body_html = _resolve_i_typos(body_html)
     # Resolve anchors first, on the whole body: a subcapitole link can span
     # several <p> blocks, so it must be handled before paragraph splitting.
     body_html = _resolve_anchors(body_html)
+    # A browser keeps an unclosed <i> italic to the end of its block; the source
+    # sometimes omits the close (cheie=268). Restore it now that anchor tooltip
+    # markup (which carries its own <b>/<i>) has been stripped.
+    body_html = _balance_italics(body_html)
     # Drop empty theme links: the source occasionally closes and immediately
     # reopens an <a> around nothing (e.g. cheie=1346, `…amin. </a><a …></a>`),
     # yielding a shortcode pair wrapping no text. It references nothing, renders

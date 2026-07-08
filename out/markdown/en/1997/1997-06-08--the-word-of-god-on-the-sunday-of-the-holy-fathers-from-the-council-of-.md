@@ -45,8 +45,8 @@ My word became word into your book, Verginica, as I was writing Myself into Mose
 
 *— Oh, You are a river of word, Lord, and the books of Your word have no room on this earth, for great are Your words, Lord. Your word is comfort for the sons, and it is wrath for those who hear it, not hearing it, Lord of the comfort and of the justice of Your words.*
 
-*Oh, Jerusalem, oh, sons, sons, it is written into the Scriptures:* «Be angry, and don’t sin». Seek to understand spiritually the Lord’s Scriptures upon you and among you. Be angry and do not hate. Be angry and do not misjudge by being angry. Be angry and make the Lord’s ways straight upon the people and to the people. Work as the Lord does. Show the wicked steps of the people; maybe their steps will be healed of their wickedness.
+*Oh, Jerusalem, oh, sons, sons, it is written into the Scriptures:* «Be angry, and don’t sin». *Seek to understand spiritually the Lord’s Scriptures upon you and among you. Be angry and do not hate. Be angry and do not misjudge by being angry. Be angry and make the Lord’s ways straight upon the people and to the people. Work as the Lord does. Show the wicked steps of the people; maybe their steps will be healed of their wickedness.*
 
-Oh, anointed sons, the Lord opens up your mouth and will teach you what to speak. Go to Israel and work with Israel, and I will work with you, and then I will work a word into my book for Israel. Amen, amen, amen.
+*Oh, anointed sons, the Lord opens up your mouth and will teach you what to speak. Go to Israel and work with Israel, and I will work with you, and then I will work a word into my book for Israel. Amen, amen, amen.*
 
-And I will also work a word, and I will work even two, and I will send you with it there where it goes. Amen.
+*And I will also work a word, and I will work even two, and I will send you with it there where it goes. Amen.*
