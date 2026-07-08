@@ -8,8 +8,6 @@ audio: https://noul-ierusalim.ro/audio/1133.mp3
 audio_file: 12.08.09.mp3
 ---
 
-&remaining=yes" wmode="transparent" quality="high">
-
 Eu sunt Cel ce sunt. În zi de sărbătoare de sfinţi Mă fac cuvânt pe pământ peste neamul român şi Mă fac carte scrisă şi Mă dau de ştire că Eu sunt Cel ce sunt şi că grăiesc ca să fiu auzit. Amin.
 
 [legatura_la_teme id_capitol="4" id_subcapitol="4"]În numele Tatălui şi al Fiului şi al Sfântului Duh, în acest nume vine cuvântul Domnului peste pământ şi grăieşte peste neamul român, din mijlocul căruia se suie la Dumnezeu veste prin îngeri că este în durere şi în primejdie acest neam.

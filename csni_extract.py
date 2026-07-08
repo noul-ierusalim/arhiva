@@ -84,7 +84,10 @@ def download_audio(url, year, name):
 
 
 def strip_tags(s):
-    return re.sub(r"<[^>]+>", "", s)
+    # Consume quoted attribute values wholesale so a `>` *inside* an attribute
+    # (e.g. an <embed> whose flashvars carries a literal `<br>…</br>`, cheie=1133)
+    # doesn't end the tag early and leak the attribute tail as visible text.
+    return re.sub(r"""<(?:[^>"']|"[^"]*"|'[^']*')*>""", "", s)
 
 
 def clean_text(s):
@@ -359,6 +362,12 @@ def _balance_italics(body_html):
 
 
 def html_to_md(body_html):
+    # Repair a tag whose closing `>` was mistyped as `.`: `<i.` opening an italic
+    # quote (cheie=379) and `</span.` (cheie=1099). Do this first, before any
+    # tag-based pass reads them — a malformed `<i.«text»` would otherwise be
+    # swallowed (deleting the quote) or mis-nested. Only a tag name flush against
+    # a `.` matches, so real text and attributed tags are untouched.
+    body_html = re.sub(r"(</?[a-zA-Z][a-zA-Z0-9]*)\.", r"\1>", body_html)
     body_html = _resolve_i_typos(body_html)
     # Resolve anchors first, on the whole body: a subcapitole link can span
     # several <p> blocks, so it must be handled before paragraph splitting.
