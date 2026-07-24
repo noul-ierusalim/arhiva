@@ -69,7 +69,7 @@ def year_map(lang):
     the geten/getfr year param.
     """
     cfg = LANGS[lang]
-    arh = ro.fetch(f"{ro.BASE}{cfg['archive']}", cfg["archive"])
+    arh = ro.fetch(f"{ro.BASE}{cfg['archive']}", cfg["archive"], refresh=True)
     pairs = re.findall(rf"pg={cfg['get']}&k=(\d+)\"[^>]*?>\s*(\d{{4}})", arh)
     seen = {}
     for k, y in pairs:
@@ -131,6 +131,7 @@ def process_year(lang, year, k, do_audio, failures):
         year_html = ro.fetch(
             f"{ro.BASE}index1.php?pg={cfg['get']}&k={k}",
             f"{lang}_year_k{k}.html",
+            refresh=True,
         )
     except Exception as e:  # noqa: BLE001
         failures.append(("year", k, f"{lang}/{year}", str(e)))

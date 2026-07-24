@@ -27,15 +27,21 @@ LOGS = os.path.join(ROOT, "logs")  # crawl completion sentinel + failure log lan
 DELAY = 0.5  # seconds between live requests (politeness)
 
 
-def fetch(url, cache_name, retries=4):
+def fetch(url, cache_name, retries=4, refresh=False):
     """Fetch url, caching raw bytes under cache/. Returns decoded HTML.
 
     Retries with backoff because the source site is unstable. Raises the last
     error only after exhausting retries, so callers can skip-and-continue.
+
+    Message pages are immutable, so they're served from cache forever. But the
+    *listing* pages (arhiva.html and each per-year index) GROW as new messages
+    are posted — a cached copy goes stale and hides the latest posts. Callers
+    pass `refresh=True` for those, so they're always re-fetched (and the cache
+    overwritten with the fresh copy).
     """
     os.makedirs(CACHE, exist_ok=True)
     path = os.path.join(CACHE, cache_name)
-    if os.path.exists(path) and os.path.getsize(path) > 0:
+    if not refresh and os.path.exists(path) and os.path.getsize(path) > 0:
         with open(path, encoding="utf-8") as f:
             return f.read()
     last = None
@@ -463,7 +469,7 @@ def write_markdown(year, iso, cheie, title, audio, audio_file, body):
 
 def year_map():
     """Return [(year:int, k:str)] for every year link on arhiva.html, sorted."""
-    arh = fetch(f"{BASE}arhiva.html", "arhiva.html")
+    arh = fetch(f"{BASE}arhiva.html", "arhiva.html", refresh=True)
     pairs = re.findall(r"pg=get&k=(\d+)\"[^>]*?>\s*(\d{4})", arh)
     seen = {}
     for k, y in pairs:
@@ -478,7 +484,7 @@ def process_year(year, k, do_audio, failures):
     run continues. Returns (n_ok, n_fail).
     """
     try:
-        year_html = fetch(f"{BASE}index1.php?pg=get&k={k}", f"year_k{k}.html")
+        year_html = fetch(f"{BASE}index1.php?pg=get&k={k}", f"year_k{k}.html", refresh=True)
     except Exception as e:  # noqa: BLE001
         failures.append(("year", k, year, str(e)))
         print(f"  ! YEAR {year} (k={k}) index failed: {e}")

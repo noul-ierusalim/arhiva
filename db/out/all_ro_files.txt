@@ -1746,3 +1746,4 @@ out/markdown/ro/2026/2026-07-05--cuvantul-lui-dumnezeu-din-duminica-a-cincea-dup
 out/markdown/ro/2026/2026-07-07--cuvantul-lui-dumnezeu-la-sarbatoarea-nasterii-sfantului-ioan-botezator.md
 out/markdown/ro/2026/2026-07-12--cuvantul-lui-dumnezeu-din-duminica-a-sasea-dupa-rusalii-sarbatoarea-sf.md
 out/markdown/ro/2026/2026-07-19--cuvantul-lui-dumnezeu-din-duminica-a-saptea-dupa-rusalii.md
+out/markdown/ro/2026/2026-07-22--cuvantul-lui-dumnezeu-la-treizeci-si-cinci-de-anide-la-punerea-pietrei.md

@@ -7,8 +7,10 @@ to the new **noulierusalim.ro** site (WordPress + Divi).
 
 - `scripts/csni_extract.py` — the extractor (stdlib only, no third-party deps).
   `scripts/csni_extract_intl.py` — the EN/FR extractor (reuses the RO engine).
-- `cache/` — raw source HTML, one file per fetched page. The offline safety net; the
-  extractor never re-hits the server for a page already here.
+- `cache/` — raw source HTML, one file per fetched page. The offline safety net; message
+  pages (immutable) are never re-fetched once cached. The listing pages (`arhiva.html`,
+  per-year index) are always re-fetched (`fetch(..., refresh=True)`) — they grow as new
+  messages are posted, so a cached copy would hide the latest post.
 - `out/markdown/<lang>/<year>/YYYY-MM-DD--slug.md` — one message per file, grouped by
   language (`ro`/`en`/`fr`; see frontmatter below).
 - `out/audio/<lang>/<year>/yy.mm.dd-<lang>.mp3` — recordings, per language (`ro`/`en`/`fr`;
