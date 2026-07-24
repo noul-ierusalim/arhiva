@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu de Sfintele Paşti, ziua a doua"
+title: "Cuvântul lui Dumnezeu de Sfintele Paști, ziua a doua"
 date: 2016-05-02
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1316

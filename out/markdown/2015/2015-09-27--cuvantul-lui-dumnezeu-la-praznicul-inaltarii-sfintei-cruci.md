@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Înălţării Sfintei Cruci"
+title: "Cuvântul lui Dumnezeu la Praznicul Înălțării Sfintei Cruci"
 date: 2015-09-27
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1286

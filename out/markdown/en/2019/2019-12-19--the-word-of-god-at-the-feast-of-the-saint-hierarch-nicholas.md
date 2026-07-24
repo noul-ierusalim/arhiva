@@ -33,7 +33,7 @@ Oh, sons, I had seen with all the eyes of those from heaven the evil mash, leave
 
 Behold it was so and thirty years have passed since then. Thirty years ago, on December 1989, you were tiny and full of fear, because those with a warrant of search and accusation for My name upon you came against you, oh, sons. On that day, in that very moment of their pressure on you, I decided your salvation in order to have you and that you and I may carry on with the work of My word over the earth.
 
-And concerning those who had fallen then before it fell the one who gave the order for people to die for his salvation, *(Dictator Ceauşescu, r.n.)*, I took them with the angels in glory, and I have them with great honor for them, for they were your shield for My walking today with you further, sons.
+And concerning those who had fallen then before it fell the one who gave the order for people to die for his salvation, *(Dictator Ceaușescu, r.n.)*, I took them with the angels in glory, and I have them with great honor for them, for they were your shield for My walking today with you further, sons.
 
 Oh, behold sons, I, the Lord, told you about the coming trial, and I also told you about your salvation at once, for you were afraid in those days even after I had promised that I would be with you, with your salvation and My angels. Oh, and I fulfilled so, sons, and then I was able to prepare well My walking with power and with you.
 

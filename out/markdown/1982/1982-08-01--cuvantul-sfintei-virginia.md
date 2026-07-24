@@ -8,8 +8,8 @@ audio:
 audio_file: 
 ---
 
-*... Am băgat de seamă că vi se pare amară hrana mea. Văd că nu vă mai place a mânca. O, cum nu vreţi să luaţi aminte să mă ascultaţi? Domnul pentru asta a slobozit trâmbiţa Lui iară pe pământ, pentru ca pe poporul Lui să-l pregătească în aşa fel să nu aibă parte de înfricoşata judecată.*
+*... Am băgat de seamă că vi se pare amară hrana mea. Văd că nu vă mai place a mânca. O, cum nu vreți să luați aminte să mă ascultați? Domnul pentru asta a slobozit trâmbița Lui iară pe pământ, pentru ca pe poporul Lui să-l pregătească în așa fel să nu aibă parte de înfricoșata judecată.*
 
-*Ştiţi cum să vă fie cuvintele? Dulci ca mierea, şi să vă uniţi şi să vă iubiţi ca albinele în stup; cum lucrează ele şi muncesc şi aleargă toată ziulica, din floare în floare, şi din munca lor iese numai unire şi dragoste şi miere dulce, de se îndulcesc toţi care mănâncă. Fiţi deosebiţi de lume şi la purtare, şi la cuvinte, şi la post, şi la hrană. Fii deosebit cu totul de lume, ca să te cunoască Domnul când va veni să aleagă oile din capre şi neghina din grâu.*
+*Știți cum să vă fie cuvintele? Dulci ca mierea, și să vă uniți și să vă iubiți ca albinele în stup; cum lucrează ele și muncesc și aleargă toată ziulica, din floare în floare, și din munca lor iese numai unire și dragoste și miere dulce, de se îndulcesc toți care mănâncă. Fiți deosebiți de lume și la purtare, și la cuvinte, și la post, și la hrană. Fii deosebit cu totul de lume, ca să te cunoască Domnul când va veni să aleagă oile din capre și neghina din grâu.*
 
-[legatura_la_teme id_capitol="2" id_subcapitol="4"]*... O, zice Domnul:* „Verginico, vei merge înapoi pe pământ şi întări-voi trâmbiţa Mea prin mlădiţa crescută dintr-o rădăcină cu tine, pentru pregătirea poporului pe care l-ai câştigat“.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="4"]*... O, zice Domnul:* „Verginico, vei merge înapoi pe pământ și întări-voi trâmbița Mea prin mlădița crescută dintr-o rădăcină cu tine, pentru pregătirea poporului pe care l-ai câștigat“.[/legatura_la_teme]

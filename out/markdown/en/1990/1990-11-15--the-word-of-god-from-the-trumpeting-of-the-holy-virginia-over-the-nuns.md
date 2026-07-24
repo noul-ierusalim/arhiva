@@ -1,5 +1,5 @@
 ---
-title: "The Word of God from the Trumpeting of the Holy Virginia over the nuns of the Christian people, living in the monastery of Nămăieşti (Excerpt)"
+title: "The Word of God from the Trumpeting of the Holy Virginia over the nuns of the Christian people, living in the monastery of Nămăiești (Excerpt)"
 date: 1990-11-15
 year: 1990
 lang: en

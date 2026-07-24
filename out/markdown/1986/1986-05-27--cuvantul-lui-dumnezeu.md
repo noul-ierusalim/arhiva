@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Ocrotim România. Ierusalimul cel vechi este acolo unde au fost patimile Mele cele mai crâncene, iar Ierusalimul cel nou, în curând îl veţi vedea unde e dacă vă pregătiţi. Ierusalimul cel nou este România. Judecata de apoi este în România.[/legatura_la_teme]
+[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Ocrotim România. Ierusalimul cel vechi este acolo unde au fost patimile Mele cele mai crâncene, iar Ierusalimul cel nou, în curând îl veți vedea unde e dacă vă pregătiți. Ierusalimul cel nou este România. Judecata de apoi este în România.[/legatura_la_teme]

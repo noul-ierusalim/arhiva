@@ -8,38 +8,38 @@ audio:
 audio_file: 
 ---
 
-... Nu din cer se va aprinde focul, ci de la tine, tată, de la lume. Israele, tot cerul e de faţă când tu faci păcate.
+... Nu din cer se va aprinde focul, ci de la tine, tată, de la lume. Israele, tot cerul e de față când tu faci păcate.
 
-... Israele, plâng păstorii că nu le mai dai ascultare şi nu mai au curaj să stea în mijlocul tău. Israele, de ce nu mai dai ascultare la păstori şi Domnului Iisus Hristos? De ce te-ai întărit în neascultare? De ce te-ai făcut atât de mare? Când am venit la tine Mi-ai făcut loc să intru cu căruţele, şi acum M-ai dat afară, nu vrei să mai fii acela de atunci.
+... Israele, plâng păstorii că nu le mai dai ascultare și nu mai au curaj să stea în mijlocul tău. Israele, de ce nu mai dai ascultare la păstori și Domnului Iisus Hristos? De ce te-ai întărit în neascultare? De ce te-ai făcut atât de mare? Când am venit la tine Mi-ai făcut loc să intru cu căruțele, și acum M-ai dat afară, nu vrei să mai fii acela de atunci.
 
-... Israele, zidiţi-vă casa, că se dărâmă, şi este nevoie de ea. Nu-ţi face altul casa ta. Copilaşul Meu, nimeni nu te va împrumuta să-ţi dea casa sa. Duhovniceşte Domnul vorbeşte. Cine are minte, să priceapă, şi cine nu are minte, să nu priceapă. Să munceşti, nu să zici că nu pricepi şi cu aceasta să scapi de Mine.
+... Israele, zidiți-vă casa, că se dărâmă, și este nevoie de ea. Nu-ți face altul casa ta. Copilașul Meu, nimeni nu te va împrumuta să-ți dea casa sa. Duhovnicește Domnul vorbește. Cine are minte, să priceapă, și cine nu are minte, să nu priceapă. Să muncești, nu să zici că nu pricepi și cu aceasta să scapi de Mine.
 
-... Familiile pe care le-am unit, unde le e recolta? Unde vă sunt recolta şi faptele? Unde vă este sfinţenia? Unde vă e blagoslovenia şi binecuvântarea? Unde sunteţi? O, tată, tată, unde vă sunt faptele bune? Uniţi-vă la fapte bune şi la viaţă, nu vă duşmăniţi şi nu fugiţi de Mine, că unde te vei ascunde? Nu ai unde, că Dumnezeu te scoate de oriunde şi te osândeşte.
+... Familiile pe care le-am unit, unde le e recolta? Unde vă sunt recolta și faptele? Unde vă este sfințenia? Unde vă e blagoslovenia și binecuvântarea? Unde sunteți? O, tată, tată, unde vă sunt faptele bune? Uniți-vă la fapte bune și la viață, nu vă dușmăniți și nu fugiți de Mine, că unde te vei ascunde? Nu ai unde, că Dumnezeu te scoate de oriunde și te osândește.
 
-[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Astăzi nu mai e vremea din anul 1955 când M-am coborât, ci este anul 1975 când este vreme grea şi nimeni nu se mai uită la aceste cuvinte. În anul 1955 am sărbătorit dezgroparea unui sfânt şi a făcut slujbă minunată, căci în vremurile voastre s-a ivit un sfânt pe acest pământ românesc, şi acest sfânt a fost şi este de mare preţ pentru voi *(sfântul Calinic de la Cernica, n.r.)*. Dar în anul 1975 nu se mai dezgroapă nici un sfânt, chiar dacă ar fi, şi mai pune pe el o greutate, ca să nu se mai dezgroape niciodată. Astăzi e credinţa nepreţuită.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Astăzi nu mai e vremea din anul 1955 când M-am coborât, ci este anul 1975 când este vreme grea și nimeni nu se mai uită la aceste cuvinte. În anul 1955 am sărbătorit dezgroparea unui sfânt și a făcut slujbă minunată, căci în vremurile voastre s-a ivit un sfânt pe acest pământ românesc, și acest sfânt a fost și este de mare preț pentru voi *(sfântul Calinic de la Cernica, n.r.)*. Dar în anul 1975 nu se mai dezgroapă nici un sfânt, chiar dacă ar fi, și mai pune pe el o greutate, ca să nu se mai dezgroape niciodată. Astăzi e credința neprețuită.[/legatura_la_teme]
 
-... Acum nu mai este anul grâului, ci este anul banilor. Nu se mai pune preţ la grâu, ci la argint şi la aramă. De aceea am zis că dacă ai fi bani, te-ar căuta şi în pământ şi te-ar folosi la munca sa. Dar stai aşa, nu te perpeli că eşti fără valoare, că piere această comoară de astăzi, şi tu vei avea valoare.
+... Acum nu mai este anul grâului, ci este anul banilor. Nu se mai pune preț la grâu, ci la argint și la aramă. De aceea am zis că dacă ai fi bani, te-ar căuta și în pământ și te-ar folosi la munca sa. Dar stai așa, nu te perpeli că ești fără valoare, că piere această comoară de astăzi, și tu vei avea valoare.
 
-[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Ţineţi minte, căci câte i s-au arătat prin vedenie acestui vas, astăzi sunt.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Țineți minte, căci câte i s-au arătat prin vedenie acestui vas, astăzi sunt.[/legatura_la_teme]
 
-[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Dacă ţi-a spus cineva că te-a văzut greşit şi tu ştii că nu ai făcut, nu te mâhni, ci crede, că e solul lui Dumnezeu.[/legatura_la_teme]
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Dacă ți-a spus cineva că te-a văzut greșit și tu știi că nu ai făcut, nu te mâhni, ci crede, că e solul lui Dumnezeu.[/legatura_la_teme]
 
-... Nu mai e anul 1954. O, nu mai sunteţi de atunci, şi sunteţi de astăzi, când se uită moartea pe fereastră să numere pe cine să ia cu grămada. Duhovniceşte vorbesc. Nu vorbesc de roşul de pe buze sau de sprâncenele făcute, ci vorbesc de credinţă şi de suferinţă, şi voi nu aşteptaţi sfârşitul, că ţi-a şoptit satana la ureche că nu se mai sfârşeşte acest veac, şi te minte, tată.
+... Nu mai e anul 1954. O, nu mai sunteți de atunci, și sunteți de astăzi, când se uită moartea pe fereastră să numere pe cine să ia cu grămada. Duhovnicește vorbesc. Nu vorbesc de roșul de pe buze sau de sprâncenele făcute, ci vorbesc de credință și de suferință, și voi nu așteptați sfârșitul, că ți-a șoptit satana la ureche că nu se mai sfârșește acest veac, și te minte, tată.
 
-... Fiţi învăţaţi, că au ajuns animalele mai înţelepte ca oamenii, că pasărea când bea apă, după fiecare înghiţitură Îmi mulţumeşte.
+... Fiți învățați, că au ajuns animalele mai înțelepte ca oamenii, că pasărea când bea apă, după fiecare înghițitură Îmi mulțumește.
 
-... Copilul Meu, dacă urcai pe trepte într-un palat mare şi te opreau nişte portari, ziceai că n-ai putut ajunge sus că te-au oprit portarii, dar la Dumnezeu, acum nu te mai ridici pe trepte înalte, că a venit Dumnezeu jos la tine. S-a coborât Dumnezeu la tine, ca să nu te mai oboseşti tu.
+... Copilul Meu, dacă urcai pe trepte într-un palat mare și te opreau niște portari, ziceai că n-ai putut ajunge sus că te-au oprit portarii, dar la Dumnezeu, acum nu te mai ridici pe trepte înalte, că a venit Dumnezeu jos la tine. S-a coborât Dumnezeu la tine, ca să nu te mai obosești tu.
 
-... Poporul Meu, e scris numele tău în cartea de pe urmă. Auzi? E scris nu numai într-o carte, ci în multe cărţi, în toate cărţile sfinţilor arhangheli şi în toate cărţile sfinţilor Mei. Dacă nu eraţi scrişi, eraţi până acum striviţi de trenuri, de maşini. Şi de furnici eraţi striviţi, dar numele vostru este scris şi în cartea Născătoarei de Dumnezeu, şi nu numai numele vostru, ci şi al fiilor voştri şi al nepoţilor voştri. Păstraţi-vă trupul şi duhul, că mulţi veţi urca în ceruri cu trupul. Diavolii umblă să ucidă duhul, nu mai umblă să nimicească trupul, că multe şcoli au făcut astăzi duhurile rele pe pământ. Ce n-ar fi făcut ei cu voi dacă nu eraţi scrişi! În post şi rugăciune vă aştept să veniţi la Mine.
+... Poporul Meu, e scris numele tău în cartea de pe urmă. Auzi? E scris nu numai într-o carte, ci în multe cărți, în toate cărțile sfinților arhangheli și în toate cărțile sfinților Mei. Dacă nu erați scriși, erați până acum striviți de trenuri, de mașini. Și de furnici erați striviți, dar numele vostru este scris și în cartea Născătoarei de Dumnezeu, și nu numai numele vostru, ci și al fiilor voștri și al nepoților voștri. Păstrați-vă trupul și duhul, că mulți veți urca în ceruri cu trupul. Diavolii umblă să ucidă duhul, nu mai umblă să nimicească trupul, că multe școli au făcut astăzi duhurile rele pe pământ. Ce n-ar fi făcut ei cu voi dacă nu erați scriși! În post și rugăciune vă aștept să veniți la Mine.
 
-... Israele, aşteaptă cerul la tine să vadă cum ieşi din şcoală: cu grad, sau fără grad şi fără galoane? [legatura_la_teme id_capitol="6" id_subcapitol="2"]Tată, mulţi aşteaptă să-i scoateţi de la pedeapsă, că până la al miilea neam va fi scos prin mâinile voastre, prin examenul tău, creştine. O, tată, te înşeală pe tine o mâncare, o băutură, o gelozie, o minciună? Acestea sunt gunoi. Aruncaţi-le de la voi. Cum S-a pogorât Domnul Iisus în iad şi i-a scos pe toţi afară, aşa şi tu, fiul Meu, te vei duce în iad, şi cu darul lui Dumnezeu, până la al miilea neam îl vei scoate.
+... Israele, așteaptă cerul la tine să vadă cum ieși din școală: cu grad, sau fără grad și fără galoane? [legatura_la_teme id_capitol="6" id_subcapitol="2"]Tată, mulți așteaptă să-i scoateți de la pedeapsă, că până la al miilea neam va fi scos prin mâinile voastre, prin examenul tău, creștine. O, tată, te înșeală pe tine o mâncare, o băutură, o gelozie, o minciună? Acestea sunt gunoi. Aruncați-le de la voi. Cum S-a pogorât Domnul Iisus în iad și i-a scos pe toți afară, așa și tu, fiul Meu, te vei duce în iad, și cu darul lui Dumnezeu, până la al miilea neam îl vei scoate.
 
-De ce-Mi pierd Eu vremea cu voi? Fiilor, măcelarul e măcelar, îşi pregăteşte carnea ca să fie gustoasă. Aşa şi Domnul Hristos, Îşi pregăteşte popor pentru veşnicie.[/legatura_la_teme]
+De ce-Mi pierd Eu vremea cu voi? Fiilor, măcelarul e măcelar, își pregătește carnea ca să fie gustoasă. Așa și Domnul Hristos, Își pregătește popor pentru veșnicie.[/legatura_la_teme]
 
-... Vai de părinţii care nu-şi lasă copiii să vină la Mine! Vai de copiii care nu-şi lasă părinţii să vină la Mine! Fiilor, ajutaţi-Mă în muncă. Vom curăţi pământurile. Ajutaţi-vă în muncă unii pe alţii, şi toţi ajutaţi-Mă pe Mine, că nu vei avea hotar în calea ta.
+... Vai de părinții care nu-și lasă copiii să vină la Mine! Vai de copiii care nu-și lasă părinții să vină la Mine! Fiilor, ajutați-Mă în muncă. Vom curăți pământurile. Ajutați-vă în muncă unii pe alții, și toți ajutați-Mă pe Mine, că nu vei avea hotar în calea ta.
 
-... Sunteţi în vremuri de lucru mare. Sunt magazinele pline, dar toate din magazine şi din case se vor muta pe stradă şi în calea ta. Dar zic ţie: să nu pui mâna, creştine, că sabia e în spatele tău; să nu pui mâna, căci acelea sunt ale măcelului, sunt ale blestemului, căci acelea sunt blestemate şi sunt ale Babilonului.
+... Sunteți în vremuri de lucru mare. Sunt magazinele pline, dar toate din magazine și din case se vor muta pe stradă și în calea ta. Dar zic ție: să nu pui mâna, creștine, că sabia e în spatele tău; să nu pui mâna, căci acelea sunt ale măcelului, sunt ale blestemului, căci acelea sunt blestemate și sunt ale Babilonului.
 
-... Israele, ai să te îmbraci în doliu dacă nu vei asculta şi vei merge tot aşa, că Eu iau trâmbiţa Mea.
+... Israele, ai să te îmbraci în doliu dacă nu vei asculta și vei merge tot așa, că Eu iau trâmbița Mea.
 
-Fiilor, faceţi rugăciunea rugăciune cu închinăciune, căci rugăciunea fără închinăciune e ca mortul ce moare fără lumânare.
+Fiilor, faceți rugăciunea rugăciune cu închinăciune, căci rugăciunea fără închinăciune e ca mortul ce moare fără lumânare.

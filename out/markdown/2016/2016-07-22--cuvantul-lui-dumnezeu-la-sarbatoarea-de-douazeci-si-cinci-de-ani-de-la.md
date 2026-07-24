@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea de douăzeci şi cinci de ani de la sfinţirea pietrei de temelie a Sfintei Sfintelor Noului Ierusalim"
+title: "Cuvântul lui Dumnezeu la sărbătoarea de douăzeci și cinci de ani de la sfințirea pietrei de temelie a Sfintei Sfintelor Noului Ierusalim"
 date: 2016-07-22
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1330

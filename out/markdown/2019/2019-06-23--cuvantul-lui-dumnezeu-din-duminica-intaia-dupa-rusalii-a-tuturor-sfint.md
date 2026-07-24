@@ -16,7 +16,7 @@ O, și Mă prinde jalea, iar și iar jale grea, căci puterea dumnezeiască nu s
 
 O, fiilor, pace vouă, și strângerii voastre la izvor lângă cei ce-Mi stau de veghe aici pentru datoria ce le-am împărțit-o! [legatura_la_teme id_capitol="6" id_subcapitol="3"]Venirea Mea cea de azi Mi-a adus rod răbdării Mele și a sfinților Mei și am izbutit cumva să-Mi am un popor alipit de pieptul Meu și să Mă sprijin cu el în lucrul Meu cel mult între cer și pământ și să-l aduc la stare bogată, la o trăire bogată a voii lui Dumnezeu, și nu zadarnic trăire, așa cum se întâmplă cu viața celor născuți pe pământ și n-are Domnul folos de viața lor, și nici ei nu au.
 
-O, fiilor, cum poate omul să trăiască zadarnic pe pământ? Poate, fiilor. Cine nu-și strânge în cer rodul vieții, zadarnică îi este trecerea printre cei de pe pământ. Cine n-are agonisită viaţa lui în cer şi veşnicia ei apoi, zadarnic trăieşte pe pământ în vremea vieţii lui un aşa om.
+O, fiilor, cum poate omul să trăiască zadarnic pe pământ? Poate, fiilor. Cine nu-și strânge în cer rodul vieții, zadarnică îi este trecerea printre cei de pe pământ. Cine n-are agonisită viața lui în cer și veșnicia ei apoi, zadarnic trăiește pe pământ în vremea vieții lui un așa om.
 
 Dar cum poate omul să nu trăiască zadarnic pe pământ? O, poate omul, fiilor, poate dacă-și alege așa, poate omul să-I dea Domnului viața sa, poate să nu și-o oprească sieși, dar numai dacă-și alege el această înțelepciune.[/legatura_la_teme] Păi dacă ai de la Domnul viață, de ce să-ți iei drept asupra vieții tale și să nu recunoști pe Domnul de Stăpân?
 
@@ -36,7 +36,7 @@ O, și iată, fiilor, Eu trebuia să am o mânuță de fii sănătoși cu duhul 
 
 *— Da, Doamne, și greu a fost să poată omul cu Tine, cu mine, cu voia Ta cea cerească pe pământ.*
 
-*Da, Doamne, că nu ştie omul taina inimii curate şi nu are inima curată faţă de Domnul când omul alege să se dea lui Dumnezeu cu viaţa sa.* [legatura_la_teme id_capitol="6" id_subcapitol="3"]*Dragostea de Hristos când și-o alege omul cât și cum să fie ea, așa dragoste nu face parte din dragostea lui Dumnezeu, căci ea este ori tot, ori deloc, și nu e porție de mijloc pentru dragostea de Dumnezeu. Omul are nevoie de dragostea lui Dumnezeu, iar asta uită el când își alege singur câtă dragoste să aibă pentru Domnul.*
+*Da, Doamne, că nu știe omul taina inimii curate și nu are inima curată față de Domnul când omul alege să se dea lui Dumnezeu cu viața sa.* [legatura_la_teme id_capitol="6" id_subcapitol="3"]*Dragostea de Hristos când și-o alege omul cât și cum să fie ea, așa dragoste nu face parte din dragostea lui Dumnezeu, căci ea este ori tot, ori deloc, și nu e porție de mijloc pentru dragostea de Dumnezeu. Omul are nevoie de dragostea lui Dumnezeu, iar asta uită el când își alege singur câtă dragoste să aibă pentru Domnul.*
 
 *O, nu pe cei păcătoși îi urăște Domnul, ci pe cei fățarnici prin aluatul lor, Doamne.*[/legatura_la_teme] *Nu sufereau creștinii să-i formez pentru Tine, ci doar să le facă Domnul bine și ocrotire, și voia să le-o facă, să-i însoare, să-i mărite, să fie văzuți bine de păstori și de frații creștini, iar altfel ei plecau pentru trai lumesc și atât, și vrăjmașii cei din văzduh și de pe pământ pândeau zi și noapte să-i ducă la voia lui satana pe cei nestatornici, și suferința Ne era mare după orice pierdere, Doamne.*
 

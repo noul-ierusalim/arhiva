@@ -46,7 +46,44 @@ title, date, year, source_url, cheie, audio (source URL), audio_file (local mp3)
 
 ## Status
 
-Full archive extracted: 1,745 messages (1955–2026), 841 audio files. **Phase 2 not
-built**: transform Markdown → WordPress WXR (Divi posts, `/cuvantul/YYYY/MM/slug/`
-permalinks, `[audio]` + `[legatura_la_teme]` shortcodes; each message a Post, category
-= year).
+Full RO archive extracted: **1,748 messages** (1955–2026), 844 audio files. **Phase 2
+built and validated on the sandbox** — Markdown → WordPress WXR (native Divi-5 blocks),
+imported into the Divi site. `en/` (1,088) and `fr/` (429) are separate archives,
+pending an i18n decision.
+
+### Phase 2 pipeline (`db/`) — see `db/FINDINGS.md` for the full derivation
+
+Grounded in the live DB: `db/dump_to_sqlite.py` loads a phpMyAdmin dump into SQLite
+(prefix `Bwr_` prod, `Kup_` sandbox). DB access is cPanel/phpMyAdmin only — deliver
+pasteable SQL, never shell/mysqldump.
+
+- **`db/md_to_wxr.py`** — the generator. Markdown → WXR of **native Divi-5 block
+  markup** (`<!-- wp:divi/section → row → column → audio? → text -->`), copied
+  structurally from a real live post and validated (all block JSON `json_decode`-parses).
+  - Body → `wp:divi/text` value: `*…*`→`<em>`, paragraphs kept as `\n\n`,
+    `[legatura_la_teme id_capitol="X" id_subcapitol="Y"]…[/legatura_la_teme]` inline;
+    JSON-encoded with `<`/`>`→`<`/`>`.
+  - Audio → `wp:divi/audio` **only when `audio_file` is non-empty** (904 old messages
+    have none → text-only post). URL is **absolute** with the target FQDN (root-relative
+    breaks the Divi audio module).
+  - Meta bundle incl. `_et_pb_use_builder=on`, `_et_pb_use_divi_5=on`.
+  - `--site-url` (prompted) sets the FQDN; `--slug-suffix date-prefix` (default) makes
+    slugs `YYYY-MM-DD-<title>`; `--file-list` reads many paths.
+- **Strategy note:** D4 shortcodes + Divi's compat renderer (the old plan) was dropped —
+  it renders the audio module as a quoted URL, not a player. Native D5 blocks are required.
+- **Slugs / permalinks:** WP enforces globally-unique `post_name` (date permalinks do NOT
+  relax it — verified). Recurring liturgical titles collide, so slugs are date-prefixed
+  and paired with a flat **`/%category%/%postname%/`** permalink → `/cuvantul/YYYY-MM-DD-slug/`.
+  Single category `Cuvântul lui Dumnezeu` (slug `cuvantul`).
+- **Dedup** (`db/dedup.py`) — content-based (letters-only, diacritic/shortcode-insensitive)
+  to skip already-live posts. Only needed when importing into a site that already has some;
+  a full-wipe reload needs no dedup.
+
+### Deliverables & runbook — `db/out/`
+
+`sdbx_ro_full.xml` / `prod_ro_full.xml` (full 1,748-post WXR per FQDN),
+`sdbx_wipe.sql` (`Kup_`) / `prod_wipe.sql` (`Bwr_`) (category-scoped reset), and
+**`db/out/README.md`** (wipe→import→mp3 sequence). The WP importer **skips existing
+posts, never updates** — so re-import = wipe first, then import. Sandbox full import
+verified rendering correctly (permalinks, body, italics, theme links, conditional audio).
+mp3s must be uploaded to `wp-content/uploads/` separately (git-ignored, `yy.mm.dd.mp3`).

@@ -33,7 +33,7 @@ Oh, My people, you are in the fourth grade; hold on tight so that your prize may
 
 Sons, there was made a bakery for many people and this plant does not make bread from clean wheat; it makes bread from much mixed flour. It is so with the faith; there has been made much medley and the world does not know what to believe. Son, son, woe to those through whom the madness comes!
 
-[legatura_la_teme id_capitol="2" id_subcapitol="4"]… At Vladimireşti *(Monastery, r.n.)* the angels perform the liturgy and services, and the Father wants it to be kept that way until it will be opened again. *(Closed by the Security Service of the Communist regime, r.n.)* Oh, fire shall be shown on earth as lightning and the wicked ones and unbelievers will repent, but it will be too late.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="4"]… At Vladimirești *(Monastery, r.n.)* the angels perform the liturgy and services, and the Father wants it to be kept that way until it will be opened again. *(Closed by the Security Service of the Communist regime, r.n.)* Oh, fire shall be shown on earth as lightning and the wicked ones and unbelievers will repent, but it will be too late.[/legatura_la_teme]
 
 Sons, the cross has disappeared from the table of the judge and the icons from schools and the prayer from schools. [legatura_la_teme id_capitol="3" id_subcapitol="1"]Sons, why did I not learn in school? Sons who learns much, learns also many ugly deeds and he denies the faith, for it creeps the spirit of pride and of self love into the hearts. There have been many, many schools, but there have come out also very many dirty deeds so that you may not think about God and for man to do them as long as he lives.[/legatura_la_teme]
 

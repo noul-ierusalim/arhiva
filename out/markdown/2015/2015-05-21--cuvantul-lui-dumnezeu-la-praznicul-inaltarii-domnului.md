@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Înălţării Domnului"
+title: "Cuvântul lui Dumnezeu la Praznicul Înălțării Domnului"
 date: 2015-05-21
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1273

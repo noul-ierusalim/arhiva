@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Soborul sfinţilor arhangheli Mihail şi Gavriil"
+title: "Cuvântul lui Dumnezeu la Soborul sfinților arhangheli Mihail și Gavriil"
 date: 2015-11-21
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1290

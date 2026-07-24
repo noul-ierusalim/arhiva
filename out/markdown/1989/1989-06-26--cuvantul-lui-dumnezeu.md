@@ -8,6 +8,6 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="3" id_subcapitol="1"]... De ai şti şi numărul de stele, de ai avea deşteptăciune cât de multă, dacă n-ai legătură cu Dumnezeu, degeaba mai trăieşti.[/legatura_la_teme]
+[legatura_la_teme id_capitol="3" id_subcapitol="1"]... De ai ști și numărul de stele, de ai avea deșteptăciune cât de multă, dacă n-ai legătură cu Dumnezeu, degeaba mai trăiești.[/legatura_la_teme]
 
-Mă doare că lumea face rând la uşa sfântului altar cum ar face la pâine sau la carne, ca să se împărtăşească, pregătit, nepregătit, omul. Şi răspunde şi cine o ia şi cine o dă. Ai întrebat, părinte, acest popor, dacă e curat şi trupul şi guriţa şi inima? Păi dacă nu eşti pregătit, nu e spre mântuire, e spre osândă. Cu trupul plin de întinare, plin de clevetire şi de ură, iei foc, arde dacă nu eşti pregătit.
+Mă doare că lumea face rând la ușa sfântului altar cum ar face la pâine sau la carne, ca să se împărtășească, pregătit, nepregătit, omul. Și răspunde și cine o ia și cine o dă. Ai întrebat, părinte, acest popor, dacă e curat și trupul și gurița și inima? Păi dacă nu ești pregătit, nu e spre mântuire, e spre osândă. Cu trupul plin de întinare, plin de clevetire și de ură, iei foc, arde dacă nu ești pregătit.

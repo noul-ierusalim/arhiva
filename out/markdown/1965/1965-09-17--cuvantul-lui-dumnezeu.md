@@ -8,22 +8,22 @@ audio:
 audio_file: 
 ---
 
-... Cine împlineşte cuvintele Mele, pe Mine Mă primeşte, şi când voi veni, voi intra în casa sa; şi când voi veni, voi birui. [legatura_la_teme id_capitol="1" id_subcapitol="3"]Pe pământul acesta se aduce cuvântul lui Dumnezeu, dar nimeni nu-l ascultă, şi nici cei care-l iubesc, că pe urmă îl şterg. O, nu-l şterge, tată. Uită-te la strămoşul tău, Adam, ce a făcut când Eu i-am spus şi n-a ascultat.[/legatura_la_teme] Uitaţi-vă la moşii şi strămoşii voştri, căci nu s-au ascuns.
+... Cine împlinește cuvintele Mele, pe Mine Mă primește, și când voi veni, voi intra în casa sa; și când voi veni, voi birui. [legatura_la_teme id_capitol="1" id_subcapitol="3"]Pe pământul acesta se aduce cuvântul lui Dumnezeu, dar nimeni nu-l ascultă, și nici cei care-l iubesc, că pe urmă îl șterg. O, nu-l șterge, tată. Uită-te la strămoșul tău, Adam, ce a făcut când Eu i-am spus și n-a ascultat.[/legatura_la_teme] Uitați-vă la moșii și strămoșii voștri, căci nu s-au ascuns.
 
 Copiii Mei, am venit pe cărare la voi, dar cărarea Mea nu o vede nimeni, fiindcă am venit în chip nevăzut.
 
-... Fiilor, fiţi creştini, că vine vremea creştinii să fie căutaţi ca împăraţii. Vine vremea să fii căutat de lume pentru scăpare. Vor fi bărbaţi creştini care vor fi căutaţi de şapte femei să le treacă pe numele lor ca să scape de urgie. O, ce te vei face dacă nu vei cunoaşte legea? Vei lua şapte femei?
+... Fiilor, fiți creștini, că vine vremea creștinii să fie căutați ca împărații. Vine vremea să fii căutat de lume pentru scăpare. Vor fi bărbați creștini care vor fi căutați de șapte femei să le treacă pe numele lor ca să scape de urgie. O, ce te vei face dacă nu vei cunoaște legea? Vei lua șapte femei?
 
-Am spus şi îţi mai spun că avem de urcat un munte, şi voi veni în acele clipe şi voi cânta din trâmbiţa Mea cea mare şi vor veni toate oile la Mine şi vom pleca pe munte, şi mulţi vor rămâne încurcaţi şi încremeniţi, căci ei au crezut că nu mai este credinţă, au crezut că nu mai este Dumnezeu. Şi vor vedea minune mare şi vor rămâne unii orbi, şi alţii, muţi; alţii vor rămâne surzi, şi mulţi îşi vor pune ţărână pe cap, crezând că se mărturisesc.
+Am spus și îți mai spun că avem de urcat un munte, și voi veni în acele clipe și voi cânta din trâmbița Mea cea mare și vor veni toate oile la Mine și vom pleca pe munte, și mulți vor rămâne încurcați și încremeniți, căci ei au crezut că nu mai este credință, au crezut că nu mai este Dumnezeu. Și vor vedea minune mare și vor rămâne unii orbi, și alții, muți; alții vor rămâne surzi, și mulți își vor pune țărână pe cap, crezând că se mărturisesc.
 
-... Dacă vă întreabă un creştin ce mai spune Domnul, voi nu ştiţi să-i răspundeţi nici un cuvânt. O, nu trebuie numai să crezi, ci trebuie să înveţi şi să mărturiseşti.
+... Dacă vă întreabă un creștin ce mai spune Domnul, voi nu știți să-i răspundeți nici un cuvânt. O, nu trebuie numai să crezi, ci trebuie să înveți și să mărturisești.
 
-... Alergaţi cât puteţi după Mine, că vine Dumnezeu să dărâme turnurile cele mai înalte şi să strice lucrurile făcute în zile de sărbătoare, şi vine să strice pe cei ce încurcă lucrurile lui Dumnezeu.
+... Alergați cât puteți după Mine, că vine Dumnezeu să dărâme turnurile cele mai înalte și să strice lucrurile făcute în zile de sărbătoare, și vine să strice pe cei ce încurcă lucrurile lui Dumnezeu.
 
-Vine foamete de pâine peste cei care nu mănâncă pâine. Stă pâinea sub picioarele lor şi nu mănâncă din ea. Fiilor, cine va mânca pâine, acela va avea pâine. Cine nu va mânca pâine, acela nu va avea pâine.
+Vine foamete de pâine peste cei care nu mănâncă pâine. Stă pâinea sub picioarele lor și nu mănâncă din ea. Fiilor, cine va mânca pâine, acela va avea pâine. Cine nu va mânca pâine, acela nu va avea pâine.
 
-Vai de omul care spune că nu este Dumnezeu! Nu mai lucraţi ce lucrează lumea. Cine iubeşte lumea şi fărădelegea lumii, nu este cu Mine.
+Vai de omul care spune că nu este Dumnezeu! Nu mai lucrați ce lucrează lumea. Cine iubește lumea și fărădelegea lumii, nu este cu Mine.
 
-... Fiilor, am să aduc un preot şi va sfinţi templul Meu. De unde-l voi găsi? Iată, vom aduce preot cu cheile în mână ca să sfinţească tot din templul Meu. De aceea vă zic: pregătiţi-vă şi băgaţi bine mintea în lucrul care se va face cu voi. Pregătiţi-vă pururi, şi iarăşi zic, pregătiţi-vă de lucrurile ce urmează, căci poporul Meu va fi sarea pământului, şi dacă sarea se va strica, cu ce se va mai săra? Fiţi buni, ca să pot da în mâna voastră lucrurile Mele şi să vă arătaţi meseria la vremea cuvenită.
+... Fiilor, am să aduc un preot și va sfinți templul Meu. De unde-l voi găsi? Iată, vom aduce preot cu cheile în mână ca să sfințească tot din templul Meu. De aceea vă zic: pregătiți-vă și băgați bine mintea în lucrul care se va face cu voi. Pregătiți-vă pururi, și iarăși zic, pregătiți-vă de lucrurile ce urmează, căci poporul Meu va fi sarea pământului, și dacă sarea se va strica, cu ce se va mai săra? Fiți buni, ca să pot da în mâna voastră lucrurile Mele și să vă arătați meseria la vremea cuvenită.
 
-... O, nu se face târg duminica, nu se cumpără în ziua de duminică. Dacă judecata Domnului va veni duminica, ce vei face, creştine?
+... O, nu se face târg duminica, nu se cumpără în ziua de duminică. Dacă judecata Domnului va veni duminica, ce vei face, creștine?

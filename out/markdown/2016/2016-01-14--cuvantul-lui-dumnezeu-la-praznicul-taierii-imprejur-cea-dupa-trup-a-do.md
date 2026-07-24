@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul tăierii împrejur cea după trup a Domnului şi sărbătoarea sfântului ierarh Vasile cel Mare"
+title: "Cuvântul lui Dumnezeu la Praznicul tăierii împrejur cea după trup a Domnului și sărbătoarea sfântului ierarh Vasile cel Mare"
 date: 2016-01-14
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1299
@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1299.mp3
 audio_file: 16.01.14.mp3
 ---
 
-[legatura_la_teme id_capitol="7" id_subcapitol="3"]Mă aşez în cartea Mea cea de azi cuvânt învățător peste cei ce iau de la Domnul pentru ei cârmuire și povață de mers pe cale cu Mine, pe cale spre Mine, și pe care și Eu, Domnul, și Eu merg spre ei, și cu ei apoi pe calea Mea spre oameni, și ce frumos este să înțeleagă tot omul venirea Mea de azi așa cum vin, căci și pe pământ când vor cei mari de la cârmă să ducă spre oameni cuvintele lor ca să fie împlinite, tot așa și ei lucrează, și au între ei și oameni, au pe cei ce duc până la oameni pe cele ce trebuiesc împlinite după întocmirea sfatului cel de sus de la cârma cetății, iar cei care nu împlinesc sunt vădiți și sunt întrebați și sunt cercetați pentru neascultarea lor.[/legatura_la_teme]
+[legatura_la_teme id_capitol="7" id_subcapitol="3"]Mă așez în cartea Mea cea de azi cuvânt învățător peste cei ce iau de la Domnul pentru ei cârmuire și povață de mers pe cale cu Mine, pe cale spre Mine, și pe care și Eu, Domnul, și Eu merg spre ei, și cu ei apoi pe calea Mea spre oameni, și ce frumos este să înțeleagă tot omul venirea Mea de azi așa cum vin, căci și pe pământ când vor cei mari de la cârmă să ducă spre oameni cuvintele lor ca să fie împlinite, tot așa și ei lucrează, și au între ei și oameni, au pe cei ce duc până la oameni pe cele ce trebuiesc împlinite după întocmirea sfatului cel de sus de la cârma cetății, iar cei care nu împlinesc sunt vădiți și sunt întrebați și sunt cercetați pentru neascultarea lor.[/legatura_la_teme]
 
 O, Mă așez Învățător duios în ziua aceasta de praznic sfânt și-Mi păstoresc poporul Meu cel credincios și ascultător, și le dau veste și povață și la cei necredincioși cu ascultarea de Dumnezeu, că așa este Păstorul Cel duios când păstorește oile Sale cele cuminți, și pe cele mai puțin cuminți, cu mai puțină teamă de lupul cel pândaș după oi după firea lui de lup.
 

@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="4" id_subcapitol="2"]... O, copilaşii Mei iubiţi şi trudiţi! Vă plac aceste plaiuri? Vă plac aceşti munţi? O, parcă ar fi munţii Sionului! O, ţărişoară mică, dar frumoasă, ţărişoară împilată, Maica Mea te-a ales să fii grădina sa, şi de aceea te voi pieptăna de toată mătreaţa ta. O, Românie, Românie, care eşti plină de bogăţie, am să te scutur şi am să fac curat în tine, pentru că am multe moaşte de sfinţi în vatra ta.[/legatura_la_teme]
+[legatura_la_teme id_capitol="4" id_subcapitol="2"]... O, copilașii Mei iubiți și trudiți! Vă plac aceste plaiuri? Vă plac acești munți? O, parcă ar fi munții Sionului! O, țărișoară mică, dar frumoasă, țărișoară împilată, Maica Mea te-a ales să fii grădina sa, și de aceea te voi pieptăna de toată mătreața ta. O, Românie, Românie, care ești plină de bogăție, am să te scutur și am să fac curat în tine, pentru că am multe moaște de sfinți în vatra ta.[/legatura_la_teme]

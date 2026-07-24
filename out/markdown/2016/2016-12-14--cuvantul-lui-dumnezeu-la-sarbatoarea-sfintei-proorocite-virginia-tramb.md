@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfintei proorociţe Virginia, trâmbiţa lui Dumnezeu"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfintei proorocițe Virginia, trâmbița lui Dumnezeu"
 date: 2016-12-14
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1349

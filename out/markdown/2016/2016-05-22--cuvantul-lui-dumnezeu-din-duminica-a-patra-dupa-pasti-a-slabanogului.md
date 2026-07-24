@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a patra după Paşti, a slăbănogului"
+title: "Cuvântul lui Dumnezeu din Duminica a patra după Paști, a slăbănogului"
 date: 2016-05-22
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1321
@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1321.mp3
 audio_file: 16.05.22.mp3
 ---
 
-Cuvântul Meu este veghe cerească peste pământ şi peste om şi are putere de împlinire când îl rostesc, şi de aceea Mi-am făcut cărare ca să pot cuvânta peste pământ, că fără Mine pe pământ în lucrare de cuvânt e primejdie mare, acum, când voia omului se voiește împlinită mai mult decât voia lui Dumnezeu, și iată, așez prin cuvânt voia lui Dumnezeu ca să se împlinească ea și ca să se depărteze primejdia cea lucrată de om, iar omul este plin de păcat prin voile lui, dacă n-a voit cu iubirea lui să-L iubească pe Dumnezeu și nu pe sine, și nu știe, bietul de el, primejdia iubirii de sine, care-l umple pe om de păcat, și apoi de suferința cea pentru păcat.
+Cuvântul Meu este veghe cerească peste pământ și peste om și are putere de împlinire când îl rostesc, și de aceea Mi-am făcut cărare ca să pot cuvânta peste pământ, că fără Mine pe pământ în lucrare de cuvânt e primejdie mare, acum, când voia omului se voiește împlinită mai mult decât voia lui Dumnezeu, și iată, așez prin cuvânt voia lui Dumnezeu ca să se împlinească ea și ca să se depărteze primejdia cea lucrată de om, iar omul este plin de păcat prin voile lui, dacă n-a voit cu iubirea lui să-L iubească pe Dumnezeu și nu pe sine, și nu știe, bietul de el, primejdia iubirii de sine, care-l umple pe om de păcat, și apoi de suferința cea pentru păcat.
 
 Intru cuvânt în carte, și Mi-am așezat străjerii înaintea Mea să-Mi deschidă cartea și să Mă scriu în ea în această zi de odihnă și de pomenire a lucrărilor Mele cele de acum două mii de ani, și pe care părinții sfinți le-au pus înaintea turmei creștine spre aducere aminte a puterii Fiului lui Dumnezeu, Care a lucrat și lucrează prin cuvânt cu putere și cu împlinire prin rostirea lui.
 

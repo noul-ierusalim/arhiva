@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea Sfinţilor patruzeci de Mucenici din Sevasta"
+title: "Cuvântul lui Dumnezeu la sărbătoarea Sfinților patruzeci de Mucenici din Sevasta"
 date: 2017-03-22
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1365

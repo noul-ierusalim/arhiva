@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfântului mare mucenic şi tămăduitor Pantelimon"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfântului mare mucenic și tămăduitor Pantelimon"
 date: 2015-08-09
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1281

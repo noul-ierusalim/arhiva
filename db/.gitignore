@@ -1,0 +1,6 @@
+# raw DB dump + derived SQLite are large / contain full site data — don't commit
+dump_*.sql
+*.sqlite
+analysis/
+
+# keep: dump_to_sqlite.py, extract_samples.sql, FINDINGS.md

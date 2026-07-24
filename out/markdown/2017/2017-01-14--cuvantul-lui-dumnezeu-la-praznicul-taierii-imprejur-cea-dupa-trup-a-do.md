@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Tăierii împrejur cea după trup a Domnului şi Sărbătoarea Sfântului Ierarh Vasile cel Mare"
+title: "Cuvântul lui Dumnezeu la Praznicul Tăierii împrejur cea după trup a Domnului și Sărbătoarea Sfântului Ierarh Vasile cel Mare"
 date: 2017-01-14
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1355

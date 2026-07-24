@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica Fiului risipitor şi Sărbătoarea Sfinţilor Trei Ierarhi: Vasile, Grigorie şi Ioan"
+title: "Cuvântul lui Dumnezeu din Duminica Fiului risipitor și Sărbătoarea Sfinților Trei Ierarhi: Vasile, Grigorie și Ioan"
 date: 2017-02-12
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1358

@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfinţilor împăraţi Constantin şi Elena"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfinților împărați Constantin și Elena"
 date: 2015-06-03
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1275

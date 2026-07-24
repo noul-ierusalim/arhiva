@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea Sfântului mucenic şi tămăduitor Pantelimon"
+title: "Cuvântul lui Dumnezeu la sărbătoarea Sfântului mucenic și tămăduitor Pantelimon"
 date: 2016-08-09
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1332

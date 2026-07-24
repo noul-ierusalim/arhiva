@@ -15,4 +15,4 @@ Next year* about this time the wrath of God will be starting against these mount
 
 ... I speak spiritually; the world is perishing and its commander and many are looking to see, but I said and I will not lie. The world will perish and the hawks of the homeland will also perish. *(The communist preschool children, r.n.)*
 
-*(*The Romanian revolution, the fall of the Communism dictatorship and Ceauşescu’s execution in December 25.1989, r.n.)*
+*(*The Romanian revolution, the fall of the Communism dictatorship and Ceaușescu’s execution in December 25.1989, r.n.)*

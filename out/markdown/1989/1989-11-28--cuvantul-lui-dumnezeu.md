@@ -8,10 +8,10 @@ audio:
 audio_file: 
 ---
 
-... Tată, fiţi atenţi, că vă dau ceva de ştire. [legatura_la_teme id_capitol="1" id_subcapitol="6"]Vine sfântul Ilie să facă o vizită pe pământul acesta şi ia cu el o părticică din ce-o şti el că trebuie pentru usturimea şi umilinţa fugiţilor de Dumnezeu.[/legatura_la_teme] Atunci să-i văd pe cei ce nu le-a plăcut de Dumnezeu.
+... Tată, fiți atenți, că vă dau ceva de știre. [legatura_la_teme id_capitol="1" id_subcapitol="6"]Vine sfântul Ilie să facă o vizită pe pământul acesta și ia cu el o părticică din ce-o ști el că trebuie pentru usturimea și umilința fugiților de Dumnezeu.[/legatura_la_teme] Atunci să-i văd pe cei ce nu le-a plăcut de Dumnezeu.
 
-Stânca Golgotei este stropită cu sânge nevinovat şi este întărită în temelie şi nu se va prăbuşi în veci, şi nici cei ce se vor alipi de ea nu se vor prăbuşi, şi nici nu vor pieri în veci.
+Stânca Golgotei este stropită cu sânge nevinovat și este întărită în temelie și nu se va prăbuși în veci, și nici cei ce se vor alipi de ea nu se vor prăbuși, și nici nu vor pieri în veci.
 
-Of, e grea crucea, tată. Acum, aproape de vârf, toţi o lasă şi fug, tocmai acum când să se aleagă cu bucuria. Dar şi pentru Domnul a fost grea. Cădea sub ea, Se scula şi o ducea până în vârf, şi L-a întins pe ea. Dar pentru cine, măi? Pentru cei ce fug de Mine?
+Of, e grea crucea, tată. Acum, aproape de vârf, toți o lasă și fug, tocmai acum când să se aleagă cu bucuria. Dar și pentru Domnul a fost grea. Cădea sub ea, Se scula și o ducea până în vârf, și L-a întins pe ea. Dar pentru cine, măi? Pentru cei ce fug de Mine?
 
-Of, tată, tată, nu fugiţi de cruce, tată, oricât de grea vi s-ar părea.
+Of, tată, tată, nu fugiți de cruce, tată, oricât de grea vi s-ar părea.

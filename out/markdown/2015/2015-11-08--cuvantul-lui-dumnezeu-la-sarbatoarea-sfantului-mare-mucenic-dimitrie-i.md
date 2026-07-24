@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfântului mare mucenic Dimitrie, izvorâtorul de mirMesaj către ţară"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfântului mare mucenic Dimitrie, izvorâtorul de mirMesaj către țară"
 date: 2015-11-08
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1289

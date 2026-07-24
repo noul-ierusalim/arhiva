@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfinţilor apostoli Petru şi Pavel"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfinților apostoli Petru și Pavel"
 date: 2016-07-12
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1329

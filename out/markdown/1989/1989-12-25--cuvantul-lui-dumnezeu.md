@@ -8,16 +8,16 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="1" id_subcapitol="6"]... Nu vă mai puteam pregăti, că vă cuprinsese frica. Vă puseseră cursă. Şi iată ce a făcut Dumnezeu! Acum vedeţi, şi vedeţi că este Dumnezeu cu voi. N-a voit Dumnezeu să-l prindă vrăjmaşul pe cel nevinovat, pe cel ce-L iubeşte pe Dumnezeu, şi au fost prinşi cei fără Dumnezeu.
+[legatura_la_teme id_capitol="1" id_subcapitol="6"]... Nu vă mai puteam pregăti, că vă cuprinsese frica. Vă puseseră cursă. Și iată ce a făcut Dumnezeu! Acum vedeți, și vedeți că este Dumnezeu cu voi. N-a voit Dumnezeu să-l prindă vrăjmașul pe cel nevinovat, pe cel ce-L iubește pe Dumnezeu, și au fost prinși cei fără Dumnezeu.
 
-Nu s-au limpezit bine burniţa şi valurile vrăjmăşiei, dar spulber şi limpezesc. Vă dau drumul să aveţi dreptul la cuvânt. V-am spus că l-am luat de ajutor pe proorocul Ilie, care l-a adus pe Israelul de pe timpul lui Ahab la Mine. L-am adus şi aici în ajutor.[/legatura_la_teme] Preoţimea era condusă de călăul omenirii, dar acum îşi aşteaptă judecata şi pedeapsa.
+Nu s-au limpezit bine burnița și valurile vrăjmășiei, dar spulber și limpezesc. Vă dau drumul să aveți dreptul la cuvânt. V-am spus că l-am luat de ajutor pe proorocul Ilie, care l-a adus pe Israelul de pe timpul lui Ahab la Mine. L-am adus și aici în ajutor.[/legatura_la_teme] Preoțimea era condusă de călăul omenirii, dar acum își așteaptă judecata și pedeapsa.
 
-Scaunul de judecată va fi în România, pe care o spăl acum. Veţi vedea cu ochii şi adevărul şi dreptatea.
+Scaunul de judecată va fi în România, pe care o spăl acum. Veți vedea cu ochii și adevărul și dreptatea.
 
-... Un picuţ de timp pe pământ, şi pe urmă veţi fi în cerul sfânt, adică pe pământ sfânt, că a sosit şi a ieşit la iveală ceea ce cereaţi şi doreaţi. [legatura_la_teme id_capitol="4" id_subcapitol="2"]Această rugăciune rostită de Măicuţa Mea şi prin guriţele voastre, s-a împlinit, ca România să fie scoasă şi scuturată de murdăria lui satan şi de întunericul ce o copleşise.
+... Un picuț de timp pe pământ, și pe urmă veți fi în cerul sfânt, adică pe pământ sfânt, că a sosit și a ieșit la iveală ceea ce cereați și doreați. [legatura_la_teme id_capitol="4" id_subcapitol="2"]Această rugăciune rostită de Măicuța Mea și prin gurițele voastre, s-a împlinit, ca România să fie scoasă și scuturată de murdăria lui satan și de întunericul ce o copleșise.
 
-Am văzut cursele întinse pentru ca iubitorii Mei să fie prinşi, dar Eu, Domnul, am oprit pasul tuturor şi v-am dat cuvânt să staţi cuminţi şi să înteţiţi rugăciunea, şi iată, am întors roata, ca să cadă în groapă cei ce au săpat groapa. Vă puseseră cursă.
+Am văzut cursele întinse pentru ca iubitorii Mei să fie prinși, dar Eu, Domnul, am oprit pasul tuturor și v-am dat cuvânt să stați cuminți și să întețiți rugăciunea, și iată, am întors roata, ca să cadă în groapă cei ce au săpat groapa. Vă puseseră cursă.
 
-... Românie, Românie, ţara Mea sfântă şi iubită! Ce te copleşise! Ce te păcălise!
+... Românie, Românie, țara Mea sfântă și iubită! Ce te copleșise! Ce te păcălise!
 
-Fiţi atenţi, că acum este prag de sfârşit de veac. România va deveni Noul Ierusalim şi veţi vedea cu ochii că Dumnezeu a fost şi este cu voi.[/legatura_la_teme]
+Fiți atenți, că acum este prag de sfârșit de veac. România va deveni Noul Ierusalim și veți vedea cu ochii că Dumnezeu a fost și este cu voi.[/legatura_la_teme]

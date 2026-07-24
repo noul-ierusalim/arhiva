@@ -8,8 +8,8 @@ audio:
 audio_file: 
 ---
 
-... Fiule, ia pune mâna pe vasul Meu, să vezi cum tremură de frica scorpiei. Fiilor, să fiţi atenţi în lucru, să fiţi atenţi şi la plecare, şi la întoarcere, şi la ieşire. Fiilor, din cei plecaţi din mijlocul vostru, aceia scorocesc furnicarul cel mare. Anunţă Gheboienii, că un capăt de la scorpie e în drumul lor. Anunţă Bucureştiul, că un capăt de scorpie e în drumul lor. Anunţă Măneştii, că un capăt de la scorpie e în drumul lor. Anunţă Pietrarii, că un capăt de la scorpie e în drumul lor. Anunţă Proviţa. La fel, anunţă Călăraşii şi toate împrejurimile.
+... Fiule, ia pune mâna pe vasul Meu, să vezi cum tremură de frica scorpiei. Fiilor, să fiți atenți în lucru, să fiți atenți și la plecare, și la întoarcere, și la ieșire. Fiilor, din cei plecați din mijlocul vostru, aceia scorocesc furnicarul cel mare. Anunță Gheboienii, că un capăt de la scorpie e în drumul lor. Anunță Bucureștiul, că un capăt de scorpie e în drumul lor. Anunță Măneștii, că un capăt de la scorpie e în drumul lor. Anunță Pietrarii, că un capăt de la scorpie e în drumul lor. Anunță Provița. La fel, anunță Călărașii și toate împrejurimile.
 
-... Uite, trâmbiţa Mea n-a fost niciodată în durerile de astăzi. Ai grijă de ea, tată. Ce zici, va fi cărare să mergi cu ea pe cale? Unii o alungă, unii o dispreţuiesc, unii nu o ascultă, şi aceasta îi aduce moarte. Dacă acestea n-ar mai fi, trâmbiţa Mea s-ar bucura, dar lovitura ajunge până la suflet. [legatura_la_teme id_capitol="5" id_subcapitol="2"]Cum era trâmbiţa Mea odată când cânta: *„Raiule, grădină dulce, din tine nu m-aş mai duce!“,* pentru că în rai petrecea. Era braţul creştinului plin de flori.[/legatura_la_teme]
+... Uite, trâmbița Mea n-a fost niciodată în durerile de astăzi. Ai grijă de ea, tată. Ce zici, va fi cărare să mergi cu ea pe cale? Unii o alungă, unii o disprețuiesc, unii nu o ascultă, și aceasta îi aduce moarte. Dacă acestea n-ar mai fi, trâmbița Mea s-ar bucura, dar lovitura ajunge până la suflet. [legatura_la_teme id_capitol="5" id_subcapitol="2"]Cum era trâmbița Mea odată când cânta: *„Raiule, grădină dulce, din tine nu m-aș mai duce!“,* pentru că în rai petrecea. Era brațul creștinului plin de flori.[/legatura_la_teme]
 
-... Faceţi roade, să mănânce călătorii din roadele voastre.
+... Faceți roade, să mănânce călătorii din roadele voastre.

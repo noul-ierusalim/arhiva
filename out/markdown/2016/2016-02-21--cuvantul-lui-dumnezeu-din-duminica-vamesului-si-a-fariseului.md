@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica Vameşului şi a Fariseului"
+title: "Cuvântul lui Dumnezeu din Duminica Vameșului și a Fariseului"
 date: 2016-02-21
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1304

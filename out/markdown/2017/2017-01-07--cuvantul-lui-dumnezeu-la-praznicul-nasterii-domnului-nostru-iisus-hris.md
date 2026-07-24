@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Naşterii Domnului nostru Iisus Hristos"
+title: "Cuvântul lui Dumnezeu la Praznicul Nașterii Domnului nostru Iisus Hristos"
 date: 2017-01-07
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1353

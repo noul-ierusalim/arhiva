@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a doua după Sfintele Paşti, a sfântului apostol Toma"
+title: "Cuvântul lui Dumnezeu din Duminica a doua după Sfintele Paști, a sfântului apostol Toma"
 date: 2017-04-23
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1371

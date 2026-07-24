@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a şasea după Paşti, a orbului"
+title: "Cuvântul lui Dumnezeu din Duminica a șasea după Paști, a orbului"
 date: 2015-05-17
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1272

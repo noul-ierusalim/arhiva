@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfintei mare muceniţe Ecaterina şi a sfântului mucenic Mercurie"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfintei mare mucenițe Ecaterina și a sfântului mucenic Mercurie"
 date: 2015-12-08
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1292

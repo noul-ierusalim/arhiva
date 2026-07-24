@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfântului Apostol, întâiul mucenic şi Arhidiacon Ştefan"
+title: "Cuvântul lui Dumnezeu la Sărbătoarea Sfântului Apostol, întâiul mucenic și Arhidiacon Ștefan"
 date: 2017-01-09
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1354

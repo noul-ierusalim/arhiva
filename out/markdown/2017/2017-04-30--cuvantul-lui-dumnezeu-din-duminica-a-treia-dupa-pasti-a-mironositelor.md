@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a treia după Paşti, a mironosiţelor"
+title: "Cuvântul lui Dumnezeu din Duminica a treia după Paști, a mironosițelor"
 date: 2017-04-30
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1372

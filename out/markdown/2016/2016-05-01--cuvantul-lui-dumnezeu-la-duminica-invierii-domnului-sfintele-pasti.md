@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Duminica Învierii Domnului, Sfintele Paşti"
+title: "Cuvântul lui Dumnezeu la Duminica Învierii Domnului, Sfintele Paști"
 date: 2016-05-01
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1315

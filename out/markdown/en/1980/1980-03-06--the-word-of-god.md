@@ -21,7 +21,7 @@ audio_file:
 
 … My little flower, do not make My cry. Suffice it that I cried enough. It is enough! And let Me enjoy with you and not only with you, but you do not receive the ones that I want to bring to Me. Where shall I take them, as the earth belongs to Gog, *(Of the communist dictatorship which „nationalized” everything, r.n.)*, but up to one point and everything will be devastated.
 
-… I brought someone beside Me *(Petre Neacşu, r.n.)* and helped him to erect a house for himself. And now you owe Me to accomplish what I ask you. I ask you to receive My little sheep under your covering so that God may fulfill His number. I did not bring these Christians to you to be reprimanded, scolded or unappreciated by you. I would have left them into their village, but I brought them to you Christian, for you are My friend.
+… I brought someone beside Me *(Petre Neacșu, r.n.)* and helped him to erect a house for himself. And now you owe Me to accomplish what I ask you. I ask you to receive My little sheep under your covering so that God may fulfill His number. I did not bring these Christians to you to be reprimanded, scolded or unappreciated by you. I would have left them into their village, but I brought them to you Christian, for you are My friend.
 
 [legatura_la_teme id_capitol="1" id_subcapitol="3"]… Christian, you followed in the steps of Adam and Eve and that is why you dare commit plagues, but Adam had salvation. There will not be another salvation for you.[/legatura_la_teme]
 

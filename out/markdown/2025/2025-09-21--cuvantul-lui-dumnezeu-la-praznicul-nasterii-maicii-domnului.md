@@ -38,7 +38,7 @@ Cei ce vor călători spre cetatea cuvântului Meu vor avea pe cale însoțire d
 
 Totul va fi ca între cei din cer, căci se întâlnesc cerul cu pământul la serbarea Mea și vom ieși o clipă din timp și va fi minunat și vor fi simțăminte sfinte în inimi și vor rămâne ele de neuitat. Amin.
 
-Acum Îmi desfac braţele, şi cu ele vă binecuvintez, fiilor, şi vă cuprind întru îmbrăţişarea Mea.
+Acum Îmi desfac brațele, și cu ele vă binecuvintez, fiilor, și vă cuprind întru îmbrățișarea Mea.
 
 Bate gongul deschiderii serbării! Veniți la serbare, veniți de peste tot la serbarea lui Hristos cu voi, fii români! Adierea Duhului Sfânt va sufla și vă va însoți pe cale cu șoapta lui blândă. Tresare pământul de la margini la margini, că aude pe Domnul cu serbarea Sa pe pământul neamului român și se va răspândi mângâierea cerului din ziua aceea peste tot pământul. Amin.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Word of God for the art exhibition: „News and story” (In Romanian – „Veste şi poveste”)"
+title: "The Word of God for the art exhibition: „News and story” (In Romanian – „Veste și poveste”)"
 date: 1996-12-22
 year: 1996
 lang: en

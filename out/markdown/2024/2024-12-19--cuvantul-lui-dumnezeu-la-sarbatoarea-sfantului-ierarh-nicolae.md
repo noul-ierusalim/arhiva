@@ -20,13 +20,13 @@ Amin, amin zic vouă, celor ce încă țineți în genunchi și sub povară țar
 
 V-am trimis sfat din cer să lucrați ridicarea de jos a neamului român, pe care de atâția ani îl goliți de putere și de nădejde. Vă lăudați că sunteți primii, că sunteți fruntașii după tragerea la sorți, dar după cât sunteți la număr sub același duh viclean, iată, sunteți jos, nu sunteți primii, ba din contra, dar țineți încă sub voi soarta de mâine a neamului român și s-a întâmplat durere, că au intrat la masa sfatului țării oameni primejdioși, tocmindu-și alegători ca să pătrundă aceștia pe scaunele țării, și iată, din pricina voastră a fost rușinată și lovită țara și a fost îngenuncheat neamul român, iar acum stați tot voi, vreți tot voi, o, și nu dați să vă luați vina, și de aceea e greoaie ridicarea pe picioare a neamului român, căci pe cei înțelepți îi tot lăsați în lături, iar voi nu aveți înțelepciune, de vreme ce vă hrăniți cu lăcomia de a fi în față. Așadar, dacă nu vă veți apleca sfatului din cer vă veți pierde locurile pe care stați de la voi dorire și zbatere, căci nu sunteți voi cei care să faceți bine acestui neam, care a tot picat în jos din pricina voastră de când voi stați peste el ca să nu pierdeți locurile de sus.
 
-Iară și iară vin spre voi și vă îndemn spre aplecare. Stau deasupra cu străbunii cei sfinţi ai neamului român şi care lucrează de sus pentru vindecarea ranelor acestui neam.
+Iară și iară vin spre voi și vă îndemn spre aplecare. Stau deasupra cu străbunii cei sfinți ai neamului român și care lucrează de sus pentru vindecarea ranelor acestui neam.
 
-E veghe cerească peste tot pe pământul român. Se luptă deasupra oştirile cereşti pentru ridicarea şi slava acestui neam. Când cei de pe pământ nu vor, vin cei din cer şi pot ei, poate Dumnezeu şi oştile de sfinţi, iar ispita se va stinge căci poate Dumnezeu. Amin.
+E veghe cerească peste tot pe pământul român. Se luptă deasupra oștirile cerești pentru ridicarea și slava acestui neam. Când cei de pe pământ nu vor, vin cei din cer și pot ei, poate Dumnezeu și oștile de sfinți, iar ispita se va stinge căci poate Dumnezeu. Amin.
 
-În zi de praznic sfânt pentru ierarhul Nicolae am grăit iar şi iar cuvântul Meu deasupra pământului român şi a fost aşezat în cartea sa.
+În zi de praznic sfânt pentru ierarhul Nicolae am grăit iar și iar cuvântul Meu deasupra pământului român și a fost așezat în cartea sa.
 
-Pace ţie, neam român! Grăirea Mea cea pentru tine stă mereu deasupra ta şi te veghează şi dă în lături piedicile şi merge Domnul şi biruieşte prin cuvânt şi prin puterea Sa, numai să-Mi fie scris cuvântul.[/legatura_la_teme]
+Pace ție, neam român! Grăirea Mea cea pentru tine stă mereu deasupra ta și te veghează și dă în lături piedicile și merge Domnul și biruiește prin cuvânt și prin puterea Sa, numai să-Mi fie scris cuvântul.[/legatura_la_teme]
 
 [legatura_la_teme id_capitol="5" id_subcapitol="6"]O, merge Domnul, merge și lucrează cu cuvântul. Mergi și tu, popor al cuvântului Meu, mergi și mărturisește cuvântul Meu acolo unde el este trimis, căci tu Îmi ești martor.
 

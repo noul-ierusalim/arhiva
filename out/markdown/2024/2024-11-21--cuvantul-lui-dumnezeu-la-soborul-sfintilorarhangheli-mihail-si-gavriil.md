@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1723.mp3
 audio_file: 24.11.21.mp3
 ---
 
-Vine Domnul pe pământ cuvânt, însoţit de cetele îngereşti şi de puterile cereşti şi de sfinţii Săi în zeci de mii.
+Vine Domnul pe pământ cuvânt, însoțit de cetele îngerești și de puterile cerești și de sfinții Săi în zeci de mii.
 
 Vine Domnul însoțit de îngerul Său, Mihail arhanghelul.
 

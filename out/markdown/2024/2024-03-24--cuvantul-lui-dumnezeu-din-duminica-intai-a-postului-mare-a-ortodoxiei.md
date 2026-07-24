@@ -70,7 +70,7 @@ Acum, așez numele Meu pe epistola aceasta și va merge ea prin puterea Mea pest
 
 Sunt Domnul Iisus Hristos, Cuvântul lui Dumnezeu peste pământ. Amin.
 
-Şi Mă aplec acum şi mulţumesc ca un Păstor celor din cetatea cuvântului Meu, care Mi-au scris în carte cuvântul cel din ziua aceasta din duminica ortodoxiei.
+Și Mă aplec acum și mulțumesc ca un Păstor celor din cetatea cuvântului Meu, care Mi-au scris în carte cuvântul cel din ziua aceasta din duminica ortodoxiei.
 
 Pace vouă, fiilor veghetori! Am venit, iar voi Mi-ați așezat cuvântul în carte. Binecuvântat să fie mersul peste pământ al acestui cuvânt, și binecuvântată primirea lui și puterea lui peste mulți, că mulți au inimă pregătită să primească și să creadă că Domnul vine și grăiește și Se face crezut și primit.
 

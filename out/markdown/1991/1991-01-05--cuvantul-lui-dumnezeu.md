@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Şi voi aduce Noul Ierusalim şi Noul Canaan, şi toţi vor trăi viaţă fericită sub conducere dumnezeiască. Veţi vedea mari minuni, veţi vedea îngeri şi feţe cereşti dând slavă Preasfintei Treimi, împreună cu cei curaţi de pe pământ.[/legatura_la_teme]
+[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Și voi aduce Noul Ierusalim și Noul Canaan, și toți vor trăi viață fericită sub conducere dumnezeiască. Veți vedea mari minuni, veți vedea îngeri și fețe cerești dând slavă Preasfintei Treimi, împreună cu cei curați de pe pământ.[/legatura_la_teme]

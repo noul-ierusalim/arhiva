@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a cincea după Sfintele Paşti, a Samarinencei"
+title: "Cuvântul lui Dumnezeu din Duminica a cincea după Sfintele Paști, a Samarinencei"
 date: 2020-05-17
 year: 2020
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1517

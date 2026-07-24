@@ -8,28 +8,28 @@ audio:
 audio_file: 
 ---
 
-... Deosebiţi viaţa pământească de cea duhovnicească. Iubiţi-vă ca sfinţii părinţi. Nu purtaţi hăinuţa pe dos. Dacă cineva o întoarce pe dos şi cineva îi spune s-o întoarcă pe faţă, întoarce-o. Nu vă faceţi necredincioşi lucrând lucru păcătos.
+... Deosebiți viața pământească de cea duhovnicească. Iubiți-vă ca sfinții părinți. Nu purtați hăinuța pe dos. Dacă cineva o întoarce pe dos și cineva îi spune s-o întoarcă pe față, întoarce-o. Nu vă faceți necredincioși lucrând lucru păcătos.
 
-... O, tată, n-am iubit pe nimeni, nici pe îngeri, nici pe sfinţii din ceruri cum te-am iubit pe tine astăzi. Te-am dezmierdat în toate şi ţi-am iertat toate. Mă judecă sfinţii că prea mult te-am iubit şi niciodată nu ţi-am dat pedeapsă.
+... O, tată, n-am iubit pe nimeni, nici pe îngeri, nici pe sfinții din ceruri cum te-am iubit pe tine astăzi. Te-am dezmierdat în toate și ți-am iertat toate. Mă judecă sfinții că prea mult te-am iubit și niciodată nu ți-am dat pedeapsă.
 
-Nu vezi că stau în dreapta şi în stânga şi în spate şi în faţă nenumărate şi nevăzute păcate? Cum poţi să le înduri? Eu aş fi fugit de mult şi Mi-aş fi făcut locuinţă în văzduh, dar tu iubeşti aceste păcate. Adevărat grăiesc că mulţi se vor pedepsi prin păcatele copiilor şi mulţi se vor pedepsi prin păcatele lor, că veţi vedea cu ochii voştri şi veţi simţi şi cu trupul, şi cu duhul durerile acestei lumi.
+Nu vezi că stau în dreapta și în stânga și în spate și în față nenumărate și nevăzute păcate? Cum poți să le înduri? Eu aș fi fugit de mult și Mi-aș fi făcut locuință în văzduh, dar tu iubești aceste păcate. Adevărat grăiesc că mulți se vor pedepsi prin păcatele copiilor și mulți se vor pedepsi prin păcatele lor, că veți vedea cu ochii voștri și veți simți și cu trupul, și cu duhul durerile acestei lumi.
 
-... Cine de la Mine a plecat în lume, cu lumea va pieri. Chiar de ar vrea să se întoarcă atunci la Mine, nu se va mai primi, că nu numai o dată i s-a spus. Pentru păcat, uşor va fi iertat, dar pentru că M-a urât şi nu M-a ascultat să se despartă de păcat, pentru aceasta nu va fi iertat.
+... Cine de la Mine a plecat în lume, cu lumea va pieri. Chiar de ar vrea să se întoarcă atunci la Mine, nu se va mai primi, că nu numai o dată i s-a spus. Pentru păcat, ușor va fi iertat, dar pentru că M-a urât și nu M-a ascultat să se despartă de păcat, pentru aceasta nu va fi iertat.
 
-... Mai e un pas până la necaz şi vei lupta cu arma din gura ta şi din inima ta şi nimeni nu va vedea această armă că e în inima ta. Creştine, nu te lega de lume, că niciodată n-a fost dracul împuternicit ca acum. Şi te rog, iubeşte mana care-ţi dă putere, cel puţin de trei ori pe săptămână, că e tămăduitoare.
+... Mai e un pas până la necaz și vei lupta cu arma din gura ta și din inima ta și nimeni nu va vedea această armă că e în inima ta. Creștine, nu te lega de lume, că niciodată n-a fost dracul împuternicit ca acum. Și te rog, iubește mana care-ți dă putere, cel puțin de trei ori pe săptămână, că e tămăduitoare.
 
-[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Nu vă descoperiţi nici pe voi, nici mărgăritarele de la voi, că dracul s-a îmbrăcat şi în haine de argat, şi de cerşetor, şi de împărat, şi de manipulant, şi în haină de preot, şi în haine sfinte.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]... Nu vă descoperiți nici pe voi, nici mărgăritarele de la voi, că dracul s-a îmbrăcat și în haine de argat, și de cerșetor, și de împărat, și de manipulant, și în haină de preot, și în haine sfinte.[/legatura_la_teme]
 
-[legatura_la_teme id_capitol="3" id_subcapitol="4"]... Copilaşii Mei, se îmbracă duhurile rele în veşminte sfinte. Fiţi credincioşi, că e greu de crezut ca duhul necurat să ia veşminte sfinte pe trupul său. Dar Eu vă spun că le ia, că e vremea pustietăţii. Când preotul a plecat în locul necurat, la mare, duhul rău ia veşmintele şi face slujbă, ca să întărească lucrarea diavolească.[/legatura_la_teme]
+[legatura_la_teme id_capitol="3" id_subcapitol="4"]... Copilașii Mei, se îmbracă duhurile rele în veșminte sfinte. Fiți credincioși, că e greu de crezut ca duhul necurat să ia veșminte sfinte pe trupul său. Dar Eu vă spun că le ia, că e vremea pustietății. Când preotul a plecat în locul necurat, la mare, duhul rău ia veșmintele și face slujbă, ca să întărească lucrarea diavolească.[/legatura_la_teme]
 
-... Credinţa să nu se ştirbească din inimile voastre, că umilinţa s-a ştirbit din inimile voastre. Am mai cerut purtare cuviincioasă şi nu vreţi să împliniţi, şi vor plânge şi pământul, şi pietrele de sub picioarele voastre când Domnul va lua din casa ta pe Duhul Său. Veniţi-vă în fire! Copilaşii Mei, ce fac Eu când vin la voi, şi ce faceţi voi după plecarea Mea?!
+... Credința să nu se știrbească din inimile voastre, că umilința s-a știrbit din inimile voastre. Am mai cerut purtare cuviincioasă și nu vreți să împliniți, și vor plânge și pământul, și pietrele de sub picioarele voastre când Domnul va lua din casa ta pe Duhul Său. Veniți-vă în fire! Copilașii Mei, ce fac Eu când vin la voi, și ce faceți voi după plecarea Mea?!
 
-... Nu-Mi mai vine să vă mai las nici pâine să mâncaţi, că se frământă cu mâinile şi cu vasele necurate. Şi zic: faceţi-vă pâine şi aluat şi mâncaţi hrană curată, pentru că am văzut multe mijloace necurate. Dacă vreţi, faceţi-vă şi preparaţi-vă să aveţi voi făcut în cuptor, şi ţineţi tainic aceasta. Faceţi-vă tot ce vă trebuie pentru hrană în casele voastre. Cine nu are pomi, să-şi pună, ca să nu mai cumpere fructe.
+... Nu-Mi mai vine să vă mai las nici pâine să mâncați, că se frământă cu mâinile și cu vasele necurate. Și zic: faceți-vă pâine și aluat și mâncați hrană curată, pentru că am văzut multe mijloace necurate. Dacă vreți, faceți-vă și preparați-vă să aveți voi făcut în cuptor, și țineți tainic aceasta. Faceți-vă tot ce vă trebuie pentru hrană în casele voastre. Cine nu are pomi, să-și pună, ca să nu mai cumpere fructe.
 
-... Interzis să faci bucate cu mâinile nespălate! Până acum v-am îngăduit, dar acum s-a apropiat împărăţia Mea şi nu se mai poate îngădui, că Domnul va sta la masa ta şi va frânge pâinea.
+... Interzis să faci bucate cu mâinile nespălate! Până acum v-am îngăduit, dar acum s-a apropiat împărăția Mea și nu se mai poate îngădui, că Domnul va sta la masa ta și va frânge pâinea.
 
-... Vor călători călătorii cu avioanele, cu trenurile, şi Domnul le va deschide uşa şi vor lua apă ca să-şi potolească setea şi vor vedea minunea care s-a făcut în acest loc şi cu acest duh.
+... Vor călători călătorii cu avioanele, cu trenurile, și Domnul le va deschide ușa și vor lua apă ca să-și potolească setea și vor vedea minunea care s-a făcut în acest loc și cu acest duh.
 
-... Au ieşit oameni care dau binecuvântare la băuturi îmbătătoare. Feriţi-vă de aceştia.
+... Au ieșit oameni care dau binecuvântare la băuturi îmbătătoare. Feriți-vă de aceștia.
 
-... Fiilor, în patul vasului Meu nu are voie să doarmă femeia care are bărbat sau bărbatul care are femeie; decât numai văduvele şi copiii care nu sunt întinaţi, şi fiicele fecioare.
+... Fiilor, în patul vasului Meu nu are voie să doarmă femeia care are bărbat sau bărbatul care are femeie; decât numai văduvele și copiii care nu sunt întinați, și fiicele fecioare.

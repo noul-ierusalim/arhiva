@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu de Sfintele Paşti, ziua a treia"
+title: "Cuvântul lui Dumnezeu de Sfintele Paști, ziua a treia"
 date: 2016-05-03
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1317

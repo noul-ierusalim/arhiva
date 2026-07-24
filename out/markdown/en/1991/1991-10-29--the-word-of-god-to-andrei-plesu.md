@@ -1,5 +1,5 @@
 ---
-title: "The Word of God to Andrei Pleşu"
+title: "The Word of God to Andrei Pleșu"
 date: 1991-10-29
 year: 1991
 lang: en

@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="2" id_subcapitol="5"]... Să se caute calendarele vechi, ca să se vadă cum se ţin cu adevărat sărbătorile. Să vă luaţi după Ceasloave, că acelea au mai rămas după voia Domnului. În calendar scriu comuniştii ce vor ei.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="5"]... Să se caute calendarele vechi, ca să se vadă cum se țin cu adevărat sărbătorile. Să vă luați după Ceasloave, că acelea au mai rămas după voia Domnului. În calendar scriu comuniștii ce vor ei.[/legatura_la_teme]

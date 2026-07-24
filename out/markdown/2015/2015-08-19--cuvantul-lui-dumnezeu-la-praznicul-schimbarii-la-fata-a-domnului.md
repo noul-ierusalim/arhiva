@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Schimbării la faţă a Domnului"
+title: "Cuvântul lui Dumnezeu la Praznicul Schimbării la față a Domnului"
 date: 2015-08-19
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1282

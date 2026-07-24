@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a cincea după Paşti, a samarinencei"
+title: "Cuvântul lui Dumnezeu din Duminica a cincea după Paști, a samarinencei"
 date: 2016-05-29
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1322

@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica Înfricoşatei Judecăţi"
+title: "Cuvântul lui Dumnezeu din Duminica Înfricoșatei Judecăți"
 date: 2016-03-06
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1306

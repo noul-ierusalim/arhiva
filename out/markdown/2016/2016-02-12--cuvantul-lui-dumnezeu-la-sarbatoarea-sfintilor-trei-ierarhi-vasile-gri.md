@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea sfinţilor trei ierarhi: Vasile, Grigorie şi Ioan"
+title: "Cuvântul lui Dumnezeu la sărbătoarea sfinților trei ierarhi: Vasile, Grigorie și Ioan"
 date: 2016-02-12
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1302

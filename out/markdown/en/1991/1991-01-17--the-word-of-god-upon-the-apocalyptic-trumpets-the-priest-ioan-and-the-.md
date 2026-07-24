@@ -1,5 +1,5 @@
 ---
-title: "The word of God upon the apocalyptic trumpets: the priest Ioan and the nun Veronica from Vladimireşti"
+title: "The word of God upon the apocalyptic trumpets: the priest Ioan and the nun Veronica from Vladimirești"
 date: 1991-01-17
 year: 1991
 lang: en
@@ -49,7 +49,7 @@ My loved ones be true apostles, by My apostles, by the apostles of My Romania, f
 
 My loved ones be My true sons, as I am the true Son of My Father.
 
-I have got this loved child *(The bishop Irineu-Bistriţeanul, r.n.)* through whom I will work out a clean, new and eternal church. I have put My spirits; I have put those seven godly spirits upon him, who prophet Isaiah, My prophet, prophesied about; the one who spoke for Me. I put My spirits in him. You take as well and work together with him; work well with him for he knows from Me and has the good power upon him, the power which is working out power, and behold, I will be well pleased with him for My church from the end and no one could thwart My establish-ments, and who can break down what I do? But hide the secret of My spring, My loved ones, My apostles, My servants, you that I do not forget, and behold, you that now are not separated from Me. Work to do My wills with all the love that I also worked, and put aside that mercy which is harmful for the soul and for the salvation of My creature; and let My creature not turn back to the carobs of the sins, for who dies again, dies and is over with him, and is put aide.
+I have got this loved child *(The bishop Irineu-Bistrițeanul, r.n.)* through whom I will work out a clean, new and eternal church. I have put My spirits; I have put those seven godly spirits upon him, who prophet Isaiah, My prophet, prophesied about; the one who spoke for Me. I put My spirits in him. You take as well and work together with him; work well with him for he knows from Me and has the good power upon him, the power which is working out power, and behold, I will be well pleased with him for My church from the end and no one could thwart My establish-ments, and who can break down what I do? But hide the secret of My spring, My loved ones, My apostles, My servants, you that I do not forget, and behold, you that now are not separated from Me. Work to do My wills with all the love that I also worked, and put aside that mercy which is harmful for the soul and for the salvation of My creature; and let My creature not turn back to the carobs of the sins, for who dies again, dies and is over with him, and is put aide.
 
 Peace to you that are not separated from Me! Peace and a spirit of resurrection over the peoples! Peace and heavenly life in you, for I tell you the truth: he who is not born of the heaven, will not be with the heaven, whoever he may be.
 

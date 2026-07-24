@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="4" id_subcapitol="5"]... Strigaţi cu inimi fierbinţi să se limpezească bine burniţa, să vină soarele dreptăţii şi al libertăţii, să vină mângâierea şi să vă puteţi pregăti fără frică, să vină conducătorul pe care-l vrea Dumnezeu.[/legatura_la_teme]
+[legatura_la_teme id_capitol="4" id_subcapitol="5"]... Strigați cu inimi fierbinți să se limpezească bine burnița, să vină soarele dreptății și al libertății, să vină mângâierea și să vă puteți pregăti fără frică, să vină conducătorul pe care-l vrea Dumnezeu.[/legatura_la_teme]

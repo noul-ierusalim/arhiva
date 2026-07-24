@@ -8,8 +8,8 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Preoţimea nu ştie că aici se clădeşte Ierusalimul cel nou. Acum el e ascuns; nu vreau să-l dau pe faţă. E aşa cum ai începe o casă, şi cei ce au început lucrul s-au îmbolnăvit, şi am făcut rost de alţi lucrători şi tot îl termin.[/legatura_la_teme] Atunci n-aţi văzut că vrăjmaşul era între voi şi bătea din palme când am luat trâmbiţa Mea.
+[legatura_la_teme id_capitol="4" id_subcapitol="2"]... Preoțimea nu știe că aici se clădește Ierusalimul cel nou. Acum el e ascuns; nu vreau să-l dau pe față. E așa cum ai începe o casă, și cei ce au început lucrul s-au îmbolnăvit, și am făcut rost de alți lucrători și tot îl termin.[/legatura_la_teme] Atunci n-ați văzut că vrăjmașul era între voi și bătea din palme când am luat trâmbița Mea.
 
-... S-au descoperit prin lucrarea Mea moaştele sfântului Ioan Botezătorul şi s-a făcut întrebarea la cei ce stau mari dacă-l primesc în ţară, dar nu s-a dat răspunsul. E trupul fără cap, cum l-au îngropat când i-au tăiat capul. Maica Mea strigă ca să fie primit în România. Cine l-o primi, acela are scăpare. E ca un bulgăre de aur. Nu vă spun unde e. Rugaţi-vă ca să fie primit în România. Rugaţi-vă ca România să primească moaştele naşului Mântuitorului.
+... S-au descoperit prin lucrarea Mea moaștele sfântului Ioan Botezătorul și s-a făcut întrebarea la cei ce stau mari dacă-l primesc în țară, dar nu s-a dat răspunsul. E trupul fără cap, cum l-au îngropat când i-au tăiat capul. Maica Mea strigă ca să fie primit în România. Cine l-o primi, acela are scăpare. E ca un bulgăre de aur. Nu vă spun unde e. Rugați-vă ca să fie primit în România. Rugați-vă ca România să primească moaștele nașului Mântuitorului.
 
-... Vine clipa să vă deosebească Dumnezeu de lumea aceasta. Tată, o să vină clipa să vă împarfumez cu miresme cereşti, să mirosiţi de la distanţă, şi voi face minuni cu voi, dar staţi de partea Mea.
+... Vine clipa să vă deosebească Dumnezeu de lumea aceasta. Tată, o să vină clipa să vă împarfumez cu miresme cerești, să mirosiți de la distanță, și voi face minuni cu voi, dar stați de partea Mea.

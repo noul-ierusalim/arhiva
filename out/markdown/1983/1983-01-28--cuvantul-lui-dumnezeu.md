@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="2" id_subcapitol="6"]... S-a umplut pământul de secte care săvârşesc fapte în afară de voia Domnului. Aceste secte care au lăsat calea cea dreaptă vor sta de vorbă cu Dreptul Judecător. Nu mai e mult, şi aceste secte care umblă pe căi rătăcite, în afară de calea dreaptă a poporului creştin-ortodox, acestea vor fi date pe faţă şi se vor numi îngerii lui antichrist.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="6"]... S-a umplut pământul de secte care săvârșesc fapte în afară de voia Domnului. Aceste secte care au lăsat calea cea dreaptă vor sta de vorbă cu Dreptul Judecător. Nu mai e mult, și aceste secte care umblă pe căi rătăcite, în afară de calea dreaptă a poporului creștin-ortodox, acestea vor fi date pe față și se vor numi îngerii lui antichrist.[/legatura_la_teme]

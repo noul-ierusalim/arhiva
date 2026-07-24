@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a şasea a Postului Mare, a Floriilor. Praznicul Intrării Domnului în Ierusalim"
+title: "Cuvântul lui Dumnezeu din Duminica a șasea a Postului Mare, a Floriilor. Praznicul Intrării Domnului în Ierusalim"
 date: 2016-04-24
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1314

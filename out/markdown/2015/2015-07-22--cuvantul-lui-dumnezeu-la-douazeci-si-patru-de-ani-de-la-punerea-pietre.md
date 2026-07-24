@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la douăzeci şi patru de ani de la punerea pietrei de temelie a Sfintei Sfintelor Noului Ierusalim"
+title: "Cuvântul lui Dumnezeu la douăzeci și patru de ani de la punerea pietrei de temelie a Sfintei Sfintelor Noului Ierusalim"
 date: 2015-07-22
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1279

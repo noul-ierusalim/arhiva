@@ -34,7 +34,7 @@ Ne așezăm, Verginica Mea, Ne așezăm cu toții la masă cu ei în ziua ta de 
 
 *— O, fie, Doamne, plin de putere cuvântul Tău acum, și pe veci de veci, căci vorbești cu putere, Doamne, și fericiți trebuie să fie cei ce ascultă și împlinesc cuvântul Tău cu toată credința și până la sfârșit! Le-aș dori această fericire la toți cei care au aflat cuvântul venirii Tale de la Tatăl acum, o, dar mulți n-au fost fericiți când ai dat să-i mustri pentru neîmplinirea cuvântului Tău și Te-au părăsit și au părăsit această fericire, bieții de ei, căci trufia este diavol greu de urnit din mintea omului, și nu știe omul cât de mic ar fi să se știe și să se vrea față în față cu Domnul și cu orice semen, cu orice vietate, Doamne.*
 
-*Tu i-ai ales ai Tăi pe cei mici, nu pe cei buni şi mari. L-ai ales pe David de la oi şi l-ai aşezat împărat peste poporul Tău şi nu i-ai luat pe fraţii lui cei mari şi buni, ci pe cel mic l-ai luat şi l-ai aşezat pe tronul Tău de domnie peste poporul Tău, Doamne.*
+*Tu i-ai ales ai Tăi pe cei mici, nu pe cei buni și mari. L-ai ales pe David de la oi și l-ai așezat împărat peste poporul Tău și nu i-ai luat pe frații lui cei mari și buni, ci pe cel mic l-ai luat și l-ai așezat pe tronul Tău de domnie peste poporul Tău, Doamne.*
 
 *Ai venit acum două mii de ani și n-ai ales nimic pentru Tine dintre cei mari și buni, o, și Te-ai dus pe malul apei și Ți-ai făcut ucenici pescari, nu oameni învățați sau școliți, o, nu.*
 
@@ -62,4 +62,4 @@ Ne așezăm, Verginica Mea, Ne așezăm cu toții la masă cu ei în ziua ta de 
 
 Fiilor, fiilor, avem de adus pe masă de cuvânt lămuriri mari cu tot întregul lor, căci Eu, Domnul, prin acest popor am de împlinit o mulțime de minuni prin ascultare și în lumină, și de aceea avem și tot avem de făcut așezări și ascultare apoi, că voiesc să biruiesc mai curând pe satana și duhul îngâmfării de pe pământ, și iată, vă cer lucrători cu toți cei care Îmi stau aproape Mie și vouă, ca să întărim împlinirea cuvântului Meu, fiilor.
 
-Şi acum binecuvintez mersul Meu cu voi şi prin voi pe mai departe sub grija Mea de voi, căci suntem la capătul filelor Scripturii și așteaptă Domnul cu raiul, așteaptă raiul la hotar, o, fiilor. Amin, amin, amin.
+Și acum binecuvintez mersul Meu cu voi și prin voi pe mai departe sub grija Mea de voi, căci suntem la capătul filelor Scripturii și așteaptă Domnul cu raiul, așteaptă raiul la hotar, o, fiilor. Amin, amin, amin.

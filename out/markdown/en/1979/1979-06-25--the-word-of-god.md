@@ -13,7 +13,7 @@ audio_file:
 
 *… The end is coming, but first of all the end of the drunkards is coming, of the fornicators, of the smokers, of the betrayers and robbers.*
 
-*… When the ruler Ceauşescu passes, the ones in the world stand and cry hosannas to him. If an earthly man has these hosannas, then how much more a Christian will be greeted by the holy heaven.*
+*… When the ruler Ceaușescu passes, the ones in the world stand and cry hosannas to him. If an earthly man has these hosannas, then how much more a Christian will be greeted by the holy heaven.*
 
 *… My little children think, where will you be when the Lord moves all His breath from heaven to the earth? Many of you will be in your body and many will get into the grave. But you need to know that many will not rise from the grave.*
 

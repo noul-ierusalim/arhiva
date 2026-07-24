@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="1" id_subcapitol="6"]... Decât ar mânca omul carne de pe piaţă ca să se spurce, mai bine ar mânca pâine cu ceapă. Pe sfântul Ilie îl hrăneam cu hrană din cer, că îi trimiteam corbii şi îl hrăneam cu pâine şi cu carne, dar era din cer. Atunci se tăiau junci, miei pentru jertfele lui Dumnezeu. Acum nu mai aduce nimeni nici o jertfă şi nici viaţă plăcută lui Dumnezeu nu se mai aduce, şi de aceea nu mai e primită nici o jertfă.[/legatura_la_teme]
+[legatura_la_teme id_capitol="1" id_subcapitol="6"]... Decât ar mânca omul carne de pe piață ca să se spurce, mai bine ar mânca pâine cu ceapă. Pe sfântul Ilie îl hrăneam cu hrană din cer, că îi trimiteam corbii și îl hrăneam cu pâine și cu carne, dar era din cer. Atunci se tăiau junci, miei pentru jertfele lui Dumnezeu. Acum nu mai aduce nimeni nici o jertfă și nici viață plăcută lui Dumnezeu nu se mai aduce, și de aceea nu mai e primită nici o jertfă.[/legatura_la_teme]

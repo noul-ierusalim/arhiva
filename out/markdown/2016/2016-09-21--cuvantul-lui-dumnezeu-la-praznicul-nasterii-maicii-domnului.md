@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la praznicul Naşterii Maicii Domnului"
+title: "Cuvântul lui Dumnezeu la praznicul Nașterii Maicii Domnului"
 date: 2016-09-21
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1340

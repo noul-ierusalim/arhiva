@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica întâi după Rusalii, a tuturor sfinţilor"
+title: "Cuvântul lui Dumnezeu din Duminica întâi după Rusalii, a tuturor sfinților"
 date: 2015-06-07
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1276
@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1276.mp3
 audio_file: 15.06.07.mp3
 ---
 
-Cobor cu cetele de sfinţi deasupra cetăţii cuvântului Meu din mijlocul neamului român, că e sărbătoarea lor, și sunt ei în alai cu multă măreție în ziua aceasta și trec prin fața tronului Domnului cete-cete atâta de frumos, și e mare bucuria lor în ziua lor de serbare laolaltă toți, și se înfățișează rând pe rând, aducând Domnului iubirea lor și toată mărirea.
+Cobor cu cetele de sfinți deasupra cetății cuvântului Meu din mijlocul neamului român, că e sărbătoarea lor, și sunt ei în alai cu multă măreție în ziua aceasta și trec prin fața tronului Domnului cete-cete atâta de frumos, și e mare bucuria lor în ziua lor de serbare laolaltă toți, și se înfățișează rând pe rând, aducând Domnului iubirea lor și toată mărirea.
 
 O, dacă pe pământ e atâta de măreț când în fața comandantului de oști trec rânduri-rânduri cetele de ostași ai țării în zi de sărbătoare pentru țară, și-și îndulcesc de la ei privirea și gustul inimii toți cei care se adună să vadă această măreață frumusețe și ordine atât de așezată, o, cu cât mai mult măreți sunt cei din cer, oștirile cerești, unde este numai și numai slavă de nedescris, și trec rânduri-rânduri în ziua lor de slavă cetele de sfinți pe dinaintea slavei Domnului, și iată serbarea tuturor sfinților Mei, cu care Eu, Domnul, cobor în această zi și merg înaintea lor între cer și pământ, și se cutremură vrăjmașii cei din iad cu toate cetele lor când văd pe Domnul Biruitorul cu cetele Sale triumfând sus și jos, aducând tot mai aproape ziua cea mare și cântările ei de biruință asupra războiului dat de satana sfinților Domnului.
 

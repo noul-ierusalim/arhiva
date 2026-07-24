@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica a treia după Sfintele Paşti, a mironosiţelor"
+title: "Cuvântul lui Dumnezeu din Duminica a treia după Sfintele Paști, a mironosițelor"
 date: 2016-05-15
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1320
@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1320.mp3
 audio_file: 16.05.15.mp3
 ---
 
-În cer şi pe pământ e sărbătoare dulce, și e dulce bucuria celor din cer. Eu, Domnul lor Cel iubit, Domnul Cel înviat dintre morți, le văd bucuria toată, le văd dorul și le văd așteptarea și-i iau cu Mine pe pământ la sărbătoarea cea pentru ei, pentru cei care au suferit odată cu Mine și s-au bucurat apoi odată cu Mine, odată toți ne-am bucurat în ziua Mea de înviere și de mângâiere pentru ei. Bucurie multă și-au strâns în inimi toți, și toți și-au vestit unii altora și tuturora toți apoi și au strigat: Hristos a înviat! Hristos a înviat! Hristos a înviat! Le dau înapoi și Eu vestirea cea mare. Cu drag și cu duioșie spun și Eu ca și ei: Hristos a înviat!
+În cer și pe pământ e sărbătoare dulce, și e dulce bucuria celor din cer. Eu, Domnul lor Cel iubit, Domnul Cel înviat dintre morți, le văd bucuria toată, le văd dorul și le văd așteptarea și-i iau cu Mine pe pământ la sărbătoarea cea pentru ei, pentru cei care au suferit odată cu Mine și s-au bucurat apoi odată cu Mine, odată toți ne-am bucurat în ziua Mea de înviere și de mângâiere pentru ei. Bucurie multă și-au strâns în inimi toți, și toți și-au vestit unii altora și tuturora toți apoi și au strigat: Hristos a înviat! Hristos a înviat! Hristos a înviat! Le dau înapoi și Eu vestirea cea mare. Cu drag și cu duioșie spun și Eu ca și ei: Hristos a înviat!
 
 Voi, scumpii Mei, voi, iubiții Mei, care M-ați iubit și M-ați urmat până la cruce, și în vremea purtării crucii apoi, și până la învierea Mea suferind pentru Mine, voi, care ați suferit de mila Mea, Eu, Domnul, vă sărbătoresc acum, în ziua voastră de pomenire între sfinți, și pe care cei din cer o știu la locul ei în a treia duminică de după învierea Mea, după rânduiala cea din părinții sfinți. O, bucurați-vă, fiilor scumpi, apostoli și apostolițe mironosițe, și tu, mama Mea durută lângă ei și lângă ele pentru suferința Mea cea atât de umilitoare pentru Mine și pentru voi, iubiții Mei, dar plină de iubire pentru voi, și pentru tot neamul creștinesc apoi, de la voi și până azi și până mâine, că dor Îmi este de iubire, dor Îmi este să iubesc și să am cui să dau iubirea Mea toată, o, scumpii Mei.
 
@@ -22,7 +22,7 @@ O, vă cuprind în salutul învierii Mele, fiilor adunați la hrana Mea de cuvâ
 
 O, măi fiilor, viața cu Domnul pe cale nu trebuie s-o piardă omul, ci trebuie s-o trăiască. A scris odată mai demult un poet român și a spus semenilor săi așa: *„Oricât de amărâți să fim, nu-i bine să ne dezlipim de Cel ce viețile ne-a dat. O fi ea viața chin răbdat, dar una știm: ea ni s-a dat ca s-o trăim”.*
 
-O, am să cobor într-o zi o veste de parastas și voi așeza aici pentru slujitorii Mei slujbă de pomenire pentru toți cei scriși de istoria neamului român bărbați mari, cu suflet și cu fapte mari pentru Dumnezeu și pentru patria lor, iar ei vor avea bucurie mare cu Mine în ziua aceea, și curând, curând ne vom așeza aici pentru această măreață pomenire, iar cei din cer vor serba pe cei din neamul român între ei, și care au adus jertfa lor de iubire de țară și de neam înaintea Mea, și mare este în cer țara și taina neamului român, cu care-Şi apropie Domnul biruința Sa.
+O, am să cobor într-o zi o veste de parastas și voi așeza aici pentru slujitorii Mei slujbă de pomenire pentru toți cei scriși de istoria neamului român bărbați mari, cu suflet și cu fapte mari pentru Dumnezeu și pentru patria lor, iar ei vor avea bucurie mare cu Mine în ziua aceea, și curând, curând ne vom așeza aici pentru această măreață pomenire, iar cei din cer vor serba pe cei din neamul român între ei, și care au adus jertfa lor de iubire de țară și de neam înaintea Mea, și mare este în cer țara și taina neamului român, cu care-Și apropie Domnul biruința Sa.
 
 O, hai, scumpii Mei, hai, fiilor sărbătoriți, hai, voi, ucenici și ucenițe ale învierii Mele, că e zi de iubire și de mângâiere această zi. Vă binecuvintez grăirea, fiilor. Un cuvânt toți să fiți, iubiții Mei. În cartea iubirii Mele de azi se așează acum grăirea voastră lângă a Mea și toți ne mângâiem și mângâiem, iar mângâierea înseamnă sărbătoare, o, fiilor. Amin.
 

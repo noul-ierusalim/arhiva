@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la Praznicul Înălţării Sfintei Cruci"
+title: "Cuvântul lui Dumnezeu la Praznicul Înălțării Sfintei Cruci"
 date: 2024-09-27
 year: 2024
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1719
@@ -38,4 +38,4 @@ Eu sunt de jur-împrejur cu pază cerească și cu întărire peste voi, fiilor.
 
 O, pace vouă, fiilor! Cu pace să lucrați pe mai departe lucrul și locul de la Maluri, căci Eu, Domnul, vă împrospătez puterile și am grijă să se împlinească frumos toată lucrarea de acolo.
 
-Vă mângâi inimioarele întristate, că sunteți triști, fiilor, și sunteți ca Mine. Când Domnul este trist, voi nu puteţi fi altfel, dar mergem, sub cruce mergem, iar crucea ne mângâie şi ne va mângâia, o, fiilor. Amin, amin. amin.
+Vă mângâi inimioarele întristate, că sunteți triști, fiilor, și sunteți ca Mine. Când Domnul este trist, voi nu puteți fi altfel, dar mergem, sub cruce mergem, iar crucea ne mângâie și ne va mângâia, o, fiilor. Amin, amin. amin.

@@ -56,7 +56,7 @@ Voi, fiilor care-Mi credeți cuvântul, luptați-vă împotriva duhului pierzăt
 
 Căutați să vă fie bine primită rugăciunea și suflet frumos să aveți pentru statura voastră înaintea Mea, fiilor. Cei mult păcătoși au știut cum să se roage și le-a fost ascultată rugăciunea și au iertat și le-a fost și lor iertat. Iar dacă Israel a prigonit pe fratele său, a căzut în robie grea apoi, și în vreme de durere s-au căit fiii lui Israel și M-au strigat să-i iert, și au fost ascultați și au fost iertați și dezrobiți apoi, iar altfel e slabă rugăciunea, e fără putere strigarea la cer.
 
-Ziua naşterii Mele a fost taină mare, căci am venit să Mă fac cunoscut și să-i dau ajutor celui care Mă va cunoaște. Așa lucrez mereu, că milă Îmi este mereu, și am de sprijin pe mama Mea Fecioara și Ne mângâiem în dureri.
+Ziua nașterii Mele a fost taină mare, căci am venit să Mă fac cunoscut și să-i dau ajutor celui care Mă va cunoaște. Așa lucrez mereu, că milă Îmi este mereu, și am de sprijin pe mama Mea Fecioara și Ne mângâiem în dureri.
 
 O, mama Mea, mamă Fecioară, e praznicul Nostru, mamă. Suntem aici în cetate cu sfinții, suntem cu cerul aici, mama Mea.
 

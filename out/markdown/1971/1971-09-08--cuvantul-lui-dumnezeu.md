@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-[legatura_la_teme id_capitol="2" id_subcapitol="4"]... Israele, am anunţat sfârşitul vasului Meu, dar chiar dacă va muri, să ştiţi că tot cu voi va fi.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="4"]... Israele, am anunțat sfârșitul vasului Meu, dar chiar dacă va muri, să știți că tot cu voi va fi.[/legatura_la_teme]

@@ -39,7 +39,7 @@ Oh, My people, get used to a heavenly glory to stay on earth and to give Me life
 
 We come back again into the book and we will grow heavenly, but the Lord does not have to be forgotten afterwards, My people.
 
-[legatura_la_teme id_capitol="5" id_subcapitol="6"]Sprinkle with the grace of holiness the sign of the holy cross, anointed sons, the cross by which you are sealing today with My name so that it may be set as a guard above the city of Târgovişte, to protect by its power the spirit of the wisdom of the people, the bodies cleansed from sin, the minds which have the gift to see My coming to you for the salvation of many and for the resurrection, sons. Amen.[/legatura_la_teme]
+[legatura_la_teme id_capitol="5" id_subcapitol="6"]Sprinkle with the grace of holiness the sign of the holy cross, anointed sons, the cross by which you are sealing today with My name so that it may be set as a guard above the city of Târgoviște, to protect by its power the spirit of the wisdom of the people, the bodies cleansed from sin, the minds which have the gift to see My coming to you for the salvation of many and for the resurrection, sons. Amen.[/legatura_la_teme]
 
 We will work with the Holy Spirit and we will gladden the spirit of My Mother Virgin for her day of celebration, and we will wait again into the book and then we give the whole day to the Father, and we will write within the heavenly things on earth with you, sons, and we will learn the mystery of the heavenly homeland on the earth. Amen, amen, amen.
 

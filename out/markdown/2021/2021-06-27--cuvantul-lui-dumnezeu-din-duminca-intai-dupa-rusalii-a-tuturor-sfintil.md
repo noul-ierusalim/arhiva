@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminca întâi după Rusalii, a Tuturor Sfinţilor și pomenirea Nașterii Sfintei Virginia, Trâmbița lui Dumnezeu"
+title: "Cuvântul lui Dumnezeu din Duminca întâi după Rusalii, a Tuturor Sfinților și pomenirea Nașterii Sfintei Virginia, Trâmbița lui Dumnezeu"
 date: 2021-06-27
 year: 2021
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1573
@@ -60,7 +60,7 @@ Grăiesc cu voi, măi fiilor. O, are și omul nevoie de grăire între el și se
 
 *Și acum ai Tu grijă să așezi cartea de azi în carte și să întărești lucrul cuvântului Tău de azi, iar eu mă închin, Doamne, și Îți mulțumesc!*
 
-— O, Verginica Mea, avem de suferit durere de duh de la neîmplinirile celor ce aud pe Domnul și nu se aleg cu totul în toată dragostea și în slujba sfințeniei de duh, de suflet și de trup, și mulți sunt slabi cu iubirea și cu împlinirea, și aceasta spre bucuria vrăjmașului satana, pe care l-aș vrea biruit curând, cât mai curând, o, dar nu sunt ajutat de cei pe care i-aş vrea izbăviţi de răul care vine și tot vine peste cei răi, iar satana caută și cel mai mic rău să-l scrie și să pedepsească cu el peste tot, o, și caută și la acest popor ca să-l despartă de Dumnezeu prin neîmpliniri ale cuvântului cel de sus venit.
+— O, Verginica Mea, avem de suferit durere de duh de la neîmplinirile celor ce aud pe Domnul și nu se aleg cu totul în toată dragostea și în slujba sfințeniei de duh, de suflet și de trup, și mulți sunt slabi cu iubirea și cu împlinirea, și aceasta spre bucuria vrăjmașului satana, pe care l-aș vrea biruit curând, cât mai curând, o, dar nu sunt ajutat de cei pe care i-aș vrea izbăviți de răul care vine și tot vine peste cei răi, iar satana caută și cel mai mic rău să-l scrie și să pedepsească cu el peste tot, o, și caută și la acest popor ca să-l despartă de Dumnezeu prin neîmpliniri ale cuvântului cel de sus venit.
 
 Acum, fiilor, întăriți-vă din duhul învățăturii și rugați pe Dumnezeu pentru dragoste în cei puțini cu dragostea din ei![/legatura_la_teme]
 

@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu din Duminica întâi a Postului Mare, a dreptei credinţe"
+title: "Cuvântul lui Dumnezeu din Duminica întâi a Postului Mare, a dreptei credințe"
 date: 2017-03-05
 year: 2017
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1362

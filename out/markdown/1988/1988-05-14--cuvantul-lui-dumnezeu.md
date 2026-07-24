@@ -8,8 +8,8 @@ audio:
 audio_file: 
 ---
 
-... Dragostea ta e cuiul cel mai dârz, care răzbate prin orice şi răzbeşte în orice.
+... Dragostea ta e cuiul cel mai dârz, care răzbate prin orice și răzbește în orice.
 
-[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Întotdeauna să ţii seama de fărâmiţa din trupul Celui ce Şi-a întins mâinile pe cruce. Întotdeauna să nu bagi altă hrană în tine înainte de sfânta anafură, care este de la Mine. Să ai în casă întotdeauna. Nu da nimic trupului tău până nu-i dai mai întâi hrană duhovnicească. Atunci înseamnă că Îl ai pe Dumnezeu.[/legatura_la_teme]
+[legatura_la_teme id_capitol="6" id_subcapitol="3"]... Întotdeauna să ții seama de fărâmița din trupul Celui ce Și-a întins mâinile pe cruce. Întotdeauna să nu bagi altă hrană în tine înainte de sfânta anafură, care este de la Mine. Să ai în casă întotdeauna. Nu da nimic trupului tău până nu-i dai mai întâi hrană duhovnicească. Atunci înseamnă că Îl ai pe Dumnezeu.[/legatura_la_teme]
 
-... Nu mai vreau să ţin pământul pentru tineretul de azi. Pământul nu e creat de satana. El a creat numai durere şi amar. Durere aduce în toate. Păi să-l iubeşti cât de mult, şi tot în foc te duce. Asta e plata lui: te desparte de binele tău şi te duce în foc. Nu mai are cine să spună. De aceea am făcut această minune, să vin din cer să vă spun de ce să vă feriţi.
+... Nu mai vreau să țin pământul pentru tineretul de azi. Pământul nu e creat de satana. El a creat numai durere și amar. Durere aduce în toate. Păi să-l iubești cât de mult, și tot în foc te duce. Asta e plata lui: te desparte de binele tău și te duce în foc. Nu mai are cine să spună. De aceea am făcut această minune, să vin din cer să vă spun de ce să vă feriți.

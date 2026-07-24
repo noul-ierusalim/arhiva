@@ -8,9 +8,9 @@ audio: https://noul-ierusalim.ro/audio/1690.mp3
 audio_file: 24.03.10.mp3
 ---
 
-Intră Domnul în cetate şi în carte, iar străjerii să deschidă Domnului! Amin.
+Intră Domnul în cetate și în carte, iar străjerii să deschidă Domnului! Amin.
 
-Hai, fiilor! Sunt deasupra cu puterile cereşti, care Mă însoţesc, şi sunt cu sfinţii în cete-cete şi-Mi fac venirea cea scrisă în Scripturile care spun: *«Vine Domnul cu zecile de mii de sfinţi!».*
+Hai, fiilor! Sunt deasupra cu puterile cerești, care Mă însoțesc, și sunt cu sfinții în cete-cete și-Mi fac venirea cea scrisă în Scripturile care spun: *«Vine Domnul cu zecile de mii de sfinți!».*
 
 Hai, hai să punem cuvânt pe masa de azi în cetate și să fie pe masă hrană pentru voi și pentru poporul cuvântului Meu și pentru cei ce Mă știu că vin la voi și-Mi țin ei calea când vin și iau de pe masă pentru ei ca să crească și în ei Domnul și împărăția Sa și voia lui Dumnezeu peste viața lor de zi cu zi, căci unde Eu deschid, Îmi fac intrarea și așez cerul și lucrările cele de sus și dragostea Mea în om și peste omul care crede în Mine și în venirea Mea cuvânt pe pământ, și nu mai merge să întrebe el pe cei morți dacă Eu sunt Cel ce grăiesc prin acest cuvânt de slavă de sus, căci cum ar putea cineva să creadă, dacă Eu nu deschid ca să intru și ca să grăiesc și ca să Mă primească omul?
 

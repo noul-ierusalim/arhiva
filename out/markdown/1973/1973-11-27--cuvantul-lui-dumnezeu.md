@@ -8,28 +8,28 @@ audio:
 audio_file: 
 ---
 
-... Creştinilor, apropiaţi-vă de Mine, spălaţi-vă feţele, că vine vremea să păşiţi pe pământ sfânt. Toţi păcătoşii vor pieri. Vine pieirea, într-o clipeală de ochi vine moartea peste toţi. Numai cei ce nu s-au închinat la nici un fel de păcat vor scăpa.
+... Creștinilor, apropiați-vă de Mine, spălați-vă fețele, că vine vremea să pășiți pe pământ sfânt. Toți păcătoșii vor pieri. Vine pieirea, într-o clipeală de ochi vine moartea peste toți. Numai cei ce nu s-au închinat la nici un fel de păcat vor scăpa.
 
-Ierusalime, Capernaume, Israele, vei auzi trâmbiţele, şi când vei auzi, să ştii: chemarea ta va fi. Pentru unii va fi necaz mare, iar cei buni vor păşi pe scară cerească.
+Ierusalime, Capernaume, Israele, vei auzi trâmbițele, și când vei auzi, să știi: chemarea ta va fi. Pentru unii va fi necaz mare, iar cei buni vor păși pe scară cerească.
 
 Poporul Meu, am să vorbesc cu tine în limbă străină, că vor veni neamurile străine pe care tu nu le-ai cunoscut.
 
-[legatura_la_teme id_capitol="3" id_subcapitol="4"]... Spală-te bine de păcat, că mai e câte un preoţel care nu s-a închinat la idolii plini de păcat, care nu s-a închinat celui de azi, şi stă ascuns şi plânge pentru moartea de azi şi strigă la Mine din cămara sa: *„Mai e mult, Doamne?“.*[/legatura_la_teme]
+[legatura_la_teme id_capitol="3" id_subcapitol="4"]... Spală-te bine de păcat, că mai e câte un preoțel care nu s-a închinat la idolii plini de păcat, care nu s-a închinat celui de azi, și stă ascuns și plânge pentru moartea de azi și strigă la Mine din cămara sa: *„Mai e mult, Doamne?“.*[/legatura_la_teme]
 
-... Să crezi, mamă şi tată, cu adevărat să crezi că vei pierde copilul şi tânăra din casă. Îi vei pierde prin neascultare, că te uiţi la ei şi nu te înduri să-i dojeneşti sau să-i baţi când se găsesc cu haina de mişel, că ţii la el mai mult ca la Mine. Ce vei da pentru păcatul acesta? O, n-ai voit să-l dojeneşti şi l-ai lăsat să se sinucidă.
+... Să crezi, mamă și tată, cu adevărat să crezi că vei pierde copilul și tânăra din casă. Îi vei pierde prin neascultare, că te uiți la ei și nu te înduri să-i dojenești sau să-i bați când se găsesc cu haina de mișel, că ții la el mai mult ca la Mine. Ce vei da pentru păcatul acesta? O, n-ai voit să-l dojenești și l-ai lăsat să se sinucidă.
 
-... O, creştine tânăr şi bătrân, consultaţi-vă bine viaţa, ca să nu cădeţi în focul care se deschide pe pământ. Cât e pământul în lung şi în lat, tot va fi un foc, o mare de foc. Totul va arde, şi în văzduh, şi în apă. Se va aprinde de la tine, care porţi ţigara în gură. Daniele, să te urci sus, la înălţime şi să te uiţi că toţi au ţigara în gură. Cine va mătura coşul acesta?
+... O, creștine tânăr și bătrân, consultați-vă bine viața, ca să nu cădeți în focul care se deschide pe pământ. Cât e pământul în lung și în lat, tot va fi un foc, o mare de foc. Totul va arde, și în văzduh, și în apă. Se va aprinde de la tine, care porți țigara în gură. Daniele, să te urci sus, la înălțime și să te uiți că toți au țigara în gură. Cine va mătura coșul acesta?
 
-Copilaşii Mei, pentru ce aţi făcut din gură şi din gât şi din piept, gură de fum? Nu-ţi mai arde gura, tată, că toate se vor ierta, dar aceasta nu se va ierta, că nimeni nu te va scăpa. Mândria i-a cuprins pe toţi ca să fumeze, şi bărbaţi, şi femei. Uitaţi-vă bine, căci ce e azi în lume, e pieirea acestei lumi, căci ce săvârşeşte omul, nu a fost de când e veacul. Ce e azi! Ce e azi! Grabnic aduce focul şi judecata!
+Copilașii Mei, pentru ce ați făcut din gură și din gât și din piept, gură de fum? Nu-ți mai arde gura, tată, că toate se vor ierta, dar aceasta nu se va ierta, că nimeni nu te va scăpa. Mândria i-a cuprins pe toți ca să fumeze, și bărbați, și femei. Uitați-vă bine, căci ce e azi în lume, e pieirea acestei lumi, căci ce săvârșește omul, nu a fost de când e veacul. Ce e azi! Ce e azi! Grabnic aduce focul și judecata!
 
-... Copilaşii Mei care am stat cu voi, ruşinos este ca să pieriţi, după cât dar aţi avut, ruşinos este. Te va vedea cerul, îngerii şi sfinţii că vei pieri. Sunt sfinţi şi îngeri în cer care n-au avut parte de ce aţi avut voi. Ei s-au făcut ascultători citind din carte, nu ca tine, care stai de vorbă cu Mine. Te porţi după moda din lume. Mi-e ruşine să stau de vorbă cu tine, că ai moda din lume.
+... Copilașii Mei care am stat cu voi, rușinos este ca să pieriți, după cât dar ați avut, rușinos este. Te va vedea cerul, îngerii și sfinții că vei pieri. Sunt sfinți și îngeri în cer care n-au avut parte de ce ați avut voi. Ei s-au făcut ascultători citind din carte, nu ca tine, care stai de vorbă cu Mine. Te porți după moda din lume. Mi-e rușine să stau de vorbă cu tine, că ai moda din lume.
 
-... Copilaşii Mei, mult sânge am pierdut pentru voi şi mult M-am ostenit şi am suferit pentru voi, dar tu nu suferi pentru Mine un sfert de zi de foame. Eu am spus să posteşti, şi voi nu postiţi, că ziceţi că postiţi pentru Mine. Şi veţi posti fără voie, că pâinea pe care o mănânci acum când trebuia să posteşti, o aveai atunci.
+... Copilașii Mei, mult sânge am pierdut pentru voi și mult M-am ostenit și am suferit pentru voi, dar tu nu suferi pentru Mine un sfert de zi de foame. Eu am spus să postești, și voi nu postiți, că ziceți că postiți pentru Mine. Și veți posti fără voie, că pâinea pe care o mănânci acum când trebuia să postești, o aveai atunci.
 
-... Maica Domnului o să măture tot ce e rău pe vatra acestei ţări. Cine este cu Mine, acela va rămâne. Poporul lui Dumnezeu va moşteni, că vizitatorii străini au văzut ce este în România, şi sub pat ştie ce are, şi abia aşteaptă s-o prade, că nelegiuitul va fi ars, şi apoi ţărâna din el spulberată de vânt şi dată afară de pe acest pământ. Aţi auzit?
+... Maica Domnului o să măture tot ce e rău pe vatra acestei țări. Cine este cu Mine, acela va rămâne. Poporul lui Dumnezeu va moșteni, că vizitatorii străini au văzut ce este în România, și sub pat știe ce are, și abia așteaptă s-o prade, că nelegiuitul va fi ars, și apoi țărâna din el spulberată de vânt și dată afară de pe acest pământ. Ați auzit?
 
-... O, fiica Domnului Iisus care ai ascultat acest cuvânt, ţi se cade să nu ţi se vadă călcâiul, dar tu te porţi goală şi zici că eşti creştină, şi apoi te superi dacă cineva îţi spune. Şi Eu Mă supăr pe tine, că Mi-e ruşine de cer, că niciodată n-aţi fost atât de neascultători şi goi. Te găteşti să placi unui bărbat, dar Mie când te găteşti să-Mi placi?
+... O, fiica Domnului Iisus care ai ascultat acest cuvânt, ți se cade să nu ți se vadă călcâiul, dar tu te porți goală și zici că ești creștină, și apoi te superi dacă cineva îți spune. Și Eu Mă supăr pe tine, că Mi-e rușine de cer, că niciodată n-ați fost atât de neascultători și goi. Te gătești să placi unui bărbat, dar Mie când te gătești să-Mi placi?
 
-... Din anul 1948, prima lucrare am făcut-o prin acest vas când am dus-o prin grădinile cereşti.
+... Din anul 1948, prima lucrare am făcut-o prin acest vas când am dus-o prin grădinile cerești.
 
-... Cât o clipeală de ochi mai e, şi se descoperă păcatul pe care l-ai făcut la întuneric.
+... Cât o clipeală de ochi mai e, și se descoperă păcatul pe care l-ai făcut la întuneric.

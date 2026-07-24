@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la praznicul Naşterii Domnului"
+title: "Cuvântul lui Dumnezeu la praznicul Nașterii Domnului"
 date: 2016-01-07
 year: 2016
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1297
@@ -8,7 +8,7 @@ audio: https://noul-ierusalim.ro/audio/1297.mp3
 audio_file: 16.01.07.mp3
 ---
 
-Cântarea îngerilor naşterii Mele în Betleem cântă deasupra ieslei cuvântului Meu din această vreme în mijlocul neamului român, cântă îngerașii colind de naștere și slava lui Dumnezeu, care s-a arătat ca să fie mărturisită apoi pe pământ și să vestească ea venirea Domnului, a Fiului Celui Preaînalt, născut din pântece de Fecioară acum două mii de ani.
+Cântarea îngerilor nașterii Mele în Betleem cântă deasupra ieslei cuvântului Meu din această vreme în mijlocul neamului român, cântă îngerașii colind de naștere și slava lui Dumnezeu, care s-a arătat ca să fie mărturisită apoi pe pământ și să vestească ea venirea Domnului, a Fiului Celui Preaînalt, născut din pântece de Fecioară acum două mii de ani.
 
 O, slavă lui Dumnezeu, slavă întru cei de sus și întru cei de jos, slavă și pace și bunăvoire între cei plăcuți Lui, căci celor ce nu le place cu Dumnezeu au alte iubiri, alte petreceri, alte cântări și alt veșmânt, dacă mai au ceva veșmânt, dar Eu, Domnul, Eu, și cei plăcuți Mie sunt cei ce se fac plăcuți celor din cer, și tot așa și petrec, cu cei din cer petrec ei pe pământ.
 

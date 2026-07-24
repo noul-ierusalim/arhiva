@@ -8,4 +8,4 @@ audio:
 audio_file: 
 ---
 
-... Prin această vorbire vă are Domnul cel mai ales popor român creştin. Să fiţi un altar de viaţă pilduitoare. Acest petec de pământ să fie un loc de jertfă mântuitoare în slujba mântuirii tuturor ce vor călca aici, pe locul acesta. [legatura_la_teme id_capitol="2" id_subcapitol="4"]Pe Verginica am pregătit-o pentru ca să trâmbiţeze întreaga Apocalipsă, pentru pregătirea judecăţii de apoi şi pentru pregătirea creştinilor din vremurile din urmă şi de acum.[/legatura_la_teme]
+... Prin această vorbire vă are Domnul cel mai ales popor român creștin. Să fiți un altar de viață pilduitoare. Acest petec de pământ să fie un loc de jertfă mântuitoare în slujba mântuirii tuturor ce vor călca aici, pe locul acesta. [legatura_la_teme id_capitol="2" id_subcapitol="4"]Pe Verginica am pregătit-o pentru ca să trâmbițeze întreaga Apocalipsă, pentru pregătirea judecății de apoi și pentru pregătirea creștinilor din vremurile din urmă și de acum.[/legatura_la_teme]

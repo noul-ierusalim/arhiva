@@ -1,5 +1,5 @@
 ---
-title: "The Word of God to the Bishop Basil of Târgovişte"
+title: "The Word of God to the Bishop Basil of Târgoviște"
 date: 1991-12-04
 year: 1991
 lang: en

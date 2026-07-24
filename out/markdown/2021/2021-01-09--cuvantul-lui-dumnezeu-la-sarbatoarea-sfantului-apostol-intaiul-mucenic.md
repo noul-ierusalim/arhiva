@@ -30,9 +30,9 @@ Am coborât din cer acum două mii de ani, am coborât Copil, Prunc mic ca să c
 
 O, cine să aibă pe pământ grijă de oile Mele? Mi-e milă, Mi-e tare milă de ele și am venit de la Tatăl după ele, am venit să le fiu Păstor, să le port de grijă, căci păstorii de oi trăiesc pe picior mare, huzuresc pe tronuri moi, se dau mari, cruzi, bagă teamă în oițe, le iau laptele și lâna și atât, cer mereu să li se tot dea, cer să-și facă palate și tronuri și stau pe spinarea oițelor trudite pentru ei, o, și se mai miră, de pe tronurile lor se miră de oile sfâșiate și rătăcite prin spini de colo-colo în căutarea unui păstor pentru ele, dar nu-și găsesc, decât fățărnicie, îngâmfare găsesc, iar milă nu, și nu știu ele că nu găsesc pe nicăieri pentru ele oricât ar căuta cu nădejde vreo milă.
 
-O, vin Eu cu mila, vin Eu, că e vremea să vin să le miluiesc, să-Mi adun oile și să-Mi las glasul peste ele şi să Mă cunoască după glas şi să fie vindecate de mila Mea de Păstor al lor, o, şi tot mai mult voi avea grijă să fiu în mijlocul lor şi să se audă glasul Meu peste pământ, iar când ele sunt prinse printre spini şi ciulini să vină la Mine să le curăţ, să le pansez ranele, să le port pe braţe, să le iau în spate şi să le duc la izvorul Meu cel dulce şi plin de viaţă pentru oi.
+O, vin Eu cu mila, vin Eu, că e vremea să vin să le miluiesc, să-Mi adun oile și să-Mi las glasul peste ele și să Mă cunoască după glas și să fie vindecate de mila Mea de Păstor al lor, o, și tot mai mult voi avea grijă să fiu în mijlocul lor și să se audă glasul Meu peste pământ, iar când ele sunt prinse printre spini și ciulini să vină la Mine să le curăț, să le pansez ranele, să le port pe brațe, să le iau în spate și să le duc la izvorul Meu cel dulce și plin de viață pentru oi.
 
-Fiilor, fiilor, au pus lacăte pe bisericuţe şi plâng oile Mele. O, cum să nu vin la ele? Cum să stau cu cei din cer când oile plâng şi-şi caută păstori care să le poarte de grijă?
+Fiilor, fiilor, au pus lacăte pe bisericuțe și plâng oile Mele. O, cum să nu vin la ele? Cum să stau cu cei din cer când oile plâng și-și caută păstori care să le poarte de grijă?
 
 Fiilor, fiilor, n-au primit păstorii care-și au turmele lor, n-au primit preoții cuvântul Meu de peste voi și de peste ei, că mult le-am grăit și lor, și v-am spus să le trimiteți și lor ca să știe că le grăiesc și lor.
 

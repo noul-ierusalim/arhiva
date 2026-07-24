@@ -19,6 +19,6 @@ Daniel son, the man has bought the demon. Keep in mind! Daniel, the man has boug
 
 Oh, what grace God gave you! He gave you a coat of king. What a beautiful coat the Christian is wearing today! But if he drinks, the little coat is not his anymore, and the demon that undressed the Lord at Golgotha gets him undressed too and divides his little coat as he divided the coat of the Lord, to mock My work.
 
-Keep in mind, son; Ceauşescu dies, and the communists die. Keep this whisper hidden. Until it happens do not say anything. After he dies you can speak. And there is no need to know how he dies. *(Executed at the Revolution in 25.12.1989, r.n.)* No one will escape. You do not know; you are littlish, tiny.
+Keep in mind, son; Ceaușescu dies, and the communists die. Keep this whisper hidden. Until it happens do not say anything. After he dies you can speak. And there is no need to know how he dies. *(Executed at the Revolution in 25.12.1989, r.n.)* No one will escape. You do not know; you are littlish, tiny.
 
 … Cry on the way, for this will come to you: *„My God, my God do not forsake us and come as soon as possible, for your people want You to come into Your house, to talk about the spiritual ones.”*

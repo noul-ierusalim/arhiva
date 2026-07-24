@@ -1,5 +1,5 @@
 ---
-title: "Cuvântul lui Dumnezeu la sărbătoarea Naşterii sfântului Ioan Botezătorul"
+title: "Cuvântul lui Dumnezeu la sărbătoarea Nașterii sfântului Ioan Botezătorul"
 date: 2015-07-07
 year: 2015
 source_url: https://noul-ierusalim.ro/index1.php?pg=look&cheie=1277

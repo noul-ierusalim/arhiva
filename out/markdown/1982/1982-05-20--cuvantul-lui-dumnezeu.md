@@ -8,8 +8,8 @@ audio:
 audio_file: 
 ---
 
-... O, dacă pe toată lumea de pe faţa pământului ar câştiga-o Domnul, câtă bucurie ar fi în cerul sfânt! Ar coborî Domnul cu toată slava Lui pe pământ. Cât e de întinată lumea de azi cu tot felul de păcate, dacă ar părăsi toate păcatele şi s-ar întoarce la Domnul, ar şterge Domnul tot, numai s-o scape de iad şi de muncile cele veşnice. O, cât de milos şi de îndurător este Domnul şi cum Se uită la Măicuţa Lui, care se roagă să mai amâie de azi pe mâine pieirea lumii!
+... O, dacă pe toată lumea de pe fața pământului ar câștiga-o Domnul, câtă bucurie ar fi în cerul sfânt! Ar coborî Domnul cu toată slava Lui pe pământ. Cât e de întinată lumea de azi cu tot felul de păcate, dacă ar părăsi toate păcatele și s-ar întoarce la Domnul, ar șterge Domnul tot, numai s-o scape de iad și de muncile cele veșnice. O, cât de milos și de îndurător este Domnul și cum Se uită la Măicuța Lui, care se roagă să mai amâie de azi pe mâine pieirea lumii!
 
-... Fiţi ascunşi, să nu vindeţi aceste scrisori, că sunt de sus, de la Domnul, nu din mormânt, de la morţi. Cine va vinde, va cădea în osânda lui Iuda Iscarioteanul.
+... Fiți ascunși, să nu vindeți aceste scrisori, că sunt de sus, de la Domnul, nu din mormânt, de la morți. Cine va vinde, va cădea în osânda lui Iuda Iscarioteanul.
 
-[legatura_la_teme id_capitol="1" id_subcapitol="4"]... Acest acoperământ al meu, unde v-am lăsat eu, este şi va fi ca un obiect sfânt în care Şi-a făcut Domnul lucrarea, şi vă va fi de mare folos, aşa cum i-a fost lui Noe corabia, dacă veţi lucra după voia lui Dumnezeu.[/legatura_la_teme]
+[legatura_la_teme id_capitol="1" id_subcapitol="4"]... Acest acoperământ al meu, unde v-am lăsat eu, este și va fi ca un obiect sfânt în care Și-a făcut Domnul lucrarea, și vă va fi de mare folos, așa cum i-a fost lui Noe corabia, dacă veți lucra după voia lui Dumnezeu.[/legatura_la_teme]

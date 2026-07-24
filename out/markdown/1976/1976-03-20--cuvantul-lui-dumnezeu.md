@@ -8,14 +8,14 @@ audio:
 audio_file: 
 ---
 
-... Vom ajunge să purtăm trâmbiţa cu targa, pentru că e plină de suferinţă, căci suferinţa nu se ia, ci se dă, căci creştinul pune durerea pe ea cu lopata, şi va fi aceasta spre judecată.
+... Vom ajunge să purtăm trâmbița cu targa, pentru că e plină de suferință, căci suferința nu se ia, ci se dă, căci creștinul pune durerea pe ea cu lopata, și va fi aceasta spre judecată.
 
-... Domnul Iisus Hristos a coborât din cerul sfânt pe acest pământ, nu cu trupul, ci cu Duhul. Domnul cutreieră pământul în lung şi în lat şi lucrează. Prin cuvânt grăieşte peste pământ, şi fericit cine a auzit şi a păstrat acest cuvânt. Cum merge banul din mână în mână, aşa merg cuvintele acestei profeţii în gurile duşmanilor călăi. Vai de acela care a pierdut acest cuvânt! că acela nu va intra întru împărăţia Mea, adică cine a avut şi l-a vândut. O, rămăşiţa unui popor blagoslovit de Domnul Iisus Hristos! O, rămăşiţă, fiţi cuminţi! Până acum aţi umblat şi aţi scris tot ceea ce aţi auzit. Până acum v-a călăuzit cuvântul acesta sfânt, dar acum vă spun: puneţi toate bine, că afară e vreme rea pentru voi, şi bună pentru cei răi. E vremea plăcerilor, a călăilor şi a vânzătorilor.
+... Domnul Iisus Hristos a coborât din cerul sfânt pe acest pământ, nu cu trupul, ci cu Duhul. Domnul cutreieră pământul în lung și în lat și lucrează. Prin cuvânt grăiește peste pământ, și fericit cine a auzit și a păstrat acest cuvânt. Cum merge banul din mână în mână, așa merg cuvintele acestei profeții în gurile dușmanilor călăi. Vai de acela care a pierdut acest cuvânt! că acela nu va intra întru împărăția Mea, adică cine a avut și l-a vândut. O, rămășița unui popor blagoslovit de Domnul Iisus Hristos! O, rămășiță, fiți cuminți! Până acum ați umblat și ați scris tot ceea ce ați auzit. Până acum v-a călăuzit cuvântul acesta sfânt, dar acum vă spun: puneți toate bine, că afară e vreme rea pentru voi, și bună pentru cei răi. E vremea plăcerilor, a călăilor și a vânzătorilor.
 
-... Eu voiesc să fie la Mine zece dintre voi, că am avut sute şi mii, dar nădăjduiesc că zece voi avea. Domnul Iisus nu mai stă pe pământ, Se ridică. Îmi pare rău de grâul Meu şi Îmi pare rău de munca Mea, că puţin am să câştig.
+... Eu voiesc să fie la Mine zece dintre voi, că am avut sute și mii, dar nădăjduiesc că zece voi avea. Domnul Iisus nu mai stă pe pământ, Se ridică. Îmi pare rău de grâul Meu și Îmi pare rău de munca Mea, că puțin am să câștig.
 
-[legatura_la_teme id_capitol="6" id_subcapitol="2"]... Mai avem un pic şi vom ieşi şi vom controla pământul acesta şi în lung şi în lat şi veţi vedea ce nu au văzut ochii voştri. Bolnavii se vor face sănătoşi; orbii vor vedea; ciungii, cu mâinile lor vor lucra.[/legatura_la_teme]
+[legatura_la_teme id_capitol="6" id_subcapitol="2"]... Mai avem un pic și vom ieși și vom controla pământul acesta și în lung și în lat și veți vedea ce nu au văzut ochii voștri. Bolnavii se vor face sănătoși; orbii vor vedea; ciungii, cu mâinile lor vor lucra.[/legatura_la_teme]
 
-... Nu mai e profeţie, pentru că nu ştie creştinul s-o ţină, dar dacă vei fi credincios ca Ilie din pustie, Domnul îţi va da. Apă de vei cere, îţi voi da. Foc de vei cere, îţi voi da, ca să vadă păcătoşii.
+... Nu mai e profeție, pentru că nu știe creștinul s-o țină, dar dacă vei fi credincios ca Ilie din pustie, Domnul îți va da. Apă de vei cere, îți voi da. Foc de vei cere, îți voi da, ca să vadă păcătoșii.
 
-[legatura_la_teme id_capitol="2" id_subcapitol="3"]... Plângeţi, că sunt hotărâţi oamenii de sus să închidă bisericile şi să trimită preoţii la serviciu, şi la mulţi preoţi le va părea bine.[/legatura_la_teme]
+[legatura_la_teme id_capitol="2" id_subcapitol="3"]... Plângeți, că sunt hotărâți oamenii de sus să închidă bisericile și să trimită preoții la serviciu, și la mulți preoți le va părea bine.[/legatura_la_teme]
