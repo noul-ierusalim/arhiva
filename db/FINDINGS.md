@@ -1,6 +1,6 @@
 # Phase 2 target analysis — from `dump_dcsannmy_WPLTV.sql`
 
-Loaded the live WordPress DB (prefix `Bwr_`) into `wp.sqlite` via
+Loaded the live WordPress DB (prefix `Bwr_`) into `db/wp.sqlite` via
 `dump_to_sqlite.py` and queried it. This is what the target actually looks like.
 
 ## 1. What's already migrated: a recent-only pilot
@@ -103,7 +103,7 @@ strategy (B) requires replicating that escaping.
    **unquoted** attributes; audio → separate audio block with `…/uploads/yy.mm.dd.mp3`.
 4. Resolve the italics encoding before generating the ~1,691 older messages.
 
-_Reproduce:_ `python3 dump_to_sqlite.py dump_dcsannmy_WPLTV.sql wp.sqlite`, then query `wp.sqlite`.
+_Reproduce:_ `python3 db/dump_to_sqlite.py dump_dcsannmy_WPLTV.sql`, then query `db/wp.sqlite`.
 
 ## 7. Generator prototype (`md_to_wxr.py`) — validated, with one blocker found
 

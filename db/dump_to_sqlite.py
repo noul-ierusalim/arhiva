@@ -7,11 +7,16 @@ Robust against mysqldump quirks: extended INSERTs (many tuples per statement),
 backslash escapes (\\', \\n, \\\\, ...), and literal newlines inside string
 values. Parses char-by-char, not line-by-line.
 
-Usage:  python3 dump_to_sqlite.py dump_dcsannmy_WPLTV.sql wp.sqlite
+Usage:  python3 db/dump_to_sqlite.py dump_dcsannmy_WPLTV.sql   # writes db/wp.sqlite
 """
+import os
 import re
 import sqlite3
 import sys
+
+# The SQLite DB lives beside this script, in db/. Anchor to __file__ so the
+# default output is db/wp.sqlite regardless of the working directory.
+DB_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Tables to import (without prefix). Prefix is auto-detected.
 WANT = {
@@ -143,7 +148,7 @@ def _parse_string(sql: str, i: int):
 
 def main():
     src = sys.argv[1] if len(sys.argv) > 1 else "dump_dcsannmy_WPLTV.sql"
-    dst = sys.argv[2] if len(sys.argv) > 2 else "wp.sqlite"
+    dst = sys.argv[2] if len(sys.argv) > 2 else os.path.join(DB_DIR, "wp.sqlite")
 
     with open(src, "r", encoding="utf-8", errors="replace") as f:
         sql = f.read()

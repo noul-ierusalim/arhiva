@@ -5,7 +5,7 @@ Phase 1: crawl a year archive and write one Markdown file per message.
 Stdlib only. Raw HTML is cached under cache/ so re-runs don't re-hit the server.
 
 Usage:
-    python3 csni_extract.py --k 86 --year 2026
+    python3 scripts/csni_extract.py --k 86 --year 2026
 """
 import argparse
 import html
@@ -17,9 +17,13 @@ import urllib.request
 
 BASE = "https://noul-ierusalim.ro/"
 UA = "csni-migrate/0.1 (archive migration; contact bogdan@grozoiu.com)"
-CACHE = "cache"
-OUT = "out/markdown"
-OUT_AUDIO = "out/audio"
+# Data dirs live at the repo root; this script sits in scripts/ (one level down),
+# so anchor every path to the root via __file__ — the crawl works from any CWD.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CACHE = os.path.join(ROOT, "cache")
+OUT = os.path.join(ROOT, "out", "markdown")
+OUT_AUDIO = os.path.join(ROOT, "out", "audio")
+LOGS = os.path.join(ROOT, "logs")  # crawl completion sentinel + failure log land here
 DELAY = 0.5  # seconds between live requests (politeness)
 
 
@@ -532,7 +536,8 @@ def crawl_all(do_audio):
 
         # Discoverable completion sentinel (survives a dropped session).
         n_mp3 = sum(len(files) for _, _, files in os.walk(OUT_AUDIO))
-        with open("CRAWL_DONE.txt", "w", encoding="utf-8") as f:
+        os.makedirs(LOGS, exist_ok=True)
+        with open(os.path.join(LOGS, "CRAWL_DONE.txt"), "w", encoding="utf-8") as f:
             f.write(
                 f"done: {time.strftime('%Y-%m-%d %H:%M:%S')}\n"
                 f"years: {len(years)}\n"
@@ -542,10 +547,12 @@ def crawl_all(do_audio):
             )
 
     if failures:
-        with open("failures.log", "w", encoding="utf-8") as f:
+        os.makedirs(LOGS, exist_ok=True)
+        log_path = os.path.join(LOGS, "failures.log")
+        with open(log_path, "w", encoding="utf-8") as f:
             for kind, ident, year, err in failures:
                 f.write(f"{kind}\t{ident}\t{year}\t{err}\n")
-        print(f"{len(failures)} failures written to failures.log "
+        print(f"{len(failures)} failures written to {log_path} "
               f"(re-run to retry — cache resumes automatically)")
     else:
         print("No failures.")

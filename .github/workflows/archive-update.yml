@@ -34,14 +34,14 @@ jobs:
         run: |
           set -euo pipefail
           YEAR=$(date -u +%Y)
-          K=$(python3 -c "import csni_extract as c; print(dict(c.year_map()).get($YEAR, ''))")
+          K=$(PYTHONPATH=scripts python3 -c "import csni_extract as c; print(dict(c.year_map()).get($YEAR, ''))")
           if [ -z "$K" ]; then
             echo "Year $YEAR is not in the archive yet — nothing to do."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           echo "Extracting year $YEAR (k=$K)"
-          python3 csni_extract.py --k "$K" --year "$YEAR" --no-audio
+          python3 scripts/csni_extract.py --k "$K" --year "$YEAR" --no-audio
           echo "year=$YEAR" >> "$GITHUB_OUTPUT"
           if [ -n "$(git status --porcelain out/markdown)" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"

@@ -58,7 +58,7 @@ python3 db/md_to_wxr.py --file-list db/out/all_ro_files.txt \
   --site-url https://noulierusalim.ro       -o db/out/prod_ro_full.wxr
 
 # refresh the current year from the old site before regenerating, e.g. 2026:
-python3 csni_extract.py --k 86 --year 2026 --no-audio
+python3 scripts/csni_extract.py --k 86 --year 2026 --no-audio
 ```
 
 The wipe SQLs are produced by the inline template in the session history (category-scoped,

@@ -5,25 +5,29 @@ to the new **noulierusalim.ro** site (WordPress + Divi).
 
 ## Layout
 
-- `csni_extract.py` — the extractor (stdlib only, no third-party deps).
+- `scripts/csni_extract.py` — the extractor (stdlib only, no third-party deps).
+  `scripts/csni_extract_intl.py` — the EN/FR extractor (reuses the RO engine).
 - `cache/` — raw source HTML, one file per fetched page. The offline safety net; the
   extractor never re-hits the server for a page already here.
 - `out/markdown/<lang>/<year>/YYYY-MM-DD--slug.md` — one message per file, grouped by
   language (`ro`/`en`/`fr`; see frontmatter below).
 - `out/audio/<lang>/<year>/yy.mm.dd-<lang>.mp3` — recordings, per language (`ro`/`en`/`fr`;
   recent years only). Git-ignored (large).
+- `logs/` — crawl sentinels (`CRAWL_DONE*.txt`) and failure logs. The scripts anchor all
+  data paths (`cache/`, `out/`, `logs/`) to the repo root via `__file__`, so they run
+  correctly from any working directory.
 
 ## Commands
 
 ```bash
-python3 csni_extract.py --all                 # full crawl: text pass, then audio
-python3 csni_extract.py --all --no-audio      # text only
-python3 csni_extract.py --k 86 --year 2026    # single year (k = arhiva.html ?k= id)
+python3 scripts/csni_extract.py --all                 # full crawl: text pass, then audio
+python3 scripts/csni_extract.py --all --no-audio      # text only
+python3 scripts/csni_extract.py --k 86 --year 2026    # single year (k = arhiva.html ?k= id)
 ```
 
 Re-running is **idempotent and resumable**: cached HTML is skipped, existing MP3s are
 skipped, downloads are atomic (`.part` → rename). Interrupted? Just run `--all` again.
-Failures are logged to `failures.log`; completion writes `CRAWL_DONE.txt`.
+Failures are logged to `logs/failures.log`; completion writes `logs/CRAWL_DONE.txt`.
 
 ## Source structure
 

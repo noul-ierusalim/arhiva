@@ -23,10 +23,10 @@ The message `cheie` and year `k` numbers are a *separate* namespace per language
 to avoid collisions with the Romanian crawl.
 
 Usage:
-    python3 csni_extract_intl.py --all                 # EN + FR, text then audio
-    python3 csni_extract_intl.py --all --no-audio      # text only
-    python3 csni_extract_intl.py --lang en             # one language
-    python3 csni_extract_intl.py --lang fr --k 74      # single year (getfr ?k=)
+    python3 scripts/csni_extract_intl.py --all                 # EN + FR, text then audio
+    python3 scripts/csni_extract_intl.py --all --no-audio      # text only
+    python3 scripts/csni_extract_intl.py --lang en             # one language
+    python3 scripts/csni_extract_intl.py --lang fr --k 74      # single year (getfr ?k=)
 """
 import argparse
 import os
@@ -54,8 +54,12 @@ LANGS = {
     },
 }
 
-OUT = "out/markdown"
-OUT_AUDIO = "out/audio"
+# Data dirs live at the repo root; this script sits in scripts/ (one level down),
+# so anchor every path to the root via __file__ — the crawl works from any CWD.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT = os.path.join(ROOT, "out", "markdown")
+OUT_AUDIO = os.path.join(ROOT, "out", "audio")
+LOGS = os.path.join(ROOT, "logs")  # crawl completion sentinel + failure log land here
 
 
 def year_map(lang):
@@ -195,7 +199,8 @@ def crawl(langs, do_audio):
             for lang in langs
             for _, _, files in os.walk(os.path.join(OUT_AUDIO, lang))
         )
-        with open("CRAWL_DONE_INTL.txt", "w", encoding="utf-8") as f:
+        os.makedirs(LOGS, exist_ok=True)
+        with open(os.path.join(LOGS, "CRAWL_DONE_INTL.txt"), "w", encoding="utf-8") as f:
             f.write(
                 f"done: {time.strftime('%Y-%m-%d %H:%M:%S')}\n"
                 f"langs: {','.join(langs)}\n"
@@ -205,10 +210,12 @@ def crawl(langs, do_audio):
             )
 
     if failures:
-        with open("failures_intl.log", "w", encoding="utf-8") as f:
+        os.makedirs(LOGS, exist_ok=True)
+        log_path = os.path.join(LOGS, "failures_intl.log")
+        with open(log_path, "w", encoding="utf-8") as f:
             for kind, ident, where, err in failures:
                 f.write(f"{kind}\t{ident}\t{where}\t{err}\n")
-        print(f"{len(failures)} failures written to failures_intl.log "
+        print(f"{len(failures)} failures written to {log_path} "
               f"(re-run to retry — cache resumes automatically)")
     else:
         print("No failures.")
